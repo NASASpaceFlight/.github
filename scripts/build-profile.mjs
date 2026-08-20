@@ -373,7 +373,7 @@ function renderLaunches(launches) {
       const net = new Date(l.net);
       const site = [l.pad, l.location].filter(Boolean).join(", ");
       const name = esc(l.name || "Untitled mission");
-      const title = l.info_url ? `<a href="https://nextspaceflight.com/launches/details/7797/${l.id}">${name}</a>` : name;
+      const title = l.info_url ? `<a href="https://nextspaceflight.com/launches/details/${l.id}">${name}</a>` : name;
 
       const timeParts = [`<b>${dateUTC(net)}</b> &middot; ${timeUTC(net)} UTC`];
       if (l.window_open && l.window_close) {
