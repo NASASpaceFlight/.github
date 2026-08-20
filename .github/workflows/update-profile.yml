@@ -32,6 +32,7 @@ jobs:
       - name: Rebuild profile/README.md
         env:
           NEXTSPACEFLIGHT_API_URL: ${{ secrets.NEXTSPACEFLIGHT_API_URL }}
+          NEXTSPACEFLIGHT_STATUS_API_URL: ${{ secrets.NEXTSPACEFLIGHT_STATUS_API_URL }}
         run: node scripts/build-profile.mjs
 
       - name: Commit if anything changed

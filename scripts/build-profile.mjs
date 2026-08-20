@@ -12,7 +12,10 @@
  * never degrades because of one bad fetch.
  *
  * Env:
- *   NEXTSPACEFLIGHT_API_URL  (required for the launches section; store as a repo secret)
+ *   NEXTSPACEFLIGHT_API_URL         (required for the launches section; store as a repo secret)
+ *   NEXTSPACEFLIGHT_STATUS_API_URL  (optional; the launch status list that names and
+ *                                    colours the badges — falls back to the built-in
+ *                                    colours below when unset or unreachable)
  */
 
 import { readFile, writeFile } from "node:fs/promises";
@@ -261,7 +264,10 @@ async function fetchLaunches() {
   const apiUrl = process.env.NEXTSPACEFLIGHT_API_URL;
   if (!apiUrl) throw new Error("NEXTSPACEFLIGHT_API_URL is not set");
 
-  const body = await fetchText(apiUrl, { headers: { accept: "application/json" } });
+  const [body, statuses] = await Promise.all([
+    fetchText(apiUrl, { headers: { accept: "application/json" } }),
+    fetchStatuses(),
+  ]);
   const data = JSON.parse(body);
   if (!Array.isArray(data)) throw new Error("expected a JSON array of launches");
 
@@ -274,26 +280,91 @@ async function fetchLaunches() {
   return Promise.all(
     upcoming.map(async (l) => ({
       ...l,
+      resolvedStatus: resolveStatus(l.status, statuses),
       image: (await isUsableImage(l.vehicle_config_image)) ? l.vehicle_config_image : placeholder,
     }))
   );
 }
 
-const STATUS_COLORS = {
-  go: "2ea043",
-  success: "2ea043",
-  tbc: "d29922",
-  hold: "d29922",
+/**
+ * Last-resort badge colours, keyed the same way as the live status list. They
+ * only come into play when the status endpoint is unset or unreachable, so they
+ * cover both the names the launch feed has historically used (tbc, scrubbed)
+ * and the ones the endpoint publishes.
+ */
+const FALLBACK_STATUS_COLORS = {
+  tbddatetime: "6e7681",
+  tbdtime: "6e7681",
   tbd: "6e7681",
-  failure: "e5484d",
+  tbc: "d29922",
+  go: "2ea043",
+  hold: "d29922",
+  scrub: "e5484d",
   scrubbed: "e5484d",
+  inflight: "58a6ff",
+  success: "2ea043",
+  partialfailure: "d29922",
+  failure: "e5484d",
+  prelaunchfailure: "e5484d",
+  outcomepending: "6e7681",
 };
+
+/** Status ids and names are matched case- and punctuation-insensitively. */
+const statusKey = (value) => String(value).toLowerCase().replace(/[^a-z0-9]/g, "");
+
+/** shields.io takes a bare hex triplet, the endpoint publishes `#RRGGBB`. */
+const hexColor = (value) => /^#?([\da-f]{3}|[\da-f]{6})$/i.exec(String(value ?? "").trim())?.[1].toLowerCase() ?? "";
+
+/**
+ * The launch statuses live behind their own endpoint — id, display name and the
+ * colour Next Spaceflight uses for each state. Fail soft down to the built-in
+ * colours: a bad fetch should cost the badges their brand colour, not take the
+ * whole launches section down with it.
+ */
+async function fetchStatuses() {
+  const url = process.env.NEXTSPACEFLIGHT_STATUS_API_URL;
+  if (!url) {
+    warn("NEXTSPACEFLIGHT_STATUS_API_URL is not set; using the built-in status colours.");
+    return new Map();
+  }
+
+  try {
+    const { list } = JSON.parse(await fetchText(url, { headers: { accept: "application/json" } }));
+    if (!Array.isArray(list) || !list.length) throw new Error("expected a non-empty `list` array");
+
+    const statuses = new Map();
+    for (const status of list) {
+      if (!status?.name) continue;
+      const entry = { label: String(status.name), color: hexColor(status.color) };
+      statuses.set(statusKey(status.name), entry);
+      if (status.id != null) statuses.set(statusKey(status.id), entry);
+    }
+    if (!statuses.size) throw new Error("no usable entries in `list`");
+    return statuses;
+  } catch (err) {
+    warn(`Could not read the launch status list (${err.message}); using the built-in status colours.`);
+    return new Map();
+  }
+}
+
+/** A launch carries either the status id or its name; both key the same entry. */
+function resolveStatus(status, statuses) {
+  if (status == null || status === "") return null;
+  const key = statusKey(status);
+  const hit = statuses.get(key);
+  // An id only means something once the endpoint has named it; drop the badge
+  // rather than label a launch "7" when the status list could not be read.
+  if (!hit && /^\d+$/.test(key)) return null;
+  return {
+    label: hit?.label ?? String(status),
+    color: hit?.color || FALLBACK_STATUS_COLORS[key] || "58a6ff",
+  };
+}
 
 function statusBadge(status) {
   if (!status) return "";
-  const color = STATUS_COLORS[String(status).toLowerCase()] ?? "58a6ff";
-  const label = encodeURIComponent(String(status).replace(/-/g, "--").replace(/_/g, "__"));
-  return `<img src="https://img.shields.io/badge/${label}-${color}?style=flat-square" alt="${esc(status)}" height="20">`;
+  const label = encodeURIComponent(status.label.replace(/-/g, "--").replace(/_/g, "__"));
+  return `<img src="https://img.shields.io/badge/${label}-${status.color}?style=flat-square" alt="${esc(status.label)}" height="20">`;
 }
 
 function renderLaunches(launches) {
@@ -302,7 +373,7 @@ function renderLaunches(launches) {
       const net = new Date(l.net);
       const site = [l.pad, l.location].filter(Boolean).join(", ");
       const name = esc(l.name || "Untitled mission");
-      const title = l.info_url ? `<a href="${esc(l.info_url)}">${name}</a>` : name;
+      const title = l.info_url ? `<a href="https://nextspaceflight.com/launches/details/7797/${l.id}">${name}</a>` : name;
 
       const timeParts = [`<b>${dateUTC(net)}</b> &middot; ${timeUTC(net)} UTC`];
       if (l.window_open && l.window_close) {
@@ -329,7 +400,7 @@ function renderLaunches(launches) {
         `  <sub>${timeParts.join(" &middot; ")}</sub>`,
         `</td>`,
         `<td width="130" align="center" valign="middle">`,
-        `  ${statusBadge(l.status)}`,
+        `  ${statusBadge(l.resolvedStatus)}`,
         links.length ? `  <br>\n  <sub>${links.join(" &middot; ")}</sub>` : "",
         `</td>`,
         `</tr>`,
