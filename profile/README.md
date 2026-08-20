@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
-<td valign="middle">
-  <b>The Lightning God Defends</b>
-  <br>
-  <sub>Rocket Lab &middot; Electron/Curie</sub>
-  <br>
-  <sub>Rocket Lab LC-1B, Māhia Peninsula, New Zealand</sub>
-  <br>
-  <sub><b>Thu 20 Aug 2026</b> &middot; 13:04 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-2ea043?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=wLc1C15jbgY">Watch</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/">Starlink Group 10-39</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.spacex.com/launches/sl-15-20">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 5" width="88"></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/">Chang'e 7</a></b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 5</sub>
+  <br>
+  <sub>LC-101, Wenchang Space Launch Site, China</sub>
+  <br>
+  <sub><b>Mon 24 Aug 2026</b> &middot; 00:05 UTC &middot; window 00:00&ndash;01:06 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-2ea043?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 20 Aug 2026 at 13:00 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 20 Aug 2026 at 13:07 UTC</sub></p>
 <!-- updated:end -->
