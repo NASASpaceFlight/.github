@@ -1,0 +1,40 @@
+{
+  "assetsBaseUrl": "https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets",
+
+  "youtube": {
+    "channelUrl": "https://www.youtube.com/@NASASpaceflight",
+    "streams": [
+      {
+        "title": "Starbase Live",
+        "blurb": "Development and testing of SpaceX's Starship and Super Heavy at Starbase, TX.",
+        "match": "^Starbase Live",
+        "fallbackVideoId": "mhJRzQsLZGg"
+      },
+      {
+        "title": "Space Coast Live",
+        "blurb": "24/7 views of launch operations in Florida.",
+        "match": "^Space Coast Live",
+        "fallbackVideoId": "Jm8wRjD3xVA"
+      },
+      {
+        "title": "McGregor Live",
+        "blurb": "SpaceX rocket engine testing and development in McGregor, TX.",
+        "match": "^McGregor Live",
+        "fallbackVideoId": "cOmmvhDQ2HM"
+      }
+    ]
+  },
+
+  "articles": {
+    "feedUrl": "https://www.nasaspaceflight.com/feed/",
+    "siteUrl": "https://www.nasaspaceflight.com",
+    "count": 3
+  },
+
+  "launches": {
+    "count": 3,
+    "siteUrl": "https://nextspaceflight.com",
+    "appStoreUrl": "https://apps.apple.com/app/next-spaceflight/id1448055760",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nextspaceflight.android.nextspaceflight"
+  }
+}
