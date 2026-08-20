@@ -45,3 +45,49 @@ jobs:
           git add profile/README.md
           git commit -m "Update profile [skip ci]"
           git push
+
+      - name: Mirror profile to .github-private
+        env:
+          MIRROR_DEPLOY_KEY: ${{ secrets.MIRROR_DEPLOY_KEY }}
+          MIRROR_REPO: git@github.com:NASASpaceflight/.github-private.git
+        run: |
+          set -euo pipefail
+
+          if [ -z "${MIRROR_DEPLOY_KEY:-}" ]; then
+            echo "::warning::MIRROR_DEPLOY_KEY is not set; skipping the .github-private mirror."
+            exit 0
+          fi
+
+          # Hold the deploy key in ssh-agent.
+          mkdir -p ~/.ssh
+          ssh-keyscan -t rsa,ecdsa,ed25519 github.com >> ~/.ssh/known_hosts 2>/dev/null
+          eval "$(ssh-agent -s)" >/dev/null
+          printf '%s\n' "$MIRROR_DEPLOY_KEY" | ssh-add - >/dev/null
+
+          SRC_SHA="$(git rev-parse --short HEAD)"
+          MIRROR_DIR="$RUNNER_TEMP/mirror"
+          rm -rf "$MIRROR_DIR"
+          git clone "$MIRROR_REPO" "$MIRROR_DIR"
+
+          # A freshly created .github-private has no commits, so there is no
+          # branch to check out and rsync has nothing to diff against.
+          if ! git -C "$MIRROR_DIR" rev-parse --verify HEAD >/dev/null 2>&1; then
+            echo "Mirror repository is empty; starting main from scratch."
+            git -C "$MIRROR_DIR" checkout -b main
+          fi
+
+          # --delete so a file removed here is removed there.
+          rsync -a --delete profile/ "$MIRROR_DIR/profile/"
+          rsync -a --delete assets/  "$MIRROR_DIR/assets/"
+
+          cd "$MIRROR_DIR"
+          git add -A profile assets
+          if git diff --cached --quiet; then
+            echo "Mirror is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Mirror profile from .github@${SRC_SHA}"
+          git push origin HEAD:refs/heads/main
