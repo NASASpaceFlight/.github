@@ -348,7 +348,7 @@ function renderLaunches(launches) {
   const { siteUrl, appStoreUrl, playStoreUrl } = config.launches;
 
   return [
-    `<table>`,
+    `<table align="center">`,
     rows,
     `</table>`,
     ``,

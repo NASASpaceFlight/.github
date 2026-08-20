@@ -93,7 +93,7 @@
 <h2 align="center">🚀 Upcoming Launches</h2>
 
 <!-- launches:start -->
-<table>
+<table align="center">
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
