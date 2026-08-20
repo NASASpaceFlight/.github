@@ -129,7 +129,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 5" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Long%20March%205%20TJSW-25.webp" alt="Long March 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/4723">Chang'e 7</a></b>
   <br>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 20 Aug 2026 at 13:09 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 20 Aug 2026 at 13:33 UTC</sub></p>
 <!-- updated:end -->
