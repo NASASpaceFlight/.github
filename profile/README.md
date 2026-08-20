@@ -103,12 +103,12 @@
   <br>
   <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
   <br>
-  <sub><b>Thu 20 Aug 2026</b> &middot; 15:38 UTC &middot; window 15:19&ndash;19:19 UTC</sub>
+  <sub><b>Fri 21 Aug 2026</b> &middot; 14:57 UTC &middot; window 14:57&ndash;18:57 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=PjtnTIjDUys">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/">Preview</a></sub>
+  <sub><a href="https://www.spacex.com/launches/sl-10-39">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 20 Aug 2026 at 13:33 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 20 Aug 2026 at 15:57 UTC</sub></p>
 <!-- updated:end -->
