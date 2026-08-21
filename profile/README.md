@@ -97,23 +97,6 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8352">Starlink Group 10-39</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
-  <br>
-  <sub><b>Fri 21 Aug 2026</b> &middot; 15:14 UTC &middot; window 14:57&ndash;18:57 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=Rp1KdM7_82s">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/">Preview</a></sub>
-</td>
-</tr>
-<tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8357">Starlink Group 15-20</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_6C.webp" alt="Long March 6C" width="88"></td>
+<td valign="middle">
+  <b>Unknown Payload</b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 6C</sub>
+  <br>
+  <sub>LC-9A, Taiyuan Satellite Launch Center, China</sub>
+  <br>
+  <sub><b>Tue 25 Aug 2026</b> &middot; 03:20 UTC &middot; window 03:15&ndash;03:40 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 20 Aug 2026 at 19:44 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 21 Aug 2026 at 15:30 UTC</sub></p>
 <!-- updated:end -->
