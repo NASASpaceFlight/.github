@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Ship-41-Six-Engine-Static-Fire-541x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/">Ship 41 Completes Engine Testing Ahead of Flight 14</a></b>
+  <br>
+  <sub>Fri 21 Aug 2026 &middot; Ryan Weber</sub>
+  <br><br>
+  <sub>While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/stoke-update-081926/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/AE14D6E5-F897-4488-A5CC-150A3985FC1C-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/stoke-update-081926/">Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 19 Aug 2026 &middot; Ryan Caton</sub>
   <br><br>
   <sub>Zhuque-3’s second flight marked a major milestone for LandSpace as the methalox rocket lifted off…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-18-13-53-12-564-478x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/">Ship 40 arrives at Christmas Island, Plans Return to Starbase</a></b>
-  <br>
-  <sub>Tue 18 Aug 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>SpaceX has successfully guided Starship Ship 40 to a location just off the coast of…</sub>
 </td>
 </tr>
 </table>
@@ -108,7 +108,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/sl-15-20">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/">Preview</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=tU2YgT-mEhI">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-081726/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 21 Aug 2026 at 15:30 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 21 Aug 2026 at 19:01 UTC</sub></p>
 <!-- updated:end -->
