@@ -103,7 +103,7 @@
   <br>
   <sub>LC-101, Wenchang Space Launch Site, China</sub>
   <br>
-  <sub><b>Mon 24 Aug 2026</b> &middot; 00:05 UTC &middot; window 00:00&ndash;01:06 UTC</sub>
+  <sub><b>Tue 25 Aug 2026</b> &middot; 00:30 UTC &middot; window 00:24&ndash;01:32 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 22 Aug 2026 at 07:43 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 22 Aug 2026 at 14:53 UTC</sub></p>
 <!-- updated:end -->
