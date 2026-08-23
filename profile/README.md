@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/roman-update-082326/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/KSC-20260709-PH-JMT01_0001large-467x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/roman-update-082326/">NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones</a></b>
+  <br>
+  <sub>Sun 23 Aug 2026 &middot; Haygen Warren</sub>
+  <br><br>
+  <sub>With a scheduled launch date of Aug. 30, NASA’s Nancy Grace Roman Space Telescope is…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-23-19-39-25-057-630x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/">LandSpace’s Zhuque-3 topples following milestone landing</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 21 Aug 2026 &middot; Ryan Weber</sub>
   <br><br>
   <sub>While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/stoke-update-081926/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/AE14D6E5-F897-4488-A5CC-150A3985FC1C-525x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/stoke-update-081926/">Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut</a></b>
-  <br>
-  <sub>Wed 19 Aug 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>While Starship is grabbing headlines, another fully reusable vehicle is advancing towards a potential 2026…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 23 Aug 2026 at 21:39 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 23 Aug 2026 at 21:52 UTC</sub></p>
 <!-- updated:end -->
