@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-23-19-39-25-057-630x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/">LandSpace’s Zhuque-3 topples following milestone landing</a></b>
+  <br>
+  <sub>Sun 23 Aug 2026 &middot; Martin Smith and Chris Bergin</sub>
+  <br><br>
+  <sub>LandSpace achieved a major milestone for Chinese commercial rocketry this week when the first stage…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Ship-41-Six-Engine-Static-Fire-541x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/">Ship 41 Completes Engine Testing Ahead of Flight 14</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 19 Aug 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>While Starship is grabbing headlines, another fully reusable vehicle is advancing towards a potential 2026…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-19-04-15-16-283-623x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/">Zhuque-3 Completes Second Flight with Successful First-Stage Landing</a></b>
-  <br>
-  <sub>Wed 19 Aug 2026 &middot; Ryan Caton</sub>
-  <br><br>
-  <sub>Zhuque-3’s second flight marked a major milestone for LandSpace as the methalox rocket lifted off…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 23 Aug 2026 at 17:52 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 23 Aug 2026 at 19:09 UTC</sub></p>
 <!-- updated:end -->
