@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X-498x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/">Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites</a></b>
+  <br>
+  <sub>Mon 24 Aug 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>This week will see five orbital launches from China, the United States, and French Guiana.…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/roman-update-082326/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/KSC-20260709-PH-JMT01_0001large-467x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/roman-update-082326/">NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 23 Aug 2026 &middot; Martin Smith and Chris Bergin</sub>
   <br><br>
   <sub>LandSpace achieved a major milestone for Chinese commercial rocketry this week when the first stage…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Ship-41-Six-Engine-Static-Fire-541x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/">Ship 41 Completes Engine Testing Ahead of Flight 14</a></b>
-  <br>
-  <sub>Fri 21 Aug 2026 &middot; Ryan Weber</sub>
-  <br><br>
-  <sub>While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 23 Aug 2026 at 22:06 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 24 Aug 2026 at 20:57 UTC</sub></p>
 <!-- updated:end -->
