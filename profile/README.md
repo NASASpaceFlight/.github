@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/starbases-future-production-capacity/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-25-14-50-07-576-539x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/starbases-future-production-capacity/">Starbase’s future production capacity ramping up</a></b>
+  <br>
+  <sub>Tue 25 Aug 2026 &middot; Eleanor Day and Chris Bergin</sub>
+  <br><br>
+  <sub>A flurry of activity has been underway at the Starbase production site over the past…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X-498x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/">Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 23 Aug 2026 &middot; Haygen Warren</sub>
   <br><br>
   <sub>With a scheduled launch date of Aug. 30, NASA’s Nancy Grace Roman Space Telescope is…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-23-19-39-25-057-630x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/">LandSpace’s Zhuque-3 topples following milestone landing</a></b>
-  <br>
-  <sub>Sun 23 Aug 2026 &middot; Martin Smith and Chris Bergin</sub>
-  <br><br>
-  <sub>LandSpace achieved a major milestone for Chinese commercial rocketry this week when the first stage…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 25 Aug 2026 at 09:45 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 25 Aug 2026 at 14:19 UTC</sub></p>
 <!-- updated:end -->
