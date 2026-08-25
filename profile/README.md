@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_6C.webp" alt="Long March 6C" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8360">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 6C</sub>
-  <br>
-  <sub>LC-9A, Taiyuan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Tue 25 Aug 2026</b> &middot; 03:20 UTC &middot; window 03:15&ndash;03:40 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8354">Starlink Group 10-49</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.spacex.com/launches/sl-15-22">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ariane 62" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/7929">MTG-I2</a></b>
+  <br>
+  <sub>Arianespace &middot; Ariane 62</sub>
+  <br>
+  <sub>ELA-4, Guiana Space Centre, French Guiana, France</sub>
+  <br>
+  <sub><b>Thu 27 Aug 2026</b> &middot; 20:10 UTC &middot; window 20:10&ndash;22:40 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 24 Aug 2026 at 21:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 25 Aug 2026 at 04:02 UTC</sub></p>
 <!-- updated:end -->
