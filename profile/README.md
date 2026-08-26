@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/iss-roundup-082626/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/55488983002_c62211a050_o-525x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/iss-roundup-082626/">Soyuz MS-28 departs the ISS, three spacewalks install upgrades to solar arrays and antennae</a></b>
+  <br>
+  <sub>Wed 26 Aug 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Following the departure of the Soyuz MS-28 crewed spacecraft from the International Space Station on…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-26-04-42-39-997-630x337.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/">Starbase, Louisiana: The Largest Private Spaceport in the World</a></b>
@@ -73,16 +83,6 @@
   <sub>Tue 25 Aug 2026 &middot; Eleanor Day and Chris Bergin</sub>
   <br><br>
   <sub>A flurry of activity has been underway at the Starbase production site over the past…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X-498x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/">Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites</a></b>
-  <br>
-  <sub>Mon 24 Aug 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>This week will see five orbital launches from China, the United States, and French Guiana.…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 26 Aug 2026 at 17:51 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 26 Aug 2026 at 21:23 UTC</sub></p>
 <!-- updated:end -->
