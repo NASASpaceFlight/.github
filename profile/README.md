@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8358">Starlink Group 15-22</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
-  <br>
-  <sub><b>Wed 26 Aug 2026</b> &middot; 09:35 UTC &middot; window 09:27&ndash;13:27 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/sl-15-22">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ariane 62" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7929">MTG-I2</a></b>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.youtube.com/watch?v=9wq3VHsL_bE">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
+<td valign="middle">
+  <b>Owl Around The World</b>
+  <br>
+  <sub>Rocket Lab &middot; Electron/Curie</sub>
+  <br>
+  <sub>Unknown Pad, Māhia Peninsula, New Zealand</sub>
+  <br>
+  <sub><b>Mon 31 Aug 2026</b> &middot; 12:05 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 26 Aug 2026 at 04:17 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 26 Aug 2026 at 09:47 UTC</sub></p>
 <!-- updated:end -->
