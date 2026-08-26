@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-26-04-42-39-997-630x337.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/">Starbase, Louisiana: The Largest Private Spaceport in the World</a></b>
+  <br>
+  <sub>Wed 26 Aug 2026 &middot; Alejandro Alcantarilla Romera, Ryan Caton, and Joe Kangas.</sub>
+  <br><br>
+  <sub>SpaceX has unveiled plans for “Starbase, Louisiana,” described as the largest private spaceport in the…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/starbases-future-production-capacity/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-25-14-50-07-576-539x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/starbases-future-production-capacity/">Starbase’s future production capacity ramping up</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 24 Aug 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>This week will see five orbital launches from China, the United States, and French Guiana.…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/roman-update-082326/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/KSC-20260709-PH-JMT01_0001large-467x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/roman-update-082326/">NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones</a></b>
-  <br>
-  <sub>Sun 23 Aug 2026 &middot; Haygen Warren</sub>
-  <br><br>
-  <sub>With a scheduled launch date of Aug. 30, NASA’s Nancy Grace Roman Space Telescope is…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 25 Aug 2026 at 23:28 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 26 Aug 2026 at 04:17 UTC</sub></p>
 <!-- updated:end -->
