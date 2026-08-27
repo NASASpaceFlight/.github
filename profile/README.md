@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ariane 62" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/7929">MTG-I2</a></b>
-  <br>
-  <sub>Arianespace &middot; Ariane 62</sub>
-  <br>
-  <sub>ELA-4, Guiana Space Centre, French Guiana, France</sub>
-  <br>
-  <sub><b>Thu 27 Aug 2026</b> &middot; 20:10 UTC &middot; window 20:10&ndash;22:40 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=eF4s2Zga3uw">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-082426/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon Heavy" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/6983">Roman Space Telescope</a></b>
@@ -143,6 +126,21 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_1.2.webp" alt="Angara 1.2" width="88"></td>
+<td valign="middle">
+  <b>Cosmos (Unknown Payload)</b>
+  <br>
+  <sub>Space Forces of the Russian Federation &middot; Angara 1.2</sub>
+  <br>
+  <sub>Site 35/1, Plesetsk Cosmodrome, Russia</sub>
+  <br>
+  <sub><b>Mon 31 Aug 2026</b> &middot; 23:59 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/TBD%20Date%20%26%20Time-0076c9?style=flat-square" alt="TBD Date &amp; Time" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 27 Aug 2026 at 18:15 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 27 Aug 2026 at 21:48 UTC</sub></p>
 <!-- updated:end -->
