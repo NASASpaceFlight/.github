@@ -120,7 +120,7 @@
   <br>
   <sub>LC-39A, Kennedy Space Center, Florida, USA</sub>
   <br>
-  <sub><b>Sun 30 Aug 2026</b> &middot; 11:26 UTC</sub>
+  <sub><b>Sun 30 Aug 2026</b> &middot; 11:25 UTC &middot; window 11:25&ndash;11:26 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 27 Aug 2026 at 14:25 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 27 Aug 2026 at 18:15 UTC</sub></p>
 <!-- updated:end -->
