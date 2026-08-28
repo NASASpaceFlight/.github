@@ -127,18 +127,18 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Angara_1.2.webp" alt="Angara 1.2" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Pallas_1.webp" alt="Pallas 1" width="88"></td>
 <td valign="middle">
-  <b>Cosmos (Unknown Payload)</b>
+  <b>Demo Flight</b>
   <br>
-  <sub>Space Forces of the Russian Federation &middot; Angara 1.2</sub>
+  <sub>Galactic Energy Space Technology Co., Ltd. &middot; Pallas 1</sub>
   <br>
-  <sub>Site 35/1, Plesetsk Cosmodrome, Russia</sub>
+  <sub>Pallas-1 Launch Pad, Jiuquan Satellite Launch Center, China</sub>
   <br>
-  <sub><b>Mon 31 Aug 2026</b> &middot; 23:59 UTC</sub>
+  <sub><b>Tue 1 Sep 2026</b> &middot; 02:00 UTC &middot; window 01:52&ndash;04:09 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/TBD%20Date%20%26%20Time-0076c9?style=flat-square" alt="TBD Date &amp; Time" height="20">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 27 Aug 2026 at 21:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 28 Aug 2026 at 18:40 UTC</sub></p>
 <!-- updated:end -->
