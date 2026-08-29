@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/IMG_0596-526x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/">NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday</a></b>
+  <br>
+  <sub>Sat 29 Aug 2026 &middot; Haygen Warren</sub>
+  <br><br>
+  <sub>NASA and SpaceX are set for the launch of NASA’s next great space observatory —…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/esa-european-launcher-challenge-contracts/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-29-11-53-55-612-623x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/esa-european-launcher-challenge-contracts/">ESA awards first European Launcher Challenge contracts</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 26 Aug 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>Following the departure of the Soyuz MS-28 crewed spacecraft from the International Space Station on…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-26-04-42-39-997-630x337.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/">Starbase, Louisiana: The Largest Private Spaceport in the World</a></b>
-  <br>
-  <sub>Wed 26 Aug 2026 &middot; Alejandro Alcantarilla Romera, Ryan Caton, and Joe Kangas.</sub>
-  <br><br>
-  <sub>SpaceX has unveiled plans for “Starbase, Louisiana,” described as the largest private spaceport in the…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 29 Aug 2026 at 11:11 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 29 Aug 2026 at 20:25 UTC</sub></p>
 <!-- updated:end -->
