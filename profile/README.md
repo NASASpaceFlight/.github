@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/esa-european-launcher-challenge-contracts/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-29-11-53-55-612-623x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/esa-european-launcher-challenge-contracts/">ESA awards first European Launcher Challenge contracts</a></b>
+  <br>
+  <sub>Sat 29 Aug 2026 &middot; Martijn Luinstra and Chris Bergin</sub>
+  <br><br>
+  <sub>The European Space Agency has signed the first contracts under its European Launcher Challenge, committing…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/iss-roundup-082626/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/55488983002_c62211a050_o-525x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/iss-roundup-082626/">Soyuz MS-28 departs the ISS, three spacewalks install upgrades to solar arrays and antennae</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 26 Aug 2026 &middot; Alejandro Alcantarilla Romera, Ryan Caton, and Joe Kangas.</sub>
   <br><br>
   <sub>SpaceX has unveiled plans for “Starbase, Louisiana,” described as the largest private spaceport in the…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/starbases-future-production-capacity/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-25-14-50-07-576-539x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/starbases-future-production-capacity/">Starbase’s future production capacity ramping up</a></b>
-  <br>
-  <sub>Tue 25 Aug 2026 &middot; Eleanor Day and Chris Bergin</sub>
-  <br><br>
-  <sub>A flurry of activity has been underway at the Starbase production site over the past…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 28 Aug 2026 at 18:40 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 29 Aug 2026 at 11:11 UTC</sub></p>
 <!-- updated:end -->
