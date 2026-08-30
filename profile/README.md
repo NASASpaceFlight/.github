@@ -95,21 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
-<td valign="middle">
-  <b>Owl Around The World</b>
-  <br>
-  <sub>Rocket Lab &middot; Electron/Curie</sub>
-  <br>
-  <sub>Unknown Pad, Māhia Peninsula, New Zealand</sub>
-  <br>
-  <sub><b>Mon 31 Aug 2026</b> &middot; 12:05 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Pallas_1.webp" alt="Pallas 1" width="88"></td>
 <td valign="middle">
   <b>Demo Flight</b>
@@ -119,6 +104,21 @@
   <sub>Pallas-1 Launch Pad, Jiuquan Satellite Launch Center, China</sub>
   <br>
   <sub><b>Tue 1 Sep 2026</b> &middot; 02:00 UTC &middot; window 01:52&ndash;04:09 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
+<td valign="middle">
+  <b>Owl Around The World</b>
+  <br>
+  <sub>Rocket Lab &middot; Electron/Curie</sub>
+  <br>
+  <sub>Unknown Pad, Māhia Peninsula, New Zealand</sub>
+  <br>
+  <sub><b>Tue 1 Sep 2026</b> &middot; 11:30 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 30 Aug 2026 at 12:21 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 30 Aug 2026 at 20:37 UTC</sub></p>
 <!-- updated:end -->
