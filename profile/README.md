@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon Heavy" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/6983">Roman Space Telescope</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon Heavy</sub>
-  <br>
-  <sub>LC-39A, Kennedy Space Center, Florida, USA</sub>
-  <br>
-  <sub><b>Sun 30 Aug 2026</b> &middot; 11:26 UTC &middot; window 11:25&ndash;11:26 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=-8yDQhVgypw">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b>Owl Around The World</b>
@@ -141,6 +124,23 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b>Starlink Group 15-23</b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Wed 2 Sep 2026</b> &middot; 07:46 UTC &middot; window 07:46&ndash;11:46 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/sl-15-23">Watch</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 30 Aug 2026 at 09:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 30 Aug 2026 at 11:36 UTC</sub></p>
 <!-- updated:end -->
