@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-31-01-01-10-310-630x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/">SLS picks up the pace, four vehicles in production</a></b>
+  <br>
+  <sub>Mon 31 Aug 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
+  <br><br>
+  <sub>The NASA and contractor workforce continues to make progress ahead of next year’s Artemis III…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/DSC09113-525x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/">NASA, SpaceX successfully launch the Nancy Grace Roman Space Telescope from Florida</a></b>
@@ -73,16 +83,6 @@
   <sub>Sat 29 Aug 2026 &middot; Martijn Luinstra and Chris Bergin</sub>
   <br><br>
   <sub>The European Space Agency has signed the first contracts under its European Launcher Challenge, committing…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/iss-roundup-082626/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/55488983002_c62211a050_o-525x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/iss-roundup-082626/">Soyuz MS-28 departs the ISS, three spacewalks install upgrades to solar arrays and antennae</a></b>
-  <br>
-  <sub>Wed 26 Aug 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>Following the departure of the Soyuz MS-28 crewed spacecraft from the International Space Station on…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 30 Aug 2026 at 20:37 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 31 Aug 2026 at 00:49 UTC</sub></p>
 <!-- updated:end -->
