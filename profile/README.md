@@ -110,21 +110,6 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
-<td valign="middle">
-  <b>Owl Around The World</b>
-  <br>
-  <sub>Rocket Lab &middot; Electron/Curie</sub>
-  <br>
-  <sub>Unknown Pad, Māhia Peninsula, New Zealand</sub>
-  <br>
-  <sub><b>Tue 1 Sep 2026</b> &middot; 11:38 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b>Starlink Group 15-23</b>
@@ -141,6 +126,21 @@
   <sub><a href="https://www.spacex.com/launches/sl-15-23">Watch</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
+<td valign="middle">
+  <b>Owl Around The World</b>
+  <br>
+  <sub>Rocket Lab &middot; Electron/Curie</sub>
+  <br>
+  <sub>Unknown Pad, Māhia Peninsula, New Zealand</sub>
+  <br>
+  <sub><b>Wed 2 Sep 2026</b> &middot; 11:00 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 31 Aug 2026 at 21:14 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 31 Aug 2026 at 22:38 UTC</sub></p>
 <!-- updated:end -->
