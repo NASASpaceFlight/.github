@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3-525x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/">Launch Preview: Array of international launches planned this week</a></b>
+  <br>
+  <sub>Mon 31 Aug 2026 &middot; Justin Davenport</sub>
+  <br><br>
+  <sub>Six missions are scheduled to launch from launch sites across the globe this week. After…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-31-01-01-10-310-630x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/">SLS picks up the pace, four vehicles in production</a></b>
@@ -73,16 +83,6 @@
   <sub>Sat 29 Aug 2026 &middot; Haygen Warren</sub>
   <br><br>
   <sub>NASA and SpaceX have launched NASA’s next great space observatory — the Nancy Grace Roman…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/esa-european-launcher-challenge-contracts/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-29-11-53-55-612-623x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/esa-european-launcher-challenge-contracts/">ESA awards first European Launcher Challenge contracts</a></b>
-  <br>
-  <sub>Sat 29 Aug 2026 &middot; Martijn Luinstra and Chris Bergin</sub>
-  <br><br>
-  <sub>The European Space Agency has signed the first contracts under its European Launcher Challenge, committing…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 31 Aug 2026 at 13:38 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 31 Aug 2026 at 21:14 UTC</sub></p>
 <!-- updated:end -->
