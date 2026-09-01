@@ -97,18 +97,18 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b>Starlink Group 15-23</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8365">Starlink Group 15-23</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
   <br>
   <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
   <br>
-  <sub><b>Wed 2 Sep 2026</b> &middot; 07:46 UTC &middot; window 07:46&ndash;11:46 UTC</sub>
+  <sub><b>Wed 2 Sep 2026</b> &middot; 08:18 UTC &middot; window 07:46&ndash;11:46 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=msp_aXGeB0I">Watch</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=msp_aXGeB0I">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 1 Sep 2026 at 18:20 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 1 Sep 2026 at 21:14 UTC</sub></p>
 <!-- updated:end -->
