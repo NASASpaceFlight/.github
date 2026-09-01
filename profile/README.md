@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Roberts-Road-and-the-VAB-525x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/">Launch Site and Facility Progress ahead of East Coast Starship debut</a></b>
+  <br>
+  <sub>Tue 1 Sep 2026 &middot; Ryan Weber</sub>
+  <br><br>
+  <sub>As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3-525x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/">Launch Preview: Array of international launches planned this week</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 31 Aug 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
   <br><br>
   <sub>The NASA and contractor workforce continues to make progress ahead of next year’s Artemis III…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/DSC09113-525x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/">NASA, SpaceX successfully launch the Nancy Grace Roman Space Telescope from Florida</a></b>
-  <br>
-  <sub>Sat 29 Aug 2026 &middot; Haygen Warren</sub>
-  <br><br>
-  <sub>NASA and SpaceX have launched NASA’s next great space observatory — the Nancy Grace Roman…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 1 Sep 2026 at 13:16 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 1 Sep 2026 at 18:20 UTC</sub></p>
 <!-- updated:end -->
