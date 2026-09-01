@@ -108,7 +108,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/sl-15-23">Watch</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=msp_aXGeB0I">Watch</a></sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 1 Sep 2026 at 02:35 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 1 Sep 2026 at 05:17 UTC</sub></p>
 <!-- updated:end -->
