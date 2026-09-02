@@ -118,7 +118,7 @@
   <br>
   <sub>Rocket Lab &middot; Electron/Curie</sub>
   <br>
-  <sub>Unknown Pad, Māhia Peninsula, New Zealand</sub>
+  <sub>Rocket Lab LC-1B, Māhia Peninsula, New Zealand</sub>
   <br>
   <sub><b>Wed 2 Sep 2026</b> &middot; 11:11 UTC</sub>
 </td>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 2 Sep 2026 at 04:21 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 2 Sep 2026 at 08:23 UTC</sub></p>
 <!-- updated:end -->
