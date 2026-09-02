@@ -103,7 +103,7 @@
   <br>
   <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
   <br>
-  <sub><b>Wed 2 Sep 2026</b> &middot; 08:18 UTC &middot; window 07:46&ndash;11:46 UTC</sub>
+  <sub><b>Wed 2 Sep 2026</b> &middot; 08:42 UTC &middot; window 07:46&ndash;11:46 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -114,7 +114,7 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
-  <b>Owl Around The World</b>
+  <b><a href="https://nextspaceflight.com/launches/details/7585">Owl Around The World</a></b>
   <br>
   <sub>Rocket Lab &middot; Electron/Curie</sub>
   <br>
@@ -124,6 +124,8 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.youtube.com/watch?v=oLovbBQFxI8">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 1 Sep 2026 at 21:14 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 2 Sep 2026 at 04:21 UTC</sub></p>
 <!-- updated:end -->
