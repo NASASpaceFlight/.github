@@ -106,7 +106,7 @@
   <sub><b>Wed 2 Sep 2026</b> &middot; 11:12 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <img src="https://img.shields.io/badge/Hold-ff9900?style=flat-square" alt="Hold" height="20">
   <br>
   <sub><a href="https://www.youtube.com/watch?v=oLovbBQFxI8">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/">Preview</a></sub>
 </td>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 2 Sep 2026 at 09:40 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 2 Sep 2026 at 11:15 UTC</sub></p>
 <!-- updated:end -->
