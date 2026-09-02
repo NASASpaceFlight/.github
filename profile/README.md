@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/rocket-lab-update/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/16D158EF-E0FF-4622-ABD4-DA387D02F975-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/rocket-lab-update/">Rocket Lab’s Hungry Hippo completes testing</a></b>
+  <br>
+  <sub>Wed 2 Sep 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>With Rocket Lab targeting to launch its Neutron vehicle by the end of this year,…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Roberts-Road-and-the-VAB-525x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/">Launch Site and Facility Progress ahead of East Coast Starship debut</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 31 Aug 2026 &middot; Justin Davenport</sub>
   <br><br>
   <sub>Six missions are scheduled to launch from launch sites across the globe this week. After…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-31-01-01-10-310-630x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/">SLS picks up the pace, four vehicles in production</a></b>
-  <br>
-  <sub>Mon 31 Aug 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
-  <br><br>
-  <sub>The NASA and contractor workforce continues to make progress ahead of next year’s Artemis III…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 2 Sep 2026 at 12:25 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 2 Sep 2026 at 21:14 UTC</sub></p>
 <!-- updated:end -->
