@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="GSLV Mk II" width="88"></td>
-<td valign="middle">
-  <b>EOS-05 (GISAT-1A)</b>
-  <br>
-  <sub>Indian Space Research Organisation &middot; GSLV Mk II</sub>
-  <br>
-  <sub>Second Launch Pad, Satish Dhawan Space Centre, India</sub>
-  <br>
-  <sub><b>Thu 3 Sep 2026</b> &middot; 21:25 UTC &middot; window 21:00&ndash;01:00 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=Q9OdYc3KpEw">Watch</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Spectrum" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7955">Onward and Upward</a></b>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.spacex.com/launches/sl-15-24">Watch</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_YZ-3_rocket.webp" alt="Long March 2D/YZ-3" width="88"></td>
+<td valign="middle">
+  <b>Unknown Payload</b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 2D/YZ-3</sub>
+  <br>
+  <sub>Site 94 (SLS-2), Jiuquan Satellite Launch Center, China</sub>
+  <br>
+  <sub><b>Wed 9 Sep 2026</b> &middot; 09:00 UTC &middot; window 08:52&ndash;09:13 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 2 Sep 2026 at 21:14 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 3 Sep 2026 at 21:25 UTC</sub></p>
 <!-- updated:end -->
