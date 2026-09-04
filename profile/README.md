@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-04-20-18-03-569-526x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/">Blue Origin expands test and launch sites across the Cape</a></b>
+  <br>
+  <sub>Fri 4 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
+  <br><br>
+  <sub>Blue Origin is expanding its Kennedy Space Center and Cape Canaveral footprint on multiple fronts,…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/rocket-lab-update/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/16D158EF-E0FF-4622-ABD4-DA387D02F975-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/rocket-lab-update/">Rocket Lab’s Hungry Hippo completes testing</a></b>
@@ -73,16 +83,6 @@
   <sub>Tue 1 Sep 2026 &middot; Ryan Weber</sub>
   <br><br>
   <sub>As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3-525x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/">Launch Preview: Array of international launches planned this week</a></b>
-  <br>
-  <sub>Mon 31 Aug 2026 &middot; Justin Davenport</sub>
-  <br><br>
-  <sub>Six missions are scheduled to launch from launch sites across the globe this week. After…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 4 Sep 2026 at 13:16 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 4 Sep 2026 at 20:49 UTC</sub></p>
 <!-- updated:end -->
