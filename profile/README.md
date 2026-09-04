@@ -103,7 +103,7 @@
   <br>
   <sub>Orbital Launch Pad, Andøya Rocket Range, Nordland, Norway</sub>
   <br>
-  <sub><b>Fri 4 Sep 2026</b> &middot; 20:00 UTC &middot; window 20:00&ndash;21:00 UTC</sub>
+  <sub><b>Sat 5 Sep 2026</b> &middot; 20:00 UTC &middot; window 20:00&ndash;21:00 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 4 Sep 2026 at 07:39 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 4 Sep 2026 at 13:16 UTC</sub></p>
 <!-- updated:end -->
