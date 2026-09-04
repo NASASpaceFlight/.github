@@ -114,7 +114,7 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b>Starlink Group 15-24</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8366">Starlink Group 15-24</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
   <br>
@@ -125,7 +125,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/sl-15-24">Watch</a></sub>
+  <sub><a href="https://www.spacex.com/launches/sl-15-24">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/08/launch-preview-083126/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 3 Sep 2026 at 21:25 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 4 Sep 2026 at 07:39 UTC</sub></p>
 <!-- updated:end -->
