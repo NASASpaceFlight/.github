@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/114908/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-05-22-23-11-610-538x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/114908/"></a></b>
+  <br>
+  <sub>Sat 5 Sep 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights Along Missile Row…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/IMG_7038-615x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/">Isar Aerospace launches Spectrum rocket after months of delays</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 4 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
   <br><br>
   <sub>Blue Origin is expanding its Kennedy Space Center and Cape Canaveral footprint on multiple fronts,…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/rocket-lab-update/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/16D158EF-E0FF-4622-ABD4-DA387D02F975-525x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/rocket-lab-update/">Rocket Lab’s Hungry Hippo completes testing</a></b>
-  <br>
-  <sub>Wed 2 Sep 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>With Rocket Lab targeting to launch its Neutron vehicle by the end of this year,…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 5 Sep 2026 at 21:12 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 5 Sep 2026 at 21:36 UTC</sub></p>
 <!-- updated:end -->
