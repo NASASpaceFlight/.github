@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Spectrum" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/7955">Onward and Upward</a></b>
-  <br>
-  <sub>Isar Aerospace &middot; Spectrum</sub>
-  <br>
-  <sub>Orbital Launch Pad, Andøya Rocket Range, Nordland, Norway</sub>
-  <br>
-  <sub><b>Sat 5 Sep 2026</b> &middot; 20:06 UTC &middot; window 20:00&ndash;21:00 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=uUc2d_NPBN0">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8366">Starlink Group 15-24</a></b>
@@ -143,6 +126,23 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
+<td valign="middle">
+  <b>Progress MS-35</b>
+  <br>
+  <sub>Roscosmos &middot; Soyuz 2.1b</sub>
+  <br>
+  <sub>Site 31/6, Baikonur Cosmodrome, Kazakhstan</sub>
+  <br>
+  <sub><b>Wed 9 Sep 2026</b> &middot; 16:15 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://plus.nasa.gov/scheduled-video/progress-96-cargo-ship-launch/">Watch</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 5 Sep 2026 at 19:20 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 5 Sep 2026 at 20:14 UTC</sub></p>
 <!-- updated:end -->
