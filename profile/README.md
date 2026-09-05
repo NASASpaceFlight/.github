@@ -108,7 +108,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=uUc2d_NPBN0">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/06/isar-onward-and-upward/">Preview</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=uUc2d_NPBN0">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 5 Sep 2026 at 16:14 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 5 Sep 2026 at 19:11 UTC</sub></p>
 <!-- updated:end -->
