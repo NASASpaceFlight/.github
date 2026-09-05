@@ -58,11 +58,11 @@
 <tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/01/IMG_6221-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/">Isar Aerospace attempts launch of Spectrum rocket after months of delays</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/">Isar Aerospace launches Spectrum rocket after months of delays</a></b>
   <br>
   <sub>Sat 5 Sep 2026 &middot; Justin Davenport</sub>
   <br><br>
-  <sub>The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to…</sub>
+  <sub>The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, launched its Spectrum…</sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 5 Sep 2026 at 20:14 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 5 Sep 2026 at 20:37 UTC</sub></p>
 <!-- updated:end -->
