@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/01/IMG_6221-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/">Isar Aerospace attempts launch of Spectrum rocket after months of delays</a></b>
+  <br>
+  <sub>Sat 5 Sep 2026 &middot; Justin Davenport</sub>
+  <br><br>
+  <sub>The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-04-20-18-03-569-526x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/">Blue Origin expands test and launch sites across the Cape</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 2 Sep 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>With Rocket Lab targeting to launch its Neutron vehicle by the end of this year,…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Roberts-Road-and-the-VAB-525x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/">Launch Site and Facility Progress ahead of East Coast Starship debut</a></b>
-  <br>
-  <sub>Tue 1 Sep 2026 &middot; Ryan Weber</sub>
-  <br><br>
-  <sub>As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 4 Sep 2026 at 20:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 5 Sep 2026 at 16:14 UTC</sub></p>
 <!-- updated:end -->
