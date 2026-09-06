@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Launch-Site-September-3rd-622x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/">Starbase Infrastructure Advances Toward Flight 14</a></b>
+  <br>
+  <sub>Sun 6 Sep 2026 &middot; Ryan Weber</sub>
+  <br><br>
+  <sub>SpaceX is still building out assembly, test, and launch infrastructure at Starbase while Flight 14…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-06-06-08-48-181-523x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/">Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights</a></b>
@@ -73,16 +83,6 @@
   <sub>Sat 5 Sep 2026 &middot; Justin Davenport</sub>
   <br><br>
   <sub>The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, launched its Spectrum…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-04-20-18-03-569-526x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/">Blue Origin expands test and launch sites across the Cape</a></b>
-  <br>
-  <sub>Fri 4 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
-  <br><br>
-  <sub>Blue Origin is expanding its Kennedy Space Center and Cape Canaveral footprint on multiple fronts,…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 6 Sep 2026 at 16:15 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 6 Sep 2026 at 19:11 UTC</sub></p>
 <!-- updated:end -->
