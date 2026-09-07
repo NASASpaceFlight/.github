@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/artemis-iii-sls-stacking-artemis-ii-orion-fix/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-07-19-28-25-151-630x343.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/artemis-iii-sls-stacking-artemis-ii-orion-fix/">Artemis III SLS stacking advances as Orion results confirm trajectory fix</a></b>
+  <br>
+  <sub>Mon 7 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
+  <br><br>
+  <sub>Teams at NASA’s Kennedy Space Center have pushed Artemis III Space Launch System hardware another…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Launch-Site-September-3rd-622x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/">Starbase Infrastructure Advances Toward Flight 14</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 6 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
   <br><br>
   <sub>Along Missile Row at Cape Canaveral Space Force Station, Stoke Space and Relativity Space are…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-05-23-03-37-728-527x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/">Isar Aerospace launches Spectrum rocket after months of delays</a></b>
-  <br>
-  <sub>Sat 5 Sep 2026 &middot; Justin Davenport</sub>
-  <br><br>
-  <sub>The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, launched its Spectrum…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 7 Sep 2026 at 16:38 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 7 Sep 2026 at 18:41 UTC</sub></p>
 <!-- updated:end -->
