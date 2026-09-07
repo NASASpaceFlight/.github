@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-505x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launch from sites around the world</a></b>
+  <br>
+  <sub>Mon 7 Sep 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Five orbital launches are expected this week. Two Falcon 9s are expected to launch from…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/artemis-iii-sls-stacking-artemis-ii-orion-fix/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-07-19-28-25-151-630x343.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/artemis-iii-sls-stacking-artemis-ii-orion-fix/">Artemis III SLS stacking advances as Orion results confirm trajectory fix</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 6 Sep 2026 &middot; Ryan Weber</sub>
   <br><br>
   <sub>SpaceX is still building out assembly, test, and launch infrastructure at Starbase while Flight 14…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-06-06-08-48-181-523x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/">Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights</a></b>
-  <br>
-  <sub>Sun 6 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
-  <br><br>
-  <sub>Along Missile Row at Cape Canaveral Space Force Station, Stoke Space and Relativity Space are…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 7 Sep 2026 at 18:41 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 7 Sep 2026 at 22:26 UTC</sub></p>
 <!-- updated:end -->
