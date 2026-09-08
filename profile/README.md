@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8092">Progress MS-35</a></b>
-  <br>
-  <sub>Roscosmos &middot; Soyuz 2.1b</sub>
-  <br>
-  <sub>Site 31/6, Baikonur Cosmodrome, Kazakhstan</sub>
-  <br>
-  <sub><b>Wed 9 Sep 2026</b> &middot; 16:15 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://plus.nasa.gov/scheduled-video/progress-96-cargo-ship-launch/">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_YZ-3_rocket.webp" alt="Long March 2D/YZ-3" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8371">Unknown Payload</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.spacex.com/launches/ussf153">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 8A" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8367">Unknown Payload</a></b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 8A</sub>
+  <br>
+  <sub>Commercial LC-1, Wenchang Space Launch Site, China</sub>
+  <br>
+  <sub><b>Fri 11 Sep 2026</b> &middot; 16:00 UTC &middot; window 16:00&ndash;20:00 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 8 Sep 2026 at 05:16 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 8 Sep 2026 at 16:18 UTC</sub></p>
 <!-- updated:end -->
