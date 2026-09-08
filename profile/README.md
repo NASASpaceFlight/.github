@@ -97,7 +97,7 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
 <td valign="middle">
-  <b>Progress MS-35</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8092">Progress MS-35</a></b>
   <br>
   <sub>Roscosmos &middot; Soyuz 2.1b</sub>
   <br>
@@ -108,13 +108,13 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://plus.nasa.gov/scheduled-video/progress-96-cargo-ship-launch/">Watch</a></sub>
+  <sub><a href="https://plus.nasa.gov/scheduled-video/progress-96-cargo-ship-launch/">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_YZ-3_rocket.webp" alt="Long March 2D/YZ-3" width="88"></td>
 <td valign="middle">
-  <b>Unknown Payload</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8371">Unknown Payload</a></b>
   <br>
   <sub>China Aerospace Science and Technology Corporation &middot; Long March 2D/YZ-3</sub>
   <br>
@@ -124,12 +124,14 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b>USSF-153</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8370">USSF-153</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
   <br>
@@ -140,7 +142,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/ussf153">Watch</a></sub>
+  <sub><a href="https://www.spacex.com/launches/ussf153">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -157,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 7 Sep 2026 at 22:26 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 8 Sep 2026 at 05:16 UTC</sub></p>
 <!-- updated:end -->
