@@ -129,15 +129,15 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 8A" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8367">Unknown Payload</a></b>
+  <b><a href="https://nextspaceflight.com/launches/details/7731">O3b mPOWER 11, 12 &amp; 13</a></b>
   <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 8A</sub>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
   <br>
-  <sub>Commercial LC-1, Wenchang Space Launch Site, China</sub>
+  <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
   <br>
-  <sub><b>Fri 11 Sep 2026</b> &middot; 16:00 UTC &middot; window 16:00&ndash;20:00 UTC</sub>
+  <sub><b>Sun 13 Sep 2026</b> &middot; 18:50 UTC &middot; window 18:50&ndash;20:27 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 8 Sep 2026 at 16:18 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 9 Sep 2026 at 11:49 UTC</sub></p>
 <!-- updated:end -->
