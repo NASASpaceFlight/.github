@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-09-21-05-05-614-544x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/">Flight 15 pairing undergo testing at Massey’s</a></b>
+  <br>
+  <sub>Wed 9 Sep 2026 &middot; Eleanor Day and Chris Bergin</sub>
+  <br><br>
+  <sub>SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey’s for…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-505x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launch from sites around the world</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 7 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
   <br><br>
   <sub>Teams at NASA’s Kennedy Space Center have pushed Artemis III Space Launch System hardware another…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Launch-Site-September-3rd-622x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/">Starbase Infrastructure Advances Toward Flight 14</a></b>
-  <br>
-  <sub>Sun 6 Sep 2026 &middot; Ryan Weber</sub>
-  <br><br>
-  <sub>SpaceX is still building out assembly, test, and launch infrastructure at Starbase while Flight 14…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 9 Sep 2026 at 15:39 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 9 Sep 2026 at 20:37 UTC</sub></p>
 <!-- updated:end -->
