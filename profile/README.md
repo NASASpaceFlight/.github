@@ -56,7 +56,7 @@
 <!-- articles:start -->
 <table>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-09-21-05-05-614-544x350.jpg" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-09-23-15-48-721-557x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/">Flight 15 pairing undergo testing at Massey’s</a></b>
   <br>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 9 Sep 2026 at 20:37 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 9 Sep 2026 at 22:25 UTC</sub></p>
 <!-- updated:end -->
