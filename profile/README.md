@@ -137,12 +137,12 @@
   <br>
   <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
   <br>
-  <sub><b>Sun 13 Sep 2026</b> &middot; 18:50 UTC &middot; window 18:50&ndash;20:27 UTC</sub>
+  <sub><b>Sun 13 Sep 2026</b> &middot; 18:49 UTC &middot; window 18:49&ndash;20:16 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
+  <sub><a href="https://www.spacex.com/launches/mpower-f">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 9 Sep 2026 at 11:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 9 Sep 2026 at 15:39 UTC</sub></p>
 <!-- updated:end -->
