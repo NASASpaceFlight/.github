@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_YZ-3_rocket.webp" alt="Long March 2D/YZ-3" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8371">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 2D/YZ-3</sub>
-  <br>
-  <sub>Site 94 (SLS-2), Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Thu 10 Sep 2026</b> &middot; 09:00 UTC &middot; window 08:52&ndash;09:13 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8370">USSF-153</a></b>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.spacex.com/launches/mpower-f">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Vega-C.webp" alt="Vega C" width="88"></td>
+<td valign="middle">
+  <b>Sentinel-3C &amp; FLEX</b>
+  <br>
+  <sub>Avio &middot; Vega C</sub>
+  <br>
+  <sub>ELV, Guiana Space Centre, French Guiana, France</sub>
+  <br>
+  <sub><b>Tue 15 Sep 2026</b> &middot; 01:21 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 10 Sep 2026 at 01:33 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 10 Sep 2026 at 10:16 UTC</sub></p>
 <!-- updated:end -->
