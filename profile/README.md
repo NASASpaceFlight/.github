@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/RST_Unloading_Shot_4k_60_ProRes.00493_print-622x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/">Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument</a></b>
+  <br>
+  <sub>Thu 10 Sep 2026 &middot; Haygen Warren</sub>
+  <br><br>
+  <sub>NASA’s Nancy Grace Roman Space Telescope successfully launched on Sunday, Aug. 30, atop a SpaceX…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-09-23-15-48-721-557x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/">Flight 15 pairing undergo testing at Massey’s</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 7 Sep 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>Five orbital launches are expected this week. Two Falcon 9s are expected to launch from…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/artemis-iii-sls-stacking-artemis-ii-orion-fix/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-07-19-28-25-151-630x343.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/artemis-iii-sls-stacking-artemis-ii-orion-fix/">Artemis III SLS stacking advances as Orion results confirm trajectory fix</a></b>
-  <br>
-  <sub>Mon 7 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
-  <br><br>
-  <sub>Teams at NASA’s Kennedy Space Center have pushed Artemis III Space Launch System hardware another…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 10 Sep 2026 at 15:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 10 Sep 2026 at 22:24 UTC</sub></p>
 <!-- updated:end -->
