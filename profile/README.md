@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-12-23-46-42-740-628x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/">Europe’s commercial launch sector picking up the pace</a></b>
+  <br>
+  <sub>Sat 12 Sep 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>The European space sector is enjoying a run of advances in September, highlighted by Isar…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/RST_Unloading_Shot_4k_60_ProRes.00493_print-622x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/">Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 9 Sep 2026 &middot; Eleanor Day and Chris Bergin</sub>
   <br><br>
   <sub>SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey’s for…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-505x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Launch Preview: Soyuz, CZ-8A, and Falcon 9 to launch from sites around the world</a></b>
-  <br>
-  <sub>Mon 7 Sep 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>Five orbital launches are expected this week. Two Falcon 9s are expected to launch from…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 11 Sep 2026 at 22:14 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 12 Sep 2026 at 23:12 UTC</sub></p>
 <!-- updated:end -->
