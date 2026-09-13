@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/AB9BC3AB-D87F-4E6B-96AE-9902C9A9F085-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/">Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou</a></b>
+  <br>
+  <sub>Sun 13 Sep 2026 &middot; Justin Davenport</sub>
+  <br><br>
+  <sub>Avio S.p.A., the Italian prime contractor, launch service provider, and launch operator for the Vega…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-12-23-46-42-740-628x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/">Europe’s commercial launch sector picking up the pace</a></b>
@@ -73,16 +83,6 @@
   <sub>Thu 10 Sep 2026 &middot; Haygen Warren</sub>
   <br><br>
   <sub>NASA’s Nancy Grace Roman Space Telescope successfully launched on Sunday, Aug. 30, atop a SpaceX…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-09-23-15-48-721-557x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/">Flight 15 pairing undergo testing at Massey’s</a></b>
-  <br>
-  <sub>Wed 9 Sep 2026 &middot; Eleanor Day and Chris Bergin</sub>
-  <br><br>
-  <sub>SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey’s for…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 13 Sep 2026 at 19:11 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 13 Sep 2026 at 22:49 UTC</sub></p>
 <!-- updated:end -->
