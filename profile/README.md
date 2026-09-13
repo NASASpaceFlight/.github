@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/7731">O3b mPOWER 11, 12 &amp; 13</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
-  <br>
-  <sub><b>Sun 13 Sep 2026</b> &middot; 18:49 UTC &middot; window 18:49&ndash;20:16 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=FgKKtSsyYD4">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Vega-C.webp" alt="Vega C" width="88"></td>
 <td valign="middle">
   <b>Sentinel-3C &amp; FLEX</b>
@@ -143,6 +126,21 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Gravity 1" width="88"></td>
+<td valign="middle">
+  <b>Unknown Payload</b>
+  <br>
+  <sub>Orienspace Technology Co., Ltd. &middot; Gravity 1</sub>
+  <br>
+  <sub>Yellow Sea (launch location 5), Haiyang Oriental Spaceport, China</sub>
+  <br>
+  <sub><b>Tue 15 Sep 2026</b> &middot; 21:55 UTC &middot; window 21:50&ndash;22:11 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 12 Sep 2026 at 23:12 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 13 Sep 2026 at 19:11 UTC</sub></p>
 <!-- updated:end -->
