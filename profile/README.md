@@ -80,7 +80,7 @@
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/">Europe’s commercial launch sector picking up the pace</a></b>
   <br>
-  <sub>Sat 12 Sep 2026 &middot; Martijn Luinstra and Chris Bergin</sub>
+  <sub>Sat 12 Sep 2026 &middot; Martin Smith and Chris Bergin</sub>
   <br><br>
   <sub>The European space sector is enjoying a run of advances in September, highlighted by Isar…</sub>
 </td>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 14 Sep 2026 at 17:37 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 14 Sep 2026 at 21:13 UTC</sub></p>
 <!-- updated:end -->
