@@ -97,7 +97,7 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Vega-C.webp" alt="Vega C" width="88"></td>
 <td valign="middle">
-  <b>Sentinel-3C &amp; FLEX</b>
+  <b><a href="https://nextspaceflight.com/launches/details/973">Sentinel-3C &amp; FLEX</a></b>
   <br>
   <sub>Avio &middot; Vega C</sub>
   <br>
@@ -108,7 +108,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=Rb4CN2avz90">Watch</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=Rb4CN2avz90">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 13 Sep 2026 at 22:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 14 Sep 2026 at 05:17 UTC</sub></p>
 <!-- updated:end -->
