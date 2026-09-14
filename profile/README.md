@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-14-17-44-21-003-542x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/">Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22</a></b>
+  <br>
+  <sub>Mon 14 Sep 2026 &middot; Eleanor Day and Chris Bergin</sub>
+  <br><br>
+  <sub>SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/AB9BC3AB-D87F-4E6B-96AE-9902C9A9F085-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/">Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou</a></b>
@@ -73,16 +83,6 @@
   <sub>Sat 12 Sep 2026 &middot; Martijn Luinstra and Chris Bergin</sub>
   <br><br>
   <sub>The European space sector is enjoying a run of advances in September, highlighted by Isar…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/RST_Unloading_Shot_4k_60_ProRes.00493_print-622x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/">Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument</a></b>
-  <br>
-  <sub>Thu 10 Sep 2026 &middot; Haygen Warren</sub>
-  <br><br>
-  <sub>NASA’s Nancy Grace Roman Space Telescope successfully launched on Sunday, Aug. 30, atop a SpaceX…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 14 Sep 2026 at 15:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 14 Sep 2026 at 17:37 UTC</sub></p>
 <!-- updated:end -->
