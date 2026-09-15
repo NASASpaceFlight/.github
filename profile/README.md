@@ -95,21 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="ZhuQue-2E Block 2" width="88"></td>
-<td valign="middle">
-  <b>Unknown Payload</b>
-  <br>
-  <sub>Blue Arrow Aerospace Technology Co., Ltd. &middot; ZhuQue-2E Block 2</sub>
-  <br>
-  <sub>Site 96A, Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Tue 15 Sep 2026</b> &middot; 06:25 UTC &middot; window 06:18&ndash;06:40 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Gravity 1" width="88"></td>
 <td valign="middle">
   <b>Unknown Payload</b>
@@ -141,6 +126,23 @@
   <sub><a href="https://www.spacex.com/launches/ussf259">Watch</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8092">Progress MS-35</a></b>
+  <br>
+  <sub>Roscosmos &middot; Soyuz 2.1b</sub>
+  <br>
+  <sub>Site 31/6, Baikonur Cosmodrome, Kazakhstan</sub>
+  <br>
+  <sub><b>Wed 16 Sep 2026</b> &middot; 13:33 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://plus.nasa.gov/scheduled-video/progress-96-cargo-ship-launch/">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -155,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 15 Sep 2026 at 01:28 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 15 Sep 2026 at 07:19 UTC</sub></p>
 <!-- updated:end -->
