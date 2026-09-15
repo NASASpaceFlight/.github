@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Vega-C.webp" alt="Vega C" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/973">Sentinel-3C &amp; FLEX</a></b>
-  <br>
-  <sub>Avio &middot; Vega C</sub>
-  <br>
-  <sub>ELV, Guiana Space Centre, French Guiana, France</sub>
-  <br>
-  <sub><b>Tue 15 Sep 2026</b> &middot; 01:21 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=_7nBPHF-hAE">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="ZhuQue-2E Block 2" width="88"></td>
 <td valign="middle">
   <b>Unknown Payload</b>
@@ -141,6 +124,23 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b>USSF-259</b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Wed 16 Sep 2026</b> &middot; 01:00 UTC &middot; window 01:00&ndash;05:00 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/ussf259">Watch</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 14 Sep 2026 at 21:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 15 Sep 2026 at 01:28 UTC</sub></p>
 <!-- updated:end -->
