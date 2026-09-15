@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2024/11/Booster-1062-became-the-first-booster-to-complete-a-21st-launch-and-landing-May-2024-Credit-Julia-Bergeron-NSF-507x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Launch Preview: Nine orbital launches scheduled from sites around the world</a></b>
+  <br>
+  <sub>Tue 15 Sep 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Nine orbital launches are scheduled worldwide this week. Two Falcon 9s are expected to deliver…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-14-17-44-21-003-542x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/">Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 13 Sep 2026 &middot; Justin Davenport</sub>
   <br><br>
   <sub>Avio S.p.A., the Italian prime contractor, launch service provider, and launch operator for the Vega…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-12-23-46-42-740-628x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/">Europe’s commercial launch sector picking up the pace</a></b>
-  <br>
-  <sub>Sat 12 Sep 2026 &middot; Martin Smith and Chris Bergin</sub>
-  <br><br>
-  <sub>The European space sector is enjoying a run of advances in September, highlighted by Isar…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 15 Sep 2026 at 16:40 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 15 Sep 2026 at 18:18 UTC</sub></p>
 <!-- updated:end -->
