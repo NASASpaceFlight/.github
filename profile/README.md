@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8330">USSF-259</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
-  <br>
-  <sub><b>Wed 16 Sep 2026</b> &middot; 02:18 UTC &middot; window 01:00&ndash;05:00 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/ussf259">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8092">Progress MS-35</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8330">USSF-259</a></b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Thu 17 Sep 2026</b> &middot; 01:00 UTC &middot; window 01:00&ndash;05:00 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/ussf259">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 15 Sep 2026 at 22:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 16 Sep 2026 at 01:12 UTC</sub></p>
 <!-- updated:end -->
