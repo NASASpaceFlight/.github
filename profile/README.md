@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490-525x350.png" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/">Progress MS-35 poised to launch cargo to ISS from Kazakhstan</a></b>
+  <br>
+  <sub>Wed 16 Sep 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Following the departure of the Progress MS-33 cargo spacecraft from the International Space Station on…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2024/11/Booster-1062-became-the-first-booster-to-complete-a-21st-launch-and-landing-May-2024-Credit-Julia-Bergeron-NSF-507x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Launch Preview: Nine orbital launches scheduled from sites around the world</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 14 Sep 2026 &middot; Eleanor Day and Chris Bergin</sub>
   <br><br>
   <sub>SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/AB9BC3AB-D87F-4E6B-96AE-9902C9A9F085-525x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/">Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou</a></b>
-  <br>
-  <sub>Sun 13 Sep 2026 &middot; Justin Davenport</sub>
-  <br><br>
-  <sub>Avio S.p.A., the Italian prime contractor, launch service provider, and launch operator for the Vega…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 16 Sep 2026 at 01:12 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 16 Sep 2026 at 02:28 UTC</sub></p>
 <!-- updated:end -->
