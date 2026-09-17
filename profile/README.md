@@ -66,7 +66,7 @@
 </td>
 </tr>
 <tr>
-<td width="220" align="center" valign="middle">&nbsp;</td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2024/11/Booster-1062-became-the-first-booster-to-complete-a-21st-launch-and-landing-May-2024-Credit-Julia-Bergeron-NSF-507x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Launch Preview: Nine orbital launches scheduled from sites around the world</a></b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 17 Sep 2026 at 17:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 17 Sep 2026 at 17:25 UTC</sub></p>
 <!-- updated:end -->
