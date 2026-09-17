@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Kuaizhou_11.webp" alt="Kuaizhou 11" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8387">Unknown Payload</a></b>
-  <br>
-  <sub>ExPace Technology Corporation &middot; Kuaizhou 11</sub>
-  <br>
-  <sub>Site 95A, Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Thu 17 Sep 2026</b> &middot; 02:35 UTC &middot; window 02:31&ndash;03:12 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b>Owl By The Dozen</b>
@@ -143,6 +126,23 @@
   <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8373">Starlink Group 15-27</a></b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Sun 20 Sep 2026</b> &middot; 01:47 UTC &middot; window 01:47&ndash;05:47 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/sl-15-27">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 17 Sep 2026 at 01:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 17 Sep 2026 at 03:42 UTC</sub></p>
 <!-- updated:end -->
