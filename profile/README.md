@@ -107,6 +107,8 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.youtube.com/watch?v=AnN8Pj8WvSo">Watch</a></sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 18 Sep 2026 at 04:18 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 18 Sep 2026 at 20:37 UTC</sub></p>
 <!-- updated:end -->
