@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-18-00-37-57-984-548x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/">Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape</a></b>
+  <br>
+  <sub>Fri 18 Sep 2026 &middot; Chris Bergin and Eleanor Day</sub>
+  <br><br>
+  <sub>SpaceX is now targeting Starship Flight 14 no earlier than Monday, September 28, pending regulatory…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490-525x350.png" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/">Progress MS-35 poised to launch cargo to ISS from Kazakhstan</a></b>
@@ -73,16 +83,6 @@
   <sub>Tue 15 Sep 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>Nine orbital launches are scheduled worldwide this week. Two Falcon 9s are expected to deliver…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-14-17-44-21-003-542x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/">Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22</a></b>
-  <br>
-  <sub>Mon 14 Sep 2026 &middot; Eleanor Day and Chris Bergin</sub>
-  <br><br>
-  <sub>SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 17 Sep 2026 at 17:25 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 18 Sep 2026 at 00:43 UTC</sub></p>
 <!-- updated:end -->
