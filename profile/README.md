@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/china-roundup-202609/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/ZhuQue-3-ascends-on-maiden-launch-Aug-2026-close-drone-shot-above-video-still-Landspace-628x350.png" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/china-roundup-202609/">China progresses plans for Mars sample return, asteroid flyby and more launch sites</a></b>
+  <br>
+  <sub>Fri 18 Sep 2026 &middot; Martin Smith</sub>
+  <br><br>
+  <sub>As China integrates crewed and robotic missions to further its lunar exploration program, it is…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-18-00-37-57-984-548x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/">Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 16 Sep 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>Following the departure of the Progress MS-33 cargo spacecraft from the International Space Station on…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2024/11/Booster-1062-became-the-first-booster-to-complete-a-21st-launch-and-landing-May-2024-Credit-Julia-Bergeron-NSF-507x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Launch Preview: Nine orbital launches scheduled from sites around the world</a></b>
-  <br>
-  <sub>Tue 15 Sep 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>Nine orbital launches are scheduled worldwide this week. Two Falcon 9s are expected to deliver…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 18 Sep 2026 at 20:37 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 18 Sep 2026 at 22:14 UTC</sub></p>
 <!-- updated:end -->
