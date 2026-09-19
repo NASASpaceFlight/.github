@@ -103,7 +103,7 @@
   <br>
   <sub>Rocket Lab LC-1B, Māhia Peninsula, New Zealand</sub>
   <br>
-  <sub><b>Sat 19 Sep 2026</b> &middot; 03:15 UTC</sub>
+  <sub><b>Sat 19 Sep 2026</b> &middot; 03:22 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 18 Sep 2026 at 22:14 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 19 Sep 2026 at 01:34 UTC</sub></p>
 <!-- updated:end -->
