@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
-<td valign="middle">
-  <b>Owl By The Dozen</b>
-  <br>
-  <sub>Rocket Lab &middot; Electron/Curie</sub>
-  <br>
-  <sub>Rocket Lab LC-1B, Māhia Peninsula, New Zealand</sub>
-  <br>
-  <sub><b>Sat 19 Sep 2026</b> &middot; 03:22 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=AnN8Pj8WvSo">Watch</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_1.webp" alt="Long March 2D" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8388">Unknown Payload</a></b>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.spacex.com/launches/sl-15-27">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Kinetica-1_Rocket.webp" alt="Kinetica 1" width="88"></td>
+<td valign="middle">
+  <b>Unknown Payload</b>
+  <br>
+  <sub>CAS Space &middot; Kinetica 1</sub>
+  <br>
+  <sub>Site 130, Jiuquan Satellite Launch Center, China</sub>
+  <br>
+  <sub><b>Sun 20 Sep 2026</b> &middot; 04:00 UTC &middot; window 03:54&ndash;04:15 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 19 Sep 2026 at 01:34 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 19 Sep 2026 at 03:41 UTC</sub></p>
 <!-- updated:end -->
