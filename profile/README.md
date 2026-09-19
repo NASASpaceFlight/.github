@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_2D_1.webp" alt="Long March 2D" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8388">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 2D</sub>
-  <br>
-  <sub>LC-9, Taiyuan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Sat 19 Sep 2026</b> &middot; 10:50 UTC &middot; window 10:43&ndash;11:06 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8373">Starlink Group 15-27</a></b>
@@ -143,6 +126,23 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 8A" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8367">Unknown Payload</a></b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 8A</sub>
+  <br>
+  <sub>Commercial LC-1, Wenchang Space Launch Site, China</sub>
+  <br>
+  <sub><b>Wed 23 Sep 2026</b> &middot; 13:30 UTC &middot; window 13:24&ndash;13:49 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 19 Sep 2026 at 03:41 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 19 Sep 2026 at 12:21 UTC</sub></p>
 <!-- updated:end -->
