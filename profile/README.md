@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/McGetchinLRONAC-1-e1789935709592-546x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/">LRO discovers large new lunar crater, finds interesting thermal emission phenomenon</a></b>
+  <br>
+  <sub>Sun 20 Sep 2026 &middot; Haygen Warren</sub>
+  <br><br>
+  <sub>Using NASA’s Lunar Reconnaissance Orbiter, a team of scientists has discovered the largest, newly formed…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/china-roundup-202609/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/ZhuQue-3-ascends-on-maiden-launch-Aug-2026-close-drone-shot-above-video-still-Landspace-628x350.png" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/china-roundup-202609/">China progresses plans for Mars sample return, asteroid flyby and more launch sites</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 18 Sep 2026 &middot; Chris Bergin and Eleanor Day</sub>
   <br><br>
   <sub>SpaceX is now targeting Starship Flight 14 no earlier than Monday, September 28, pending regulatory…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490-525x350.png" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/">Progress MS-35 poised to launch cargo to ISS from Kazakhstan</a></b>
-  <br>
-  <sub>Wed 16 Sep 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>Following the departure of the Progress MS-33 cargo spacecraft from the International Space Station on…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 20 Sep 2026 at 05:15 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 20 Sep 2026 at 21:13 UTC</sub></p>
 <!-- updated:end -->
