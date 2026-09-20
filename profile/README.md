@@ -95,21 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Kinetica-1_Rocket.webp" alt="Kinetica 1" width="88"></td>
-<td valign="middle">
-  <b>Unknown Payload</b>
-  <br>
-  <sub>CAS Space &middot; Kinetica 1</sub>
-  <br>
-  <sub>Site 130, Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Sun 20 Sep 2026</b> &middot; 04:00 UTC &middot; window 03:54&ndash;04:15 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 8A" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8367">Unknown Payload</a></b>
@@ -141,6 +126,21 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
+<td valign="middle">
+  <b>Owlright, Owlright, Owlright</b>
+  <br>
+  <sub>Rocket Lab &middot; Electron/Curie</sub>
+  <br>
+  <sub>Rocket Lab LC-1B, Māhia Peninsula, New Zealand</sub>
+  <br>
+  <sub><b>Sat 26 Sep 2026</b> &middot; 00:15 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 20 Sep 2026 at 01:52 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 20 Sep 2026 at 04:40 UTC</sub></p>
 <!-- updated:end -->
