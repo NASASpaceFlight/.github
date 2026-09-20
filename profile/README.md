@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8373">Starlink Group 15-27</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
-  <br>
-  <sub><b>Sun 20 Sep 2026</b> &middot; 01:47 UTC &middot; window 01:47&ndash;05:47 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/sl-15-27">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-091526/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Kinetica-1_Rocket.webp" alt="Kinetica 1" width="88"></td>
 <td valign="middle">
   <b>Unknown Payload</b>
@@ -143,6 +126,21 @@
   <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 6A" width="88"></td>
+<td valign="middle">
+  <b>Unknown Payload</b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 6A</sub>
+  <br>
+  <sub>LC-9A, Taiyuan Satellite Launch Center, China</sub>
+  <br>
+  <sub><b>Thu 24 Sep 2026</b> &middot; 08:45 UTC &middot; window 08:38&ndash;09:04 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 19 Sep 2026 at 12:21 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 20 Sep 2026 at 01:52 UTC</sub></p>
 <!-- updated:end -->
