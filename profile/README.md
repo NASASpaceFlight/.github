@@ -66,7 +66,7 @@
 </td>
 </tr>
 <tr>
-<td width="220" align="center" valign="middle">&nbsp;</td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-18-00-37-57-984-548x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/">Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape</a></b>
   <br>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 20 Sep 2026 at 04:50 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 20 Sep 2026 at 05:15 UTC</sub></p>
 <!-- updated:end -->
