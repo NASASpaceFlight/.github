@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-21-17-46-39-798-768x688.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/">Exolaunch, Space Cargo book Starship Starfall missions</a></b>
+  <br>
+  <sub>Mon 21 Sep 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/McGetchinLRONAC-1-e1789935709592-546x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/">LRO discovers large new lunar crater, finds interesting thermal emission phenomenon</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 18 Sep 2026 &middot; Martin Smith</sub>
   <br><br>
   <sub>As China integrates crewed and robotic missions to further its lunar exploration program, it is…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-18-00-37-57-984-548x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/">Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape</a></b>
-  <br>
-  <sub>Fri 18 Sep 2026 &middot; Chris Bergin and Eleanor Day</sub>
-  <br><br>
-  <sub>SpaceX is now targeting Starship Flight 14 no earlier than Monday, September 28, pending regulatory…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 20 Sep 2026 at 21:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 21 Sep 2026 at 17:13 UTC</sub></p>
 <!-- updated:end -->
