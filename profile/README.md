@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2023/11/Nov.-8-2023-Falcon-9-Starlink-6-27-Streak-Shot-525x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Launch Preview: Electron, Falcon 9, and Starship set for launches</a></b>
+  <br>
+  <sub>Mon 21 Sep 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-21-17-46-39-798-768x688.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/">Exolaunch, Space Cargo book Starship Starfall missions</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 20 Sep 2026 &middot; Haygen Warren</sub>
   <br><br>
   <sub>Using NASA’s Lunar Reconnaissance Orbiter, a team of scientists has discovered the largest, newly formed…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/china-roundup-202609/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/ZhuQue-3-ascends-on-maiden-launch-Aug-2026-close-drone-shot-above-video-still-Landspace-628x350.png" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/china-roundup-202609/">China progresses plans for Mars sample return, asteroid flyby and more launch sites</a></b>
-  <br>
-  <sub>Fri 18 Sep 2026 &middot; Martin Smith</sub>
-  <br><br>
-  <sub>As China integrates crewed and robotic missions to further its lunar exploration program, it is…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 21 Sep 2026 at 17:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 21 Sep 2026 at 21:14 UTC</sub></p>
 <!-- updated:end -->
