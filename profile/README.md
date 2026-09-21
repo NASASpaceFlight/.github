@@ -108,13 +108,13 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-090726/">Preview</a></sub>
+  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 6A" width="88"></td>
 <td valign="middle">
-  <b>Unknown Payload</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8397">Unknown Payload</a></b>
   <br>
   <sub>China Aerospace Science and Technology Corporation &middot; Long March 6A</sub>
   <br>
@@ -124,12 +124,14 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
-  <b>Owlright, Owlright, Owlright</b>
+  <b><a href="https://nextspaceflight.com/launches/details/7587">Owlright, Owlright, Owlright</a></b>
   <br>
   <sub>Rocket Lab &middot; Electron/Curie</sub>
   <br>
@@ -139,6 +141,8 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -155,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 21 Sep 2026 at 21:14 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 21 Sep 2026 at 21:27 UTC</sub></p>
 <!-- updated:end -->
