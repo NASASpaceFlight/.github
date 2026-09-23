@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-03-24-32-721-wmarked-630x341.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/">Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40</a></b>
+  <br>
+  <sub>Wed 23 Sep 2026 &middot; Bastiaan Vellekoop and Chris Bergin</sub>
+  <br><br>
+  <sub>SpaceX rolled Ship 41 to the launch site for stacking with Booster 21, and the…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2023/11/Nov.-8-2023-Falcon-9-Starlink-6-27-Streak-Shot-525x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Launch Preview: Electron, Falcon 9, and Starship set for launches</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 21 Sep 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/McGetchinLRONAC-1-e1789935709592-546x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/">LRO discovers large new lunar crater, finds interesting thermal emission phenomenon</a></b>
-  <br>
-  <sub>Sun 20 Sep 2026 &middot; Haygen Warren</sub>
-  <br><br>
-  <sub>Using NASA’s Lunar Reconnaissance Orbiter, a team of scientists has discovered the largest, newly formed…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 21 Sep 2026 at 21:27 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 23 Sep 2026 at 02:46 UTC</sub></p>
 <!-- updated:end -->
