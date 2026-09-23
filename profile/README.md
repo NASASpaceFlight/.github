@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-21-19-26-175-468x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/">Ship 41 and Booster 21 head into key pre-flight test</a></b>
+  <br>
+  <sub>Wed 23 Sep 2026 &middot; Ryan Weber</sub>
+  <br><br>
+  <sub>With Booster 21 and Ship 41 stacked at the launch site as of early morning…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-03-24-32-721-wmarked-630x341.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/">Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 21 Sep 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-21-17-46-39-798-768x688.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/">Exolaunch, Space Cargo book Starship Starfall missions</a></b>
-  <br>
-  <sub>Mon 21 Sep 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 23 Sep 2026 at 13:39 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 23 Sep 2026 at 21:28 UTC</sub></p>
 <!-- updated:end -->
