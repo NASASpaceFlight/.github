@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 8A" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8367">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 8A</sub>
-  <br>
-  <sub>Commercial LC-1, Wenchang Space Launch Site, China</sub>
-  <br>
-  <sub><b>Wed 23 Sep 2026</b> &middot; 13:30 UTC &middot; window 13:24&ndash;13:49 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 6A" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8397">Unknown Payload</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8389">USSF-385</a></b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Sat 26 Sep 2026</b> &middot; 11:56 UTC &middot; window 11:56&ndash;14:56 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/ussf385">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 23 Sep 2026 at 02:46 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 23 Sep 2026 at 13:39 UTC</sub></p>
 <!-- updated:end -->
