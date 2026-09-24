@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/IMG_7485-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/">Expedition 75 astronauts continue science work as Crew-13 readies for launch</a></b>
+  <br>
+  <sub>Thu 24 Sep 2026 &middot; Justin Davenport</sub>
+  <br><br>
+  <sub>AS the International Space Station continues to orbit Earth as it has for over a…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-24-04-20-42-246-614x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/">Starfish Space’s first Otter servicing vehicle slated for Transporter-18</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 23 Sep 2026 &middot; Ryan Weber</sub>
   <br><br>
   <sub>With Booster 21 and Ship 41 stacked at the launch site as of early morning…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-03-24-32-721-wmarked-630x341.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/">Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40</a></b>
-  <br>
-  <sub>Wed 23 Sep 2026 &middot; Bastiaan Vellekoop and Chris Bergin</sub>
-  <br><br>
-  <sub>SpaceX rolled Ship 41 to the launch site for stacking with Booster 21, and the…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 24 Sep 2026 at 21:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 24 Sep 2026 at 22:15 UTC</sub></p>
 <!-- updated:end -->
