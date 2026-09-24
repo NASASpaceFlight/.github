@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 6A" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8397">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 6A</sub>
-  <br>
-  <sub>LC-9A, Taiyuan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Thu 24 Sep 2026</b> &middot; 08:45 UTC &middot; window 08:38&ndash;09:04 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7587">Owlright, Owlright, Owlright</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.spacex.com/launches/ussf385">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Starship-Super Heavy v3" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8346">Starship Flight 14</a></b>
+  <br>
+  <sub>SpaceX &middot; Starship-Super Heavy v3</sub>
+  <br>
+  <sub>Pad 2, Starbase, Texas, USA</sub>
+  <br>
+  <sub><b>Mon 28 Sep 2026</b> &middot; 12:15 UTC &middot; window 12:15&ndash;13:30 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.youtube.com/watch?v=9gDxG-pm1Zo">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 23 Sep 2026 at 21:28 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 24 Sep 2026 at 09:51 UTC</sub></p>
 <!-- updated:end -->
