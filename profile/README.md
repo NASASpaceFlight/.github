@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-24-04-20-42-246-614x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/">Starfish Space’s first Otter servicing vehicle slated for Transporter-18</a></b>
+  <br>
+  <sub>Thu 24 Sep 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>Starfish Space has confirmed that its first full-scale Otter satellite servicing vehicle is complete and…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-21-19-26-175-468x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/">Ship 41 and Booster 21 head into key pre-flight test</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 23 Sep 2026 &middot; Bastiaan Vellekoop and Chris Bergin</sub>
   <br><br>
   <sub>SpaceX rolled Ship 41 to the launch site for stacking with Booster 21, and the…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2023/11/Nov.-8-2023-Falcon-9-Starlink-6-27-Streak-Shot-525x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Launch Preview: Electron, Falcon 9, and Starship set for launches</a></b>
-  <br>
-  <sub>Mon 21 Sep 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 24 Sep 2026 at 09:51 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 24 Sep 2026 at 13:15 UTC</sub></p>
 <!-- updated:end -->
