@@ -76,9 +76,9 @@
 </td>
 </tr>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-21-19-26-175-468x350.jpg" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-25-01-15-39-086-494x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/">Ship 41 and Booster 21 head into key pre-flight test</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/">Ship 41 and Booster 21 complete key pre-flight test</a></b>
   <br>
   <sub>Wed 23 Sep 2026 &middot; Ryan Weber</sub>
   <br><br>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 24 Sep 2026 at 22:15 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 25 Sep 2026 at 00:44 UTC</sub></p>
 <!-- updated:end -->
