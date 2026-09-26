@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/7587">Owlright, Owlright, Owlright</a></b>
-  <br>
-  <sub>Rocket Lab &middot; Electron/Curie</sub>
-  <br>
-  <sub>Rocket Lab LC-1B, Māhia Peninsula, New Zealand</sub>
-  <br>
-  <sub><b>Sat 26 Sep 2026</b> &middot; 00:39 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=hkLw0Kf_iSA">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8389">USSF-385</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.youtube.com/watch?v=9gDxG-pm1Zo">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092126/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b>SpaceX Crew-13</b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
+  <br>
+  <sub><b>Thu 1 Oct 2026</b> &middot; 15:10 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/crew13">Watch</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 25 Sep 2026 at 23:26 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 26 Sep 2026 at 00:43 UTC</sub></p>
 <!-- updated:end -->
