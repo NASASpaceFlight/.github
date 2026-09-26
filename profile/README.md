@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-26-04-55-29-205-578x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/">Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps</a></b>
+  <br>
+  <sub>Sat 26 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
+  <br><br>
+  <sub>With Flight 14 being Starship’s first intended orbital mission, a near-term manifest is already pointing…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/IMG_7485-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/">Expedition 75 astronauts continue science work as Crew-13 readies for launch</a></b>
@@ -73,16 +83,6 @@
   <sub>Thu 24 Sep 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>Starfish Space has confirmed that its first full-scale Otter satellite servicing vehicle is complete and…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-25-01-15-39-086-494x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/">Ship 41 and Booster 21 complete key pre-flight test</a></b>
-  <br>
-  <sub>Wed 23 Sep 2026 &middot; Ryan Weber</sub>
-  <br><br>
-  <sub>With Booster 21 and Ship 41 stacked at the launch site as of early morning…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 26 Sep 2026 at 00:43 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 26 Sep 2026 at 04:18 UTC</sub></p>
 <!-- updated:end -->
