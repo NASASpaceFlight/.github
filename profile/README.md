@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Ship-41-and-Booster-21-During-their-WDR-622x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/">Starship Flight 14: SpaceX Attempts Orbit</a></b>
+  <br>
+  <sub>Sun 27 Sep 2026 &middot; Ryan Weber</sub>
+  <br><br>
+  <sub>After more than a decade of development in many forms, SpaceX’s Starship is slated to…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-26-04-55-29-205-578x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/">Flight 14 approaches as a near-term manifest sketches Starship’s next steps</a></b>
@@ -73,16 +83,6 @@
   <sub>Thu 24 Sep 2026 &middot; Justin Davenport</sub>
   <br><br>
   <sub>AS the International Space Station continues to orbit Earth as it has for over a…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-24-04-20-42-246-614x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/">Starfish Space’s first Otter servicing vehicle slated for Transporter-18</a></b>
-  <br>
-  <sub>Thu 24 Sep 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>Starfish Space has confirmed that its first full-scale Otter satellite servicing vehicle is complete and…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 27 Sep 2026 at 04:42 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 27 Sep 2026 at 17:13 UTC</sub></p>
 <!-- updated:end -->
