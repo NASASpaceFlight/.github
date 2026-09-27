@@ -58,7 +58,7 @@
 <tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-26-04-55-29-205-578x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/">Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/">Flight 14 approaches as a near-term manifest sketches Starship’s next steps</a></b>
   <br>
   <sub>Sat 26 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
   <br><br>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 26 Sep 2026 at 14:14 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 27 Sep 2026 at 04:42 UTC</sub></p>
 <!-- updated:end -->
