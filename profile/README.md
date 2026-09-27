@@ -125,7 +125,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/crew13">Watch</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=jxLT_ckNbIs">Watch</a></sub>
 </td>
 </tr>
 <tr>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 27 Sep 2026 at 17:38 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 27 Sep 2026 at 18:19 UTC</sub></p>
 <!-- updated:end -->
