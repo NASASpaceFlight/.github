@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Starship-Super Heavy v3" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8346">Starship Flight 14</a></b>
-  <br>
-  <sub>SpaceX &middot; Starship-Super Heavy v3</sub>
-  <br>
-  <sub>Pad 2, Starbase, Texas, USA</sub>
-  <br>
-  <sub><b>Mon 28 Sep 2026</b> &middot; 12:48 UTC &middot; window 12:15&ndash;13:30 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=9gDxG-pm1Zo">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b>SpaceX Crew-13</b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.spacex.com/launches/transporter18">Watch</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon Heavy" width="88"></td>
+<td valign="middle">
+  <b>NROL-97</b>
+  <br>
+  <sub>SpaceX &middot; Falcon Heavy</sub>
+  <br>
+  <sub>LC-39A, Kennedy Space Center, Florida, USA</sub>
+  <br>
+  <sub><b>Fri 2 Oct 2026</b> &middot; 03:53 UTC &middot; window 03:53&ndash;04:42 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.youtube.com/watch?v=aqYtiH1UduQ">Watch</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 28 Sep 2026 at 12:28 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 28 Sep 2026 at 12:55 UTC</sub></p>
 <!-- updated:end -->
