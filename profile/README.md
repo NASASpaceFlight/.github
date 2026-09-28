@@ -103,7 +103,7 @@
   <br>
   <sub>Pad 2, Starbase, Texas, USA</sub>
   <br>
-  <sub><b>Mon 28 Sep 2026</b> &middot; 12:15 UTC &middot; window 12:15&ndash;13:30 UTC</sub>
+  <sub><b>Mon 28 Sep 2026</b> &middot; 12:46 UTC &middot; window 12:15&ndash;13:30 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 27 Sep 2026 at 18:19 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 28 Sep 2026 at 10:42 UTC</sub></p>
 <!-- updated:end -->
