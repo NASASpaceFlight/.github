@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-28-22-54-40-095-479x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/">NASA, Boeing outline Starliner’s return path to ISS crew rotations</a></b>
+  <br>
+  <sub>Mon 28 Sep 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>NASA and Boeing have laid out a revised path for Starliner that puts an uncrewed…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/DSC05253-wmarked-623x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/">Ship 41 Makes it to Orbit, Booster 21 Nearly Perfect</a></b>
@@ -73,16 +83,6 @@
   <sub>Sat 26 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
   <br><br>
   <sub>With Flight 14 being Starship’s first intended orbital mission, a near-term manifest is already pointing…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/IMG_7485-525x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/">Expedition 75 astronauts continue science work as Crew-13 readies for launch</a></b>
-  <br>
-  <sub>Thu 24 Sep 2026 &middot; Justin Davenport</sub>
-  <br><br>
-  <sub>AS the International Space Station continues to orbit Earth as it has for over a…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 28 Sep 2026 at 17:39 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 28 Sep 2026 at 22:16 UTC</sub></p>
 <!-- updated:end -->
