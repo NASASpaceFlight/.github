@@ -56,13 +56,13 @@
 <!-- articles:start -->
 <table>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Ship-41-and-Booster-21-During-their-WDR-622x350.jpg" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/DSC05253-wmarked-623x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/">Starship Flight 14: SpaceX Attempts Orbit</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/">Ship 41 Makes it to Orbit, Booster 21 Nearly Perfect</a></b>
   <br>
   <sub>Sun 27 Sep 2026 &middot; Ryan Weber</sub>
   <br><br>
-  <sub>After more than a decade of development in many forms, SpaceX’s Starship is slated to…</sub>
+  <sub>After more than a decade of development in many forms, SpaceX’s Starship has finally reached…</sub>
 </td>
 </tr>
 <tr>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 28 Sep 2026 at 12:55 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 28 Sep 2026 at 17:39 UTC</sub></p>
 <!-- updated:end -->
