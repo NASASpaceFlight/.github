@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X-498x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO</a></b>
+  <br>
+  <sub>Tue 29 Sep 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Four orbital launches are expected this week, all by SpaceX’s Falcon 9 and Falcon Heavy…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-28-22-54-40-095-479x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/">NASA, Boeing outline Starliner’s return path to ISS crew rotations</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 27 Sep 2026 &middot; Ryan Weber</sub>
   <br><br>
   <sub>After more than a decade of development in many forms, SpaceX’s Starship has finally reached…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-26-04-55-29-205-578x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/">Flight 14 approaches as a near-term manifest sketches Starship’s next steps</a></b>
-  <br>
-  <sub>Sat 26 Sep 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
-  <br><br>
-  <sub>With Flight 14 being Starship’s first intended orbital mission, a near-term manifest is already pointing…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 28 Sep 2026 at 22:16 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 29 Sep 2026 at 21:49 UTC</sub></p>
 <!-- updated:end -->
