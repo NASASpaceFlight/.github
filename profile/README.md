@@ -58,7 +58,7 @@
 <tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X-498x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Launch Preview: Crew-13 to head to ISS, Falcon Heavy mission for the NRO</a></b>
   <br>
   <sub>Tue 29 Sep 2026 &middot; Eleanor Day</sub>
   <br><br>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 29 Sep 2026 at 21:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 29 Sep 2026 at 22:16 UTC</sub></p>
 <!-- updated:end -->
