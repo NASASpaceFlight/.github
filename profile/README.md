@@ -97,7 +97,7 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b>SpaceX Crew-13</b>
+  <b><a href="https://nextspaceflight.com/launches/details/6973">SpaceX Crew-13</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
   <br>
@@ -108,13 +108,13 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=jxLT_ckNbIs">Watch</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=jxLT_ckNbIs">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b>Transporter 18</b>
+  <b><a href="https://nextspaceflight.com/launches/details/7611">Transporter 18</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
   <br>
@@ -125,13 +125,13 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/transporter18">Watch</a></sub>
+  <sub><a href="https://www.spacex.com/launches/transporter18">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon Heavy" width="88"></td>
 <td valign="middle">
-  <b>NROL-97</b>
+  <b><a href="https://nextspaceflight.com/launches/details/7826">NROL-97</a></b>
   <br>
   <sub>SpaceX &middot; Falcon Heavy</sub>
   <br>
@@ -142,7 +142,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=aqYtiH1UduQ">Watch</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=aqYtiH1UduQ">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 29 Sep 2026 at 22:16 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 30 Sep 2026 at 05:17 UTC</sub></p>
 <!-- updated:end -->
