@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/HTfJkaGXwAAn5W4-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/">Crew-13 astronauts set for launch to ISS after weeks of delays</a></b>
+  <br>
+  <sub>Wed 30 Sep 2026 &middot; Sawyer Rosenstein</sub>
+  <br><br>
+  <sub>One veteran astronaut and three first-time flyers are ready to begin a six-month mission to…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Ship-41-and-Booster-21-Liftoff-for-Flight-14-525x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/">Starship makes orbit, Flight 15 preps in full swing</a></b>
@@ -73,16 +83,6 @@
   <sub>Tue 29 Sep 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>Four orbital launches are expected this week, all by SpaceX’s Falcon 9 and Falcon Heavy…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-28-22-54-40-095-479x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/">NASA, Boeing outline Starliner’s return path to ISS crew rotations</a></b>
-  <br>
-  <sub>Mon 28 Sep 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>NASA and Boeing have laid out a revised path for Starliner that puts an uncrewed…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 30 Sep 2026 at 15:22 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 30 Sep 2026 at 21:16 UTC</sub></p>
 <!-- updated:end -->
