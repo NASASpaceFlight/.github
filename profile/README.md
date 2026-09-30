@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Ship-41-and-Booster-21-Liftoff-for-Flight-14-525x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/">Starship makes orbit, Flight 15 preps in full swing</a></b>
+  <br>
+  <sub>Wed 30 Sep 2026 &middot; Ryan Weber</sub>
+  <br><br>
+  <sub>SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X-498x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Launch Preview: Crew-13 to head to ISS, Falcon Heavy mission for the NRO</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 28 Sep 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>NASA and Boeing have laid out a revised path for Starliner that puts an uncrewed…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/DSC05253-wmarked-623x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/">Ship 41 Makes it to Orbit, Booster 21 Nearly Perfect</a></b>
-  <br>
-  <sub>Sun 27 Sep 2026 &middot; Ryan Weber</sub>
-  <br><br>
-  <sub>After more than a decade of development in many forms, SpaceX’s Starship has finally reached…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 30 Sep 2026 at 05:17 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 30 Sep 2026 at 15:22 UTC</sub></p>
 <!-- updated:end -->
