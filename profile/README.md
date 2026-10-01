@@ -108,7 +108,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/transporter18">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Preview</a></sub>
+  <sub><a href="https://www.spacex.com/launches/transporter18">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/transporter-18/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 17:40 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 17:51 UTC</sub></p>
 <!-- updated:end -->
