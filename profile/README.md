@@ -66,13 +66,13 @@
 </td>
 </tr>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/0C67D3BF-9038-495A-A53F-3E356705001C-525x350.jpeg" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/IMG_8127-628x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/">Starfish Otter, other payloads set to launch on Transporter 18</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/">Starfish Otter, other payloads launch on Transporter 18</a></b>
   <br>
   <sub>Thu 1 Oct 2026 &middot; Justin Davenport</sub>
   <br><br>
-  <sub>SpaceX plans to launch a Transporter rideshare mission aboard a Falcon 9 from California, on…</sub>
+  <sub>SpaceX launched a Transporter rideshare mission aboard a Falcon 9 from California, on the same…</sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 18:46 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 19:15 UTC</sub></p>
 <!-- updated:end -->
