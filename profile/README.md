@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/0C67D3BF-9038-495A-A53F-3E356705001C-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/">Starfish Otter, other payloads set to launch on Transporter 18</a></b>
+  <br>
+  <sub>Thu 1 Oct 2026 &middot; Justin Davenport</sub>
+  <br><br>
+  <sub>SpaceX plans to launch a Transporter rideshare mission aboard a Falcon 9 from California, on…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/HTfJkaGXwAAn5W4-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/">Crew-13 astronauts set for launch to ISS after weeks of delays</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 30 Sep 2026 &middot; Ryan Weber</sub>
   <br><br>
   <sub>SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X-498x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Launch Preview: Crew-13 to head to ISS, Falcon Heavy mission for the NRO</a></b>
-  <br>
-  <sub>Tue 29 Sep 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>Four orbital launches are expected this week, all by SpaceX’s Falcon 9 and Falcon Heavy…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 30 Sep 2026 at 21:41 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 13:20 UTC</sub></p>
 <!-- updated:end -->
