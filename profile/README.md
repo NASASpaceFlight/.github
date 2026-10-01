@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/20260930_CC_NROL_97_sunset_DSC_0504_desktop_32cdaaf193-scaled-e1790881481877-594x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/">Falcon Heavy set to launch classified NROL-97 to high-energy orbit</a></b>
+  <br>
+  <sub>Thu 1 Oct 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>SpaceX’s Falcon Heavy is poised atop Launch Complex 39A once again, this time to launch…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-10-01-05-10-39-841-546x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/">Canada Rocket Company plans first large-scale engine test site in London, Ontario</a></b>
@@ -73,16 +83,6 @@
   <sub>Thu 1 Oct 2026 &middot; Justin Davenport</sub>
   <br><br>
   <sub>SpaceX launched a Transporter rideshare mission aboard a Falcon 9 from California, on the same…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-10-01-18-22-16-229-523x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/">Crew-13 astronauts launch to ISS after weeks of delays</a></b>
-  <br>
-  <sub>Wed 30 Sep 2026 &middot; Sawyer Rosenstein</sub>
-  <br><br>
-  <sub>One veteran astronaut and three first-time flyers began a six-month mission to the International Space…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 19:15 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 19:29 UTC</sub></p>
 <!-- updated:end -->
