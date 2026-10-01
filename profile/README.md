@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/7611">Transporter 18</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
-  <br>
-  <sub><b>Thu 1 Oct 2026</b> &middot; 18:32 UTC &middot; window 18:18&ndash;19:16 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/transporter18">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/transporter-18/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon Heavy" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7826">NROL-97</a></b>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.spacex.com/launches/sda-t1tl-a">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/KSLV-2.webp" alt="KSLV-2" width="88"></td>
+<td valign="middle">
+  <b>NeonSat-2 to 6 &amp; Others</b>
+  <br>
+  <sub>Korea Aerospace Research Institute &middot; KSLV-2</sub>
+  <br>
+  <sub>LC-2, Naro Space Center, South Korea</sub>
+  <br>
+  <sub><b>Wed 7 Oct 2026</b> &middot; 03:23 UTC &middot; window 03:23&ndash;04:23 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 17:51 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 18:46 UTC</sub></p>
 <!-- updated:end -->
