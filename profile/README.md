@@ -76,13 +76,13 @@
 </td>
 </tr>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/HTfJkaGXwAAn5W4-525x350.jpeg" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-10-01-18-22-16-229-523x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/">Crew-13 astronauts set for launch to ISS after weeks of delays</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/09/crew-13-launch/">Crew-13 astronauts launch to ISS after weeks of delays</a></b>
   <br>
   <sub>Wed 30 Sep 2026 &middot; Sawyer Rosenstein</sub>
   <br><br>
-  <sub>One veteran astronaut and three first-time flyers are ready to begin a six-month mission to…</sub>
+  <sub>One veteran astronaut and three first-time flyers began a six-month mission to the International Space…</sub>
 </td>
 </tr>
 </table>
@@ -137,12 +137,12 @@
   <br>
   <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
   <br>
-  <sub><b>Mon 5 Oct 2026</b> &middot; 08:16 UTC &middot; window 08:16&ndash;08:28 UTC</sub>
+  <sub><b>Mon 5 Oct 2026</b> &middot; 08:17 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/sdat1a">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Preview</a></sub>
+  <sub><a href="https://www.spacex.com/launches/sda-t1tl-a">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 17:15 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 17:40 UTC</sub></p>
 <!-- updated:end -->
