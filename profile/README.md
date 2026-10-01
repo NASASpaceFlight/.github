@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-10-01-05-10-39-841-546x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/">Canada Rocket Company plans first large-scale engine test site in London, Ontario</a></b>
+  <br>
+  <sub>Thu 1 Oct 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>Canada Rocket Company (CRC) will build Canada’s first large-scale rocket engine test facility at London…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/0C67D3BF-9038-495A-A53F-3E356705001C-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/">Starfish Otter, other payloads set to launch on Transporter 18</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 30 Sep 2026 &middot; Sawyer Rosenstein</sub>
   <br><br>
   <sub>One veteran astronaut and three first-time flyers are ready to begin a six-month mission to…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Ship-41-and-Booster-21-Liftoff-for-Flight-14-525x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/">Starship makes orbit, Flight 15 preps in full swing</a></b>
-  <br>
-  <sub>Wed 30 Sep 2026 &middot; Ryan Weber</sub>
-  <br><br>
-  <sub>SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 15:17 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 1 Oct 2026 at 15:41 UTC</sub></p>
 <!-- updated:end -->
