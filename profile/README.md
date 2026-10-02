@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon Heavy" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/7826">NROL-97</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon Heavy</sub>
-  <br>
-  <sub>LC-39A, Kennedy Space Center, Florida, USA</sub>
-  <br>
-  <sub><b>Fri 2 Oct 2026</b> &middot; 03:54 UTC &middot; window 03:53&ndash;04:42 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=aqYtiH1UduQ">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/6963">Tranche 1 Transport Layer A</a></b>
@@ -143,6 +126,21 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 12" width="88"></td>
+<td valign="middle">
+  <b>Unknown Payload</b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 12</sub>
+  <br>
+  <sub>Commercial LC-2, Wenchang Space Launch Site, China</sub>
+  <br>
+  <sub><b>Fri 9 Oct 2026</b> &middot; 19:25 UTC &middot; window 19:20&ndash;19:49 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 2 Oct 2026 at 02:39 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 2 Oct 2026 at 04:20 UTC</sub></p>
 <!-- updated:end -->
