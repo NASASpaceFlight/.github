@@ -56,13 +56,13 @@
 <!-- articles:start -->
 <table>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/20260930_CC_NROL_97_sunset_DSC_0504_desktop_32cdaaf193-scaled-e1790881481877-594x350.jpg" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-02-05-28-54-976-529x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/">Falcon Heavy set to launch classified NROL-97 to high-energy orbit</a></b>
   <br>
   <sub>Thu 1 Oct 2026 &middot; Eleanor Day</sub>
   <br><br>
-  <sub>SpaceX’s Falcon Heavy is poised atop Launch Complex 39A once again, this time to launch…</sub>
+  <sub>SpaceX’s Falcon Heavy launched the classified NROL-97 payload for the United States National Reconnaissance Office.…</sub>
 </td>
 </tr>
 <tr>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 2 Oct 2026 at 04:20 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 2 Oct 2026 at 04:44 UTC</sub></p>
 <!-- updated:end -->
