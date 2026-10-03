@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/europe-update/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Artist_s_impression_of_a_potential_European-led_orbital_station_1_3-525x350.png" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/europe-update/">ESA to pursue crew transport and space stations as European launchers come online</a></b>
+  <br>
+  <sub>Sat 3 Oct 2026 &middot; Martijn Luinstra</sub>
+  <br><br>
+  <sub>The European Space Agency (ESA) recently started investigating options for a European-led space station. The…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-02-05-28-54-976-529x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/">Falcon Heavy set to launch classified NROL-97 to high-energy orbit</a></b>
@@ -73,16 +83,6 @@
   <sub>Thu 1 Oct 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>Canada Rocket Company (CRC) will build Canada’s first large-scale rocket engine test facility at London…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/IMG_8127-628x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/transporter-18/">Starfish Otter, other payloads launch on Transporter 18</a></b>
-  <br>
-  <sub>Thu 1 Oct 2026 &middot; Justin Davenport</sub>
-  <br><br>
-  <sub>SpaceX launched a Transporter rideshare mission aboard a Falcon 9 from California, on the same…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 2 Oct 2026 at 04:44 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 3 Oct 2026 at 22:40 UTC</sub></p>
 <!-- updated:end -->
