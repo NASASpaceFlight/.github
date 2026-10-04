@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/smileuvi1-481x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/">ESA, CAS release first images from SMILE; officially begin science operations</a></b>
+  <br>
+  <sub>Sun 4 Oct 2026 &middot; Haygen Warren</sub>
+  <br><br>
+  <sub>Following its launch in May and a multi-month commissioning period, the joint European Space Agency…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/europe-update/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Artist_s_impression_of_a_potential_European-led_orbital_station_1_3-525x350.png" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/europe-update/">ESA to pursue crew transport and space stations as European launchers come online</a></b>
@@ -73,16 +83,6 @@
   <sub>Thu 1 Oct 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>SpaceX’s Falcon Heavy launched the classified NROL-97 payload for the United States National Reconnaissance Office.…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-10-01-05-10-39-841-546x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/">Canada Rocket Company plans first large-scale engine test site in London, Ontario</a></b>
-  <br>
-  <sub>Thu 1 Oct 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>Canada Rocket Company (CRC) will build Canada’s first large-scale rocket engine test facility at London…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 4 Oct 2026 at 22:15 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 4 Oct 2026 at 23:14 UTC</sub></p>
 <!-- updated:end -->
