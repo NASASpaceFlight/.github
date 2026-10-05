@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-505x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Launch Preview: Flights from South Korea, China, USA planned for this week</a></b>
+  <br>
+  <sub>Mon 5 Oct 2026 &middot; Justin Davenport</sub>
+  <br><br>
+  <sub>On the heels of an impactful few days of launches from SpaceX, this week shapes…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/smileuvi1-481x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/">ESA, CAS release first images from SMILE; officially begin science operations</a></b>
@@ -73,16 +83,6 @@
   <sub>Sat 3 Oct 2026 &middot; Martijn Luinstra</sub>
   <br><br>
   <sub>The European Space Agency (ESA) recently started investigating options for a European-led space station. The…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-02-05-28-54-976-529x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/nrol97-launch/">Falcon Heavy launches classified NROL-97 to high-energy orbit</a></b>
-  <br>
-  <sub>Thu 1 Oct 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>SpaceX’s Falcon Heavy launched the classified NROL-97 payload for the United States National Reconnaissance Office.…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 5 Oct 2026 at 08:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 5 Oct 2026 at 21:15 UTC</sub></p>
 <!-- updated:end -->
