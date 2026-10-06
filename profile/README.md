@@ -97,7 +97,7 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/KSLV-2.webp" alt="KSLV-2" width="88"></td>
 <td valign="middle">
-  <b>NeonSat-2 to 6 &amp; Others</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8079">NeonSat-2 to 6 &amp; Others</a></b>
   <br>
   <sub>Korea Aerospace Research Institute &middot; KSLV-2</sub>
   <br>
@@ -108,7 +108,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=v9gY7VkVT0w">Watch</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=v9gY7VkVT0w">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -125,13 +125,13 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/sda-t1tl-a">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/09/launch-preview-092926/">Preview</a></sub>
+  <sub><a href="https://www.spacex.com/launches/sda-t1tl-a">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 12" width="88"></td>
 <td valign="middle">
-  <b>Unknown Payload</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8407">Unknown Payload</a></b>
   <br>
   <sub>China Aerospace Science and Technology Corporation &middot; Long March 12</sub>
   <br>
@@ -141,6 +141,8 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -157,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 6 Oct 2026 at 18:46 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 6 Oct 2026 at 19:13 UTC</sub></p>
 <!-- updated:end -->
