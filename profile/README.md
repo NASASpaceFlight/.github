@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-06-13-24-15-744-494x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/">NASA progress with SLS vehicles for upcoming Artemis missions</a></b>
+  <br>
+  <sub>Tue 6 Oct 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
+  <br><br>
+  <sub>NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-505x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Launch Preview: Flights from South Korea, China, USA planned for this week</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 4 Oct 2026 &middot; Haygen Warren</sub>
   <br><br>
   <sub>Following its launch in May and a multi-month commissioning period, the joint European Space Agency…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/europe-update/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Artist_s_impression_of_a_potential_European-led_orbital_station_1_3-525x350.png" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/europe-update/">ESA to pursue crew transport and space stations as European launchers come online</a></b>
-  <br>
-  <sub>Sat 3 Oct 2026 &middot; Martijn Luinstra</sub>
-  <br><br>
-  <sub>The European Space Agency (ESA) recently started investigating options for a European-led space station. The…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 6 Oct 2026 at 00:47 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 6 Oct 2026 at 12:51 UTC</sub></p>
 <!-- updated:end -->
