@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/crew-12-return/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/55490081853_fc3faab619_5k-525x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/crew-12-return/">Crew-12 set to depart the ISS after eighth months in orbit</a></b>
+  <br>
+  <sub>Tue 6 Oct 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission is scheduled…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-06-13-24-15-744-494x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/">NASA progress with SLS vehicles for upcoming Artemis missions</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 5 Oct 2026 &middot; Justin Davenport</sub>
   <br><br>
   <sub>On the heels of an impactful few days of launches from SpaceX, this week shapes…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/smileuvi1-481x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/">ESA, CAS release first images from SMILE; officially begin science operations</a></b>
-  <br>
-  <sub>Sun 4 Oct 2026 &middot; Haygen Warren</sub>
-  <br><br>
-  <sub>Following its launch in May and a multi-month commissioning period, the joint European Space Agency…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 6 Oct 2026 at 19:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 6 Oct 2026 at 23:50 UTC</sub></p>
 <!-- updated:end -->
