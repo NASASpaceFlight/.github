@@ -58,11 +58,11 @@
 <tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/crew-12-return/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/55490081853_fc3faab619_5k-525x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/crew-12-return/">Crew-12 set to depart the ISS after eighth months in orbit</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/10/crew-12-return/">Crew-12 undocks from the ISS after eighth months in orbit</a></b>
   <br>
   <sub>Tue 6 Oct 2026 &middot; Eleanor Day</sub>
   <br><br>
-  <sub>After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission is scheduled…</sub>
+  <sub>After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission undocked from…</sub>
 </td>
 </tr>
 <tr>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 7 Oct 2026 at 12:27 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 7 Oct 2026 at 13:43 UTC</sub></p>
 <!-- updated:end -->
