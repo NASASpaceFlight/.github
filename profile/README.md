@@ -106,7 +106,7 @@
   <sub><b>Thu 8 Oct 2026</b> &middot; 07:54 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <img src="https://img.shields.io/badge/Go-2ea043?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.spacex.com/launches/sda-t1tl-a">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
 </td>
@@ -123,7 +123,7 @@
   <sub><b>Fri 9 Oct 2026</b> &middot; 19:25 UTC &middot; window 19:20&ndash;19:49 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <img src="https://img.shields.io/badge/Go-2ea043?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
 </td>
@@ -140,7 +140,7 @@
   <sub><b>Sat 10 Oct 2026</b> &middot; 23:00 UTC &middot; window 23:00&ndash;03:00 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <img src="https://img.shields.io/badge/Go-2ea043?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.spacex.com/launches/sl-15-25">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
 </td>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 7 Oct 2026 at 03:36 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 7 Oct 2026 at 11:54 UTC</sub></p>
 <!-- updated:end -->
