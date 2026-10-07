@@ -103,7 +103,7 @@
   <br>
   <sub>LC-2, Naro Space Center, South Korea</sub>
   <br>
-  <sub><b>Wed 7 Oct 2026</b> &middot; 03:23 UTC &middot; window 03:23&ndash;04:23 UTC</sub>
+  <sub><b>Wed 7 Oct 2026</b> &middot; 03:25 UTC &middot; window 03:23&ndash;04:23 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 6 Oct 2026 at 23:50 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 7 Oct 2026 at 00:49 UTC</sub></p>
 <!-- updated:end -->
