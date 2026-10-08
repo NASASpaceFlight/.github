@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/6963">Tranche 1 Transport Layer A</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
-  <br>
-  <sub><b>Fri 9 Oct 2026</b> &middot; 07:36 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/sda-t1tl-a">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 12" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8407">Unknown Payload</a></b>
@@ -126,6 +109,23 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
+</td>
+</tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/6963">Tranche 1 Transport Layer A</a></b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Sat 10 Oct 2026</b> &middot; 07:29 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/sda-t1tl-a">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 7 Oct 2026 at 20:53 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 8 Oct 2026 at 00:49 UTC</sub></p>
 <!-- updated:end -->
