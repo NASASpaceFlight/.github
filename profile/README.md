@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Ship40-4-2-wmarked-768x768.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/">Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing</a></b>
+  <br>
+  <sub>Fri 9 Oct 2026 &middot; Ryan Weber</sub>
+  <br><br>
+  <sub>Ship 42 for Flight 15 has headed back out to Massey’s for more cryo-proof testing…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/crew-12-return/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-08-19-35-59-176-539x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/crew-12-return/">Crew-12 completes eight months mission at the ISS</a></b>
@@ -73,16 +83,6 @@
   <sub>Tue 6 Oct 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
   <br><br>
   <sub>NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-505x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Launch Preview: Flights from South Korea, China, USA planned for this week</a></b>
-  <br>
-  <sub>Mon 5 Oct 2026 &middot; Justin Davenport</sub>
-  <br><br>
-  <sub>On the heels of an impactful few days of launches from SpaceX, this week shapes…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 8 Oct 2026 at 18:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 9 Oct 2026 at 14:45 UTC</sub></p>
 <!-- updated:end -->
