@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 12" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8407">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 12</sub>
-  <br>
-  <sub>Commercial LC-2, Wenchang Space Launch Site, China</sub>
-  <br>
-  <sub><b>Fri 9 Oct 2026</b> &middot; 19:25 UTC &middot; window 19:20&ndash;19:49 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/6963">Tranche 1 Transport Layer A</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.spacex.com/launches/sl-15-25">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b>CRS SpX-35</b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
+  <br>
+  <sub><b>Tue 13 Oct 2026</b> &middot; 10:33 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.youtube.com/watch?v=f8FE2R7esZ0">Watch</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 9 Oct 2026 at 15:15 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 9 Oct 2026 at 19:42 UTC</sub></p>
 <!-- updated:end -->
