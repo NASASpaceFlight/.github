@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/webbhubble1026-481x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/">Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images</a></b>
+  <br>
+  <sub>Sun 11 Oct 2026 &middot; Haygen Warren</sub>
+  <br><br>
+  <sub>Teams using the James Webb Space Telescope and the Hubble Space Telescope — both jointly…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-11-15-28-41-818-503x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/">Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 9 Oct 2026 &middot; Ryan Weber</sub>
   <br><br>
   <sub>Ship 42 for Flight 15 has headed back out to Massey’s for more cryo-proof testing…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/crew-12-return/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-08-19-35-59-176-539x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/crew-12-return/">Crew-12 completes eight months mission at the ISS</a></b>
-  <br>
-  <sub>Wed 7 Oct 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission undocked from…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 11 Oct 2026 at 18:20 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 11 Oct 2026 at 21:54 UTC</sub></p>
 <!-- updated:end -->
