@@ -108,7 +108,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/sl-15-25">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=KwOyWO98vGI">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-100526/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=f8FE2R7esZ0">Watch</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=_gdbS1AAkq0">Watch</a></sub>
 </td>
 </tr>
 <tr>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 11 Oct 2026 at 14:41 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 11 Oct 2026 at 18:20 UTC</sub></p>
 <!-- updated:end -->
