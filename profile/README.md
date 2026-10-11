@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-11-15-28-41-818-503x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/">Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight</a></b>
+  <br>
+  <sub>Sun 11 Oct 2026 &middot; Ryan Caton</sub>
+  <br><br>
+  <sub>Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Ship40-4-2-wmarked-768x768.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/">Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 7 Oct 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission undocked from…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-06-13-24-15-744-494x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/">NASA progress with SLS vehicles for upcoming Artemis missions</a></b>
-  <br>
-  <sub>Tue 6 Oct 2026 &middot; Alejandro Alcantarilla Romera and Chris Bergin</sub>
-  <br><br>
-  <sub>NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 10 Oct 2026 at 07:43 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 11 Oct 2026 at 14:41 UTC</sub></p>
 <!-- updated:end -->
