@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/HUc3hl1WYAERB6z-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/">CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items</a></b>
+  <br>
+  <sub>Mon 12 Oct 2026 &middot; Justin Davenport</sub>
+  <br><br>
+  <sub>The International Space Station, fresh off a crew handover and the return of Crew-12 to…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/webbhubble1026-481x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/">Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 11 Oct 2026 &middot; Ryan Caton</sub>
   <br><br>
   <sub>Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Ship40-4-2-wmarked-768x768.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/">Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing</a></b>
-  <br>
-  <sub>Fri 9 Oct 2026 &middot; Ryan Weber</sub>
-  <br><br>
-  <sub>Ship 42 for Flight 15 has headed back out to Massey’s for more cryo-proof testing…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 12 Oct 2026 at 00:55 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 12 Oct 2026 at 21:17 UTC</sub></p>
 <!-- updated:end -->
