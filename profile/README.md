@@ -56,9 +56,9 @@
 <!-- articles:start -->
 <table>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/HUc3hl1WYAERB6z-525x350.jpeg" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/083225FC-8622-4256-9923-8572402B7F05-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/">CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/">CRS-35 launches to ISS with final iROSA arrays, experiments, and other items</a></b>
   <br>
   <sub>Mon 12 Oct 2026 &middot; Justin Davenport</sub>
   <br><br>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 13 Oct 2026 at 10:45 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 13 Oct 2026 at 11:16 UTC</sub></p>
 <!-- updated:end -->
