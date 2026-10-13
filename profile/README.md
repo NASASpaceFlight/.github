@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-101326/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/07/IMG_2367-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-101326/">Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week</a></b>
+  <br>
+  <sub>Tue 13 Oct 2026 &middot; John Sharp</sub>
+  <br><br>
+  <sub>This week features a relatively quiet launch manifest, with SpaceX’s workhorse Falcon 9 comprising much…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/083225FC-8622-4256-9923-8572402B7F05-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/">CRS-35 launches to ISS with final iROSA arrays, experiments, and other items</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 11 Oct 2026 &middot; Haygen Warren</sub>
   <br><br>
   <sub>Teams using the James Webb Space Telescope and the Hubble Space Telescope — both jointly…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-11-15-28-41-818-503x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/">Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight</a></b>
-  <br>
-  <sub>Sun 11 Oct 2026 &middot; Ryan Caton</sub>
-  <br><br>
-  <sub>Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 13 Oct 2026 at 17:42 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 13 Oct 2026 at 22:13 UTC</sub></p>
 <!-- updated:end -->
