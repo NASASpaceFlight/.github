@@ -112,6 +112,21 @@
 </td>
 </tr>
 <tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="ZhuQue-2E" width="88"></td>
+<td valign="middle">
+  <b>Unknown Payload</b>
+  <br>
+  <sub>Blue Arrow Aerospace Technology Co., Ltd. &middot; ZhuQue-2E</sub>
+  <br>
+  <sub>Site 96A, Jiuquan Satellite Launch Center, China</sub>
+  <br>
+  <sub><b>Wed 14 Oct 2026</b> &middot; 11:40 UTC &middot; window 11:33&ndash;12:19 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
+<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b>USSF-481</b>
@@ -128,21 +143,6 @@
   <sub><a href="https://www.spacex.com/launches/ussf481">Watch</a></sub>
 </td>
 </tr>
-<tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
-  <b>Bandwagon-5</b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
-  <br>
-  <sub><b>Mon 19 Oct 2026</b> &middot; 10:30 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-</td>
-</tr>
 </table>
 
 <p align="center">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 13 Oct 2026 at 00:51 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 13 Oct 2026 at 01:40 UTC</sub></p>
 <!-- updated:end -->
