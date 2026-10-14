@@ -97,7 +97,7 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b>USSF-481</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8332">USSF-481</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
   <br>
@@ -108,7 +108,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/ussf481">Watch</a></sub>
+  <sub><a href="https://www.spacex.com/launches/ussf481">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-101326/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 14 Oct 2026 at 12:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 14 Oct 2026 at 15:55 UTC</sub></p>
 <!-- updated:end -->
