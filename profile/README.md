@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-14-23-01-17-060-490x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/">Artemis III SLS teams prepare short stack for pad tanking test</a></b>
+  <br>
+  <sub>Wed 14 Oct 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>With both solid rocket boosters fully stacked and all four RS-25 engines now installed on…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-101326/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/07/IMG_2367-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-101326/">Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 12 Oct 2026 &middot; Justin Davenport</sub>
   <br><br>
   <sub>The International Space Station, fresh off a crew handover and the return of Crew-12 to…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/webbhubble1026-481x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/">Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images</a></b>
-  <br>
-  <sub>Sun 11 Oct 2026 &middot; Haygen Warren</sub>
-  <br><br>
-  <sub>Teams using the James Webb Space Telescope and the Hubble Space Telescope — both jointly…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 14 Oct 2026 at 15:55 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 14 Oct 2026 at 22:39 UTC</sub></p>
 <!-- updated:end -->
