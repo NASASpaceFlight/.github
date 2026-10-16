@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-16-04-46-59-168-627x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/">Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027</a></b>
+  <br>
+  <sub>Fri 16 Oct 2026 &middot; Ryan Caton</sub>
+  <br><br>
+  <sub>Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-14-23-01-17-060-490x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/">Artemis III SLS teams prepare short stack for pad tanking test</a></b>
@@ -73,16 +83,6 @@
   <sub>Tue 13 Oct 2026 &middot; John Sharp</sub>
   <br><br>
   <sub>This week features a relatively quiet launch manifest, with SpaceX’s workhorse Falcon 9 comprising much…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/083225FC-8622-4256-9923-8572402B7F05-525x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/crs-35-launch/">CRS-35 launches to ISS with final iROSA arrays, experiments, and other items</a></b>
-  <br>
-  <sub>Mon 12 Oct 2026 &middot; Justin Davenport</sub>
-  <br><br>
-  <sub>The International Space Station, fresh off a crew handover and the return of Crew-12 to…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 16 Oct 2026 at 00:40 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 16 Oct 2026 at 03:55 UTC</sub></p>
 <!-- updated:end -->
