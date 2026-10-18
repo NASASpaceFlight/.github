@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/8194EC01-F52C-4218-BDD9-A460FAF2AB63-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/">Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida</a></b>
+  <br>
+  <sub>Sun 18 Oct 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-18-17-03-53-605-602x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/">SpaceX working through Starship Flight 15 and 16 milestones</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 16 Oct 2026 &middot; Ryan Caton</sub>
   <br><br>
   <sub>Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-14-23-01-17-060-490x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/">Artemis III SLS teams prepare short stack for pad tanking test</a></b>
-  <br>
-  <sub>Wed 14 Oct 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>With both solid rocket boosters fully stacked and all four RS-25 engines now installed on…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 18 Oct 2026 at 18:16 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 18 Oct 2026 at 22:37 UTC</sub></p>
 <!-- updated:end -->
