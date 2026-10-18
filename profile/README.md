@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-18-17-03-53-605-602x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/">SpaceX working through Starship Flight 15 and 16 milestones</a></b>
+  <br>
+  <sub>Sun 18 Oct 2026 &middot; Chris Bergin and Arran Reid</sub>
+  <br><br>
+  <sub>SpaceX is advancing toward its next two Starship missions as the company looks to close…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-16-04-46-59-168-627x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/">Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 14 Oct 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>With both solid rocket boosters fully stacked and all four RS-25 engines now installed on…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-101326/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/07/IMG_2367-525x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-101326/">Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week</a></b>
-  <br>
-  <sub>Tue 13 Oct 2026 &middot; John Sharp</sub>
-  <br><br>
-  <sub>This week features a relatively quiet launch manifest, with SpaceX’s workhorse Falcon 9 comprising much…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 16 Oct 2026 at 03:55 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 18 Oct 2026 at 16:38 UTC</sub></p>
 <!-- updated:end -->
