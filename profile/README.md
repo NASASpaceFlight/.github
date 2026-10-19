@@ -58,11 +58,11 @@
 <tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/image-3-525x350.png" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/">Japanese MMX mission set for launch to study Martian moons</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/">Japanese MMX mission launches to study Martian moons</a></b>
   <br>
   <sub>Mon 19 Oct 2026 &middot; Justin Davenport</sub>
   <br><br>
-  <sub>The Japanese Aerospace Exploration Agency (JAXA) is poised to launch a planetary probe to Mars’s…</sub>
+  <sub>The Japanese Aerospace Exploration Agency (JAXA) is flying a planetary probe to Mars’s moon Phobos,…</sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 19 Oct 2026 at 19:51 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 19 Oct 2026 at 20:16 UTC</sub></p>
 <!-- updated:end -->
