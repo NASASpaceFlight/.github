@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/image-3-525x350.png" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/">Japanese MMX mission set for launch to study Martian moons</a></b>
+  <br>
+  <sub>Mon 19 Oct 2026 &middot; Justin Davenport</sub>
+  <br><br>
+  <sub>The Japanese Aerospace Exploration Agency (JAXA) is poised to launch a planetary probe to Mars’s…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-19-14-23-42-068-630x348.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/">PLD Space begins system-level testing of Miura 5 as first three vehicles take shape</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 18 Oct 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-18-17-03-53-605-602x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/">SpaceX working through Starship Flight 15 and 16 milestones</a></b>
-  <br>
-  <sub>Sun 18 Oct 2026 &middot; Chris Bergin and Arran Reid</sub>
-  <br><br>
-  <sub>SpaceX is advancing toward its next two Starship missions as the company looks to close…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 19 Oct 2026 at 13:46 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 19 Oct 2026 at 15:50 UTC</sub></p>
 <!-- updated:end -->
