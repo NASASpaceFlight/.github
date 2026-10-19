@@ -56,7 +56,7 @@
 <!-- articles:start -->
 <table>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/image-3-525x350.png" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/0494682B-174D-42E7-A507-5BAF616678CD-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/">Japanese MMX mission launches to study Martian moons</a></b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 19 Oct 2026 at 20:16 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 19 Oct 2026 at 21:15 UTC</sub></p>
 <!-- updated:end -->
