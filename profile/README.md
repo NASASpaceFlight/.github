@@ -97,7 +97,7 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="H3-24L" width="88"></td>
 <td valign="middle">
-  <b>Martian Moons eXploration (MMX)</b>
+  <b><a href="https://nextspaceflight.com/launches/details/4361">Martian Moons eXploration (MMX)</a></b>
   <br>
   <sub>Japan Aerospace Exploration Agency &middot; H3-24L</sub>
   <br>
@@ -108,13 +108,13 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=Fn6gzuGa-6c">Watch</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=Fn6gzuGa-6c">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b>Bandwagon-5</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8362">Bandwagon-5</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
   <br>
@@ -125,7 +125,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/bandwagon5">Watch</a></sub>
+  <sub><a href="https://www.spacex.com/launches/bandwagon5">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 19 Oct 2026 at 15:50 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 19 Oct 2026 at 19:12 UTC</sub></p>
 <!-- updated:end -->
