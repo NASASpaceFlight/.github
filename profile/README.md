@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-19-14-23-42-068-630x348.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/">PLD Space begins system-level testing of Miura 5 as first three vehicles take shape</a></b>
+  <br>
+  <sub>Mon 19 Oct 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>PLD Space has entered a new phase ahead of the first demonstration flight of its…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/8194EC01-F52C-4218-BDD9-A460FAF2AB63-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/">Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 18 Oct 2026 &middot; Chris Bergin and Arran Reid</sub>
   <br><br>
   <sub>SpaceX is advancing toward its next two Starship missions as the company looks to close…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-16-04-46-59-168-627x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/">Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027</a></b>
-  <br>
-  <sub>Fri 16 Oct 2026 &middot; Ryan Caton</sub>
-  <br><br>
-  <sub>Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 19 Oct 2026 at 10:16 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 19 Oct 2026 at 13:46 UTC</sub></p>
 <!-- updated:end -->
