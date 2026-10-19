@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
-  <b>Bandwagon-5</b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
-  <br>
-  <sub><b>Mon 19 Oct 2026</b> &middot; 10:30 UTC &middot; window 10:30&ndash;11:30 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/bandwagon5">Watch</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="H3-24L" width="88"></td>
 <td valign="middle">
   <b>Martian Moons eXploration (MMX)</b>
@@ -126,6 +109,23 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.youtube.com/watch?v=Fn6gzuGa-6c">Watch</a></sub>
+</td>
+</tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b>Bandwagon-5</b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
+  <br>
+  <sub><b>Tue 20 Oct 2026</b> &middot; 10:30 UTC &middot; window 10:30&ndash;11:30 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/bandwagon5">Watch</a></sub>
 </td>
 </tr>
 <tr>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 18 Oct 2026 at 22:37 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 19 Oct 2026 at 10:16 UTC</sub></p>
 <!-- updated:end -->
