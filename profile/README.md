@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3-525x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week</a></b>
+  <br>
+  <sub>Tue 20 Oct 2026 &middot; Joe Kangas</sub>
+  <br><br>
+  <sub>Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-20-16-48-29-816-518x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/">Falcon 9 launches Bandwagon-5 rideshare mission from Florida</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 19 Oct 2026 &middot; Justin Davenport</sub>
   <br><br>
   <sub>The Japanese Aerospace Exploration Agency (JAXA) is flying a planetary probe to Mars’s moon Phobos,…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-19-14-23-42-068-630x348.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/">PLD Space begins system-level testing of Miura 5 as first three vehicles take shape</a></b>
-  <br>
-  <sub>Mon 19 Oct 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>PLD Space has entered a new phase ahead of the first demonstration flight of its…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 20 Oct 2026 at 15:52 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 20 Oct 2026 at 17:39 UTC</sub></p>
 <!-- updated:end -->
