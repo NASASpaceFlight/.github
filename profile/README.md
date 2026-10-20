@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-20-16-48-29-816-518x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/">Falcon 9 launches Bandwagon-5 rideshare mission from Florida</a></b>
+  <br>
+  <sub>Tue 20 Oct 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/0494682B-174D-42E7-A507-5BAF616678CD-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/">Japanese MMX mission launches to study Martian moons</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 19 Oct 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>PLD Space has entered a new phase ahead of the first demonstration flight of its…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/8194EC01-F52C-4218-BDD9-A460FAF2AB63-525x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/">Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida</a></b>
-  <br>
-  <sub>Sun 18 Oct 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s…</sub>
 </td>
 </tr>
 </table>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 20 Oct 2026 at 11:15 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 20 Oct 2026 at 15:52 UTC</sub></p>
 <!-- updated:end -->
