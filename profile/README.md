@@ -97,23 +97,6 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8362">Bandwagon-5</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
-  <br>
-  <sub><b>Tue 20 Oct 2026</b> &middot; 11:04 UTC &middot; window 10:30&ndash;11:30 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/bandwagon5">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/">Preview</a></sub>
-</td>
-</tr>
-<tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
   <b>Starlink Group 15-15</b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
@@ -143,6 +126,21 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
+<td valign="middle">
+  <b>We're Not Hawking Around</b>
+  <br>
+  <sub>Rocket Lab &middot; Electron/Curie</sub>
+  <br>
+  <sub>Rocket Lab LC-1A, Māhia Peninsula, New Zealand</sub>
+  <br>
+  <sub><b>Wed 21 Oct 2026</b> &middot; 07:00 UTC &middot; window 07:00&ndash;08:45 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 20 Oct 2026 at 09:42 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 20 Oct 2026 at 11:15 UTC</sub></p>
 <!-- updated:end -->
