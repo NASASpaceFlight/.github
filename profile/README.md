@@ -112,6 +112,23 @@
 </td>
 </tr>
 <tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8432">Starlink Group 15-15</a></b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Thu 22 Oct 2026</b> &middot; 21:45 UTC &middot; window 21:45&ndash;01:45 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/sl-15-15">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Preview</a></sub>
+</td>
+</tr>
+<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 6A" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8439">Unknown Payload</a></b>
@@ -121,23 +138,6 @@
   <sub>LC-9A, Taiyuan Satellite Launch Center, China</sub>
   <br>
   <sub><b>Fri 23 Oct 2026</b> &middot; 10:15 UTC &middot; window 10:07&ndash;10:28 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Preview</a></sub>
-</td>
-</tr>
-<tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_4B_rocket.webp" alt="Long March 4B" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8438">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 4B</sub>
-  <br>
-  <sub>Site 94 (SLS-2), Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Fri 23 Oct 2026</b> &middot; 19:25 UTC &middot; window 19:17&ndash;19:39 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 21 Oct 2026 at 23:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 21 Oct 2026 at 23:41 UTC</sub></p>
 <!-- updated:end -->
