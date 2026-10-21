@@ -95,21 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Ceres-1S.webp" alt="Ceres 1S" width="88"></td>
-<td valign="middle">
-  <b>Unknown Payload</b>
-  <br>
-  <sub>Galactic Energy Space Technology Co., Ltd. &middot; Ceres 1S</sub>
-  <br>
-  <sub>Rizhao offshore launch location, Haiyang Oriental Spaceport, China</sub>
-  <br>
-  <sub><b>Wed 21 Oct 2026</b> &middot; 03:35 UTC &middot; window 03:29&ndash;03:50 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b>We're Not Hawking Around</b>
@@ -143,6 +128,21 @@
   <sub><a href="https://www.spacex.com/launches/sl-15-15">Watch</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 6A" width="88"></td>
+<td valign="middle">
+  <b>Unknown Payload</b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 6A</sub>
+  <br>
+  <sub>LC-9A, Taiyuan Satellite Launch Center, China</sub>
+  <br>
+  <sub><b>Fri 23 Oct 2026</b> &middot; 10:15 UTC &middot; window 10:07&ndash;10:28 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 20 Oct 2026 at 23:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 21 Oct 2026 at 03:45 UTC</sub></p>
 <!-- updated:end -->
