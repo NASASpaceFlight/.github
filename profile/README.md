@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
-<td valign="middle">
-  <b>We're Not Hawking Around</b>
-  <br>
-  <sub>Rocket Lab &middot; Electron/Curie</sub>
-  <br>
-  <sub>Rocket Lab LC-1A, Māhia Peninsula, New Zealand</sub>
-  <br>
-  <sub><b>Wed 21 Oct 2026</b> &middot; 07:00 UTC &middot; window 07:00&ndash;08:45 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=qY2qCqF1PvE">Watch</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b>Starlink Group 15-15</b>
@@ -120,12 +103,29 @@
   <br>
   <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
   <br>
-  <sub><b>Wed 21 Oct 2026</b> &middot; 21:59 UTC &middot; window 21:59&ndash;01:59 UTC</sub>
+  <sub><b>Wed 21 Oct 2026</b> &middot; 23:02 UTC &middot; window 21:59&ndash;01:59 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.spacex.com/launches/sl-15-15">Watch</a></sub>
+</td>
+</tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
+<td valign="middle">
+  <b>We're Not Hawking Around</b>
+  <br>
+  <sub>Rocket Lab &middot; Electron/Curie</sub>
+  <br>
+  <sub>Rocket Lab LC-1A, Māhia Peninsula, New Zealand</sub>
+  <br>
+  <sub><b>Thu 22 Oct 2026</b> &middot; 07:11 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.youtube.com/watch?v=qY2qCqF1PvE">Watch</a></sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 21 Oct 2026 at 03:45 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 21 Oct 2026 at 05:17 UTC</sub></p>
 <!-- updated:end -->
