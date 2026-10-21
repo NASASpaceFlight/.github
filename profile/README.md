@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/china-roundup-102026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/The-Long-March-10B-Y1-vehicle-lifting-off-from-the-Wenchang-Commercial-Space-Launch-Site-on-July-10th-2026-CASC-597x350.webp" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/china-roundup-102026/">China readies first commercial resupply craft, first booster reflight, and next landing attempt</a></b>
+  <br>
+  <sub>Wed 21 Oct 2026 &middot; Martin Smith</sub>
+  <br><br>
+  <sub>As its launch cadence continues to grow, China is stepping further towards reusable rockets as…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3-525x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week</a></b>
@@ -75,16 +85,6 @@
   <sub>Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s…</sub>
 </td>
 </tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/0494682B-174D-42E7-A507-5BAF616678CD-525x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/mmx-launch/">Japanese MMX mission launches to study Martian moons</a></b>
-  <br>
-  <sub>Mon 19 Oct 2026 &middot; Justin Davenport</sub>
-  <br><br>
-  <sub>The Japanese Aerospace Exploration Agency (JAXA) is flying a planetary probe to Mars’s moon Phobos,…</sub>
-</td>
-</tr>
 </table>
 <!-- articles:end -->
 
@@ -97,24 +97,24 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b>Starlink Group 15-15</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8432">Starlink Group 15-15</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
   <br>
   <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
   <br>
-  <sub><b>Wed 21 Oct 2026</b> &middot; 23:02 UTC &middot; window 21:59&ndash;01:59 UTC</sub>
+  <sub><b>Wed 21 Oct 2026</b> &middot; 23:22 UTC &middot; window 21:59&ndash;01:59 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/sl-15-15">Watch</a></sub>
+  <sub><a href="https://www.spacex.com/launches/sl-15-15">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
-  <b>We're Not Hawking Around</b>
+  <b><a href="https://nextspaceflight.com/launches/details/6938">We're Not Hawking Around</a></b>
   <br>
   <sub>Rocket Lab &middot; Electron/Curie</sub>
   <br>
@@ -125,13 +125,13 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=qY2qCqF1PvE">Watch</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=qY2qCqF1PvE">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 6A" width="88"></td>
 <td valign="middle">
-  <b>Unknown Payload</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8439">Unknown Payload</a></b>
   <br>
   <sub>China Aerospace Science and Technology Corporation &middot; Long March 6A</sub>
   <br>
@@ -141,6 +141,8 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -157,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 21 Oct 2026 at 05:17 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 21 Oct 2026 at 20:41 UTC</sub></p>
 <!-- updated:end -->
