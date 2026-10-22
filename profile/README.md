@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/iss075e0226575orig-623x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/">ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13</a></b>
+  <br>
+  <sub>Thu 22 Oct 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Expedition 75 aboard the International Space Station gained four new crew members at the beginning…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/china-roundup-102026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/The-Long-March-10B-Y1-vehicle-lifting-off-from-the-Wenchang-Commercial-Space-Launch-Site-on-July-10th-2026-CASC-597x350.webp" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/china-roundup-102026/">China readies first commercial resupply craft, first booster reflight, and next landing attempt</a></b>
@@ -73,16 +83,6 @@
   <sub>Tue 20 Oct 2026 &middot; Joe Kangas</sub>
   <br><br>
   <sub>Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-20-16-48-29-816-518x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/bandwagon-5/">Falcon 9 launches Bandwagon-5 rideshare mission from Florida</a></b>
-  <br>
-  <sub>Tue 20 Oct 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 22 Oct 2026 at 14:16 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 22 Oct 2026 at 22:14 UTC</sub></p>
 <!-- updated:end -->
