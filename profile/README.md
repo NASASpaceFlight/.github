@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Long_March_4B_rocket.webp" alt="Long March 4B" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8438">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 4B</sub>
-  <br>
-  <sub>Site 94 (SLS-2), Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Fri 23 Oct 2026</b> &middot; 19:25 UTC &middot; window 19:17&ndash;19:39 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8432">Starlink Group 15-15</a></b>
@@ -120,7 +103,7 @@
   <br>
   <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
   <br>
-  <sub><b>Fri 23 Oct 2026</b> &middot; 22:28 UTC &middot; window 21:30&ndash;01:30 UTC</sub>
+  <sub><b>Fri 23 Oct 2026</b> &middot; 22:48 UTC &middot; window 21:30&ndash;01:30 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -145,6 +128,23 @@
   <sub><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8434">Starlink Group 15-16</a></b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Tue 27 Oct 2026</b> &middot; 04:45 UTC &middot; window 04:45&ndash;08:45 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/sl-15-16">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 23 Oct 2026 at 12:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 23 Oct 2026 at 21:40 UTC</sub></p>
 <!-- updated:end -->
