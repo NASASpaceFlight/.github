@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8432">Starlink Group 15-15</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
-  <br>
-  <sub><b>Fri 23 Oct 2026</b> &middot; 22:48 UTC &middot; window 21:30&ndash;01:30 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/sl-15-15">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 8A" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8437">Unknown Payload</a></b>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.spacex.com/launches/sl-15-16">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Vulcan VC6L" width="88"></td>
+<td valign="middle">
+  <b>Amazon Leo (LV-01)</b>
+  <br>
+  <sub>United Launch Alliance &middot; Vulcan VC6L</sub>
+  <br>
+  <sub>SLC-41, Cape Canaveral SFS, Florida, USA</sub>
+  <br>
+  <sub><b>Thu 29 Oct 2026</b> &middot; 23:59 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/TBD%20Time-0076c9?style=flat-square" alt="TBD Time" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 23 Oct 2026 at 21:40 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 23 Oct 2026 at 22:49 UTC</sub></p>
 <!-- updated:end -->
