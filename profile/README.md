@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-24-03-48-44-239-501x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/">NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths</a></b>
+  <br>
+  <sub>Sat 24 Oct 2026 &middot; Ryan Caton and Chris Bergin</sub>
+  <br><br>
+  <sub>NASA released its October Artemis Update on Friday, covering the near-term status of the Space…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/iss075e0226575orig-623x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/">ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 21 Oct 2026 &middot; Martin Smith</sub>
   <br><br>
   <sub>As its launch cadence continues to grow, China is stepping further towards reusable rockets as…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3-525x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week</a></b>
-  <br>
-  <sub>Tue 20 Oct 2026 &middot; Joe Kangas</sub>
-  <br><br>
-  <sub>Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 23 Oct 2026 at 22:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 24 Oct 2026 at 03:43 UTC</sub></p>
 <!-- updated:end -->
