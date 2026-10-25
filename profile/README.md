@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Gigabay-and-the-VAB-Julia-2-525x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/">Possible Roberts Road Expansion as SpaceX pushes for Flight 16</a></b>
+  <br>
+  <sub>Sun 25 Oct 2026 &middot; Ryan Weber</sub>
+  <br><br>
+  <sub>As SpaceX prepares to fly Flight 15 in November, with a successful Static Fire test…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-24-03-48-44-239-501x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/">NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths</a></b>
@@ -73,16 +83,6 @@
   <sub>Thu 22 Oct 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>Expedition 75 aboard the International Space Station gained four new crew members at the beginning…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/china-roundup-102026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/The-Long-March-10B-Y1-vehicle-lifting-off-from-the-Wenchang-Commercial-Space-Launch-Site-on-July-10th-2026-CASC-597x350.webp" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/china-roundup-102026/">China readies first commercial resupply craft, first booster reflight, and next landing attempt</a></b>
-  <br>
-  <sub>Wed 21 Oct 2026 &middot; Martin Smith</sub>
-  <br><br>
-  <sub>As its launch cadence continues to grow, China is stepping further towards reusable rockets as…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 25 Oct 2026 at 02:22 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 25 Oct 2026 at 18:42 UTC</sub></p>
 <!-- updated:end -->
