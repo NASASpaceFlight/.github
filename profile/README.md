@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 8A" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8437">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 8A</sub>
-  <br>
-  <sub>Commercial LC-1, Wenchang Space Launch Site, China</sub>
-  <br>
-  <sub><b>Sun 25 Oct 2026</b> &middot; 01:50 UTC &middot; window 01:42&ndash;02:32 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102026/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/Falcon_9_Block_5.webp" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8434">Starlink Group 15-16</a></b>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.spacex.com/launches/sl-15-18">Watch</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="GSLV Mk II" width="88"></td>
+<td valign="middle">
+  <b>NVS-03 (IRNSS-1L)</b>
+  <br>
+  <sub>Indian Space Research Organisation &middot; GSLV Mk II</sub>
+  <br>
+  <sub>Second Launch Pad, Satish Dhawan Space Centre, India</sub>
+  <br>
+  <sub><b>Fri 30 Oct 2026</b> &middot; 17:00 UTC &middot; window 17:00&ndash;21:00 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 24 Oct 2026 at 05:30 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 25 Oct 2026 at 02:22 UTC</sub></p>
 <!-- updated:end -->
