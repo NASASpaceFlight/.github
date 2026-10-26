@@ -137,7 +137,7 @@
   <br>
   <sub>Second Launch Pad, Satish Dhawan Space Centre, India</sub>
   <br>
-  <sub><b>Fri 30 Oct 2026</b> &middot; 17:00 UTC &middot; window 17:00&ndash;21:00 UTC</sub>
+  <sub><b>Fri 30 Oct 2026</b> &middot; 18:21 UTC &middot; window 17:00&ndash;21:00 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 25 Oct 2026 at 18:42 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 26 Oct 2026 at 12:37 UTC</sub></p>
 <!-- updated:end -->
