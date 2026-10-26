@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1-529x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/">Launch Preview: Falcon 9 and GSLV rockets scheduled to launch</a></b>
+  <br>
+  <sub>Mon 26 Oct 2026 &middot; Joe Kangas</sub>
+  <br><br>
+  <sub>Four rockets are set to launch this week from the United States and India. SpaceX…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Gigabay-and-the-VAB-Julia-2-525x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/">Possible Roberts Road Expansion as SpaceX pushes for Flight 16</a></b>
@@ -73,16 +83,6 @@
   <sub>Sat 24 Oct 2026 &middot; Ryan Caton and Chris Bergin</sub>
   <br><br>
   <sub>NASA released its October Artemis Update on Friday, covering the near-term status of the Space…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/iss075e0226575orig-623x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/">ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13</a></b>
-  <br>
-  <sub>Thu 22 Oct 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>Expedition 75 aboard the International Space Station gained four new crew members at the beginning…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 26 Oct 2026 at 19:44 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 26 Oct 2026 at 21:14 UTC</sub></p>
 <!-- updated:end -->
