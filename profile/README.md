@@ -97,7 +97,7 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b>Starlink Group 15-18</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8440">Starlink Group 15-18</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
   <br>
@@ -108,13 +108,13 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/sl-15-18">Watch</a></sub>
+  <sub><a href="https://www.spacex.com/launches/sl-15-18">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="GSLV Mk II" width="88"></td>
 <td valign="middle">
-  <b>NVS-03 (IRNSS-1L)</b>
+  <b><a href="https://nextspaceflight.com/launches/details/7876">NVS-03 (IRNSS-1L)</a></b>
   <br>
   <sub>Indian Space Research Organisation &middot; GSLV Mk II</sub>
   <br>
@@ -124,12 +124,14 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b>USSF-432</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8444">USSF-432</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
   <br>
@@ -140,7 +142,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/ussf432">Watch</a></sub>
+  <sub><a href="https://www.spacex.com/launches/ussf432">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -157,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 27 Oct 2026 at 11:42 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 28 Oct 2026 at 06:44 UTC</sub></p>
 <!-- updated:end -->
