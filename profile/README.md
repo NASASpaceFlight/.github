@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/kscvsstarbasecomparison-481x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/">Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana</a></b>
+  <br>
+  <sub>Wed 28 Oct 2026 &middot; Joe Kangas</sub>
+  <br><br>
+  <sub>In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1-529x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/">Launch Preview: Falcon 9 and GSLV rockets scheduled to launch</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 25 Oct 2026 &middot; Ryan Weber</sub>
   <br><br>
   <sub>As SpaceX prepares to fly Flight 15 in November, with a successful Static Fire test…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-24-03-48-44-239-501x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/">NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths</a></b>
-  <br>
-  <sub>Sat 24 Oct 2026 &middot; Ryan Caton and Chris Bergin</sub>
-  <br><br>
-  <sub>NASA released its October Artemis Update on Friday, covering the near-term status of the Space…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 28 Oct 2026 at 20:36 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 28 Oct 2026 at 21:20 UTC</sub></p>
 <!-- updated:end -->
