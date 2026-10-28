@@ -125,7 +125,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/">Preview</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=qIiYr3tRSqE">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 28 Oct 2026 at 06:44 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 28 Oct 2026 at 11:21 UTC</sub></p>
 <!-- updated:end -->
