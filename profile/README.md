@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="GSLV Mk II" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/gslv_f16_002.webp" alt="GSLV Mk II" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7876">NVS-03 (IRNSS-1L)</a></b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 28 Oct 2026 at 21:20 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 29 Oct 2026 at 08:38 UTC</sub></p>
 <!-- updated:end -->
