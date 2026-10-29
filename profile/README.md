@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/IMG_2494-2-534x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/">Blue Origin attempts end of year return and eyes Artemis IV selection</a></b>
+  <br>
+  <sub>Thu 29 Oct 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>With Blue Origin moving towards a potential return to flight by late 2026, NASA has…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/kscvsstarbasecomparison-481x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/">Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 26 Oct 2026 &middot; Joe Kangas</sub>
   <br><br>
   <sub>Four rockets are set to launch this week from the United States and India. SpaceX…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Gigabay-and-the-VAB-Julia-2-525x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/">Possible Roberts Road Expansion as SpaceX pushes for Flight 16</a></b>
-  <br>
-  <sub>Sun 25 Oct 2026 &middot; Ryan Weber</sub>
-  <br><br>
-  <sub>As SpaceX prepares to fly Flight 15 in November, with a successful Static Fire test…</sub>
 </td>
 </tr>
 </table>
@@ -129,7 +129,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b>The Sea God Surveys</b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 29 Oct 2026 at 20:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 29 Oct 2026 at 21:10 UTC</sub></p>
 <!-- updated:end -->
