@@ -120,7 +120,7 @@
   <br>
   <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
   <br>
-  <sub><b>Sat 31 Oct 2026</b> &middot; 03:48 UTC &middot; window 03:48&ndash;07:48 UTC</sub>
+  <sub><b>Sat 31 Oct 2026</b> &middot; 04:02 UTC &middot; window 03:48&ndash;07:48 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -129,7 +129,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b>The Sea God Surveys</b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 30 Oct 2026 at 14:12 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 30 Oct 2026 at 14:25 UTC</sub></p>
 <!-- updated:end -->
