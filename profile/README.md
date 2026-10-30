@@ -137,7 +137,7 @@
   <br>
   <sub>Unknown Pad, Māhia Peninsula, New Zealand</sub>
   <br>
-  <sub><b>Mon 2 Nov 2026</b> &middot; 08:45 UTC &middot; window 08:45&ndash;18:15 UTC</sub>
+  <sub><b>Mon 2 Nov 2026</b> &middot; 16:00 UTC &middot; window 16:00&ndash;18:20 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 30 Oct 2026 at 07:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 30 Oct 2026 at 07:25 UTC</sub></p>
 <!-- updated:end -->
