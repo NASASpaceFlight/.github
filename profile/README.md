@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Booster-22-Static-fire-525x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/">SpaceX Completes Three Static Fires in Three Days for Flight 15</a></b>
+  <br>
+  <sub>Fri 30 Oct 2026 &middot; Ryan Weber</sub>
+  <br><br>
+  <sub>In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/IMG_2494-2-534x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/">Blue Origin attempts end of year return and eyes Artemis IV selection</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 28 Oct 2026 &middot; Joe Kangas</sub>
   <br><br>
   <sub>In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1-529x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/">Launch Preview: Falcon 9 and GSLV rockets scheduled to launch</a></b>
-  <br>
-  <sub>Mon 26 Oct 2026 &middot; Joe Kangas</sub>
-  <br><br>
-  <sub>Four rockets are set to launch this week from the United States and India. SpaceX…</sub>
 </td>
 </tr>
 </table>
@@ -112,7 +112,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b>The Sea God Surveys</b>
   <br>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 30 Oct 2026 at 21:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 30 Oct 2026 at 22:09 UTC</sub></p>
 <!-- updated:end -->
