@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="GSLV Mk II" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/7876">NVS-03 (IRNSS-1L)</a></b>
-  <br>
-  <sub>Indian Space Research Organisation &middot; GSLV Mk II</sub>
-  <br>
-  <sub>Second Launch Pad, Satish Dhawan Space Centre, India</sub>
-  <br>
-  <sub><b>Fri 30 Oct 2026</b> &middot; 18:21 UTC &middot; window 17:00&ndash;21:00 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=qIiYr3tRSqE">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8440">Starlink Group 15-18</a></b>
@@ -143,6 +126,21 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/IMG_8175.webp" alt="Kinetica 2" width="88"></td>
+<td valign="middle">
+  <b>SpaceSail Polar Group TBD?</b>
+  <br>
+  <sub>CAS Space &middot; Kinetica 2</sub>
+  <br>
+  <sub>Site 140, Jiuquan Satellite Launch Center, China</sub>
+  <br>
+  <sub><b>Tue 3 Nov 2026</b> &middot; 00:10 UTC &middot; window 00:05&ndash;00:33 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 30 Oct 2026 at 16:12 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 30 Oct 2026 at 18:23 UTC</sub></p>
 <!-- updated:end -->
