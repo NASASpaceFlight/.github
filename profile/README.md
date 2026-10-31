@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b>The Sea God Surveys</b>
   <br>
@@ -103,7 +103,7 @@
   <br>
   <sub>Unknown Pad, Māhia Peninsula, New Zealand</sub>
   <br>
-  <sub><b>Mon 2 Nov 2026</b> &middot; 16:00 UTC &middot; window 16:00&ndash;18:20 UTC</sub>
+  <sub><b>Mon 2 Nov 2026</b> &middot; 16:41 UTC &middot; window 16:00&ndash;18:20 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 31 Oct 2026 at 13:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 31 Oct 2026 at 14:09 UTC</sub></p>
 <!-- updated:end -->
