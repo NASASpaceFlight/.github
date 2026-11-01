@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-11-01-03-15-37-109-wmarked-529x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/">Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority</a></b>
+  <br>
+  <sub>Sun 1 Nov 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>NASA Administrator Jared Isaacman has spoken on the planned architecture and contingencies for the Artemis…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Booster-22-Static-fire-525x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/">SpaceX Completes Three Static Fires in Three Days for Flight 15</a></b>
@@ -75,16 +85,6 @@
   <sub>With Blue Origin moving towards a potential return to flight by late 2026, NASA has…</sub>
 </td>
 </tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/kscvsstarbasecomparison-481x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/">Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana</a></b>
-  <br>
-  <sub>Wed 28 Oct 2026 &middot; Joe Kangas</sub>
-  <br><br>
-  <sub>In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and…</sub>
-</td>
-</tr>
 </table>
 <!-- articles:end -->
 
@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b>The Sea God Surveys</b>
   <br>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 1 Nov 2026 at 03:14 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 1 Nov 2026 at 03:49 UTC</sub></p>
 <!-- updated:end -->
