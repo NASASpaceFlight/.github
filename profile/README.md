@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2024/11/Booster-1062-became-the-first-booster-to-complete-a-21st-launch-and-landing-May-2024-Credit-Julia-Bergeron-NSF-507x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites</a></b>
+  <br>
+  <sub>Mon 2 Nov 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Eight launches are expected this week, from launch sites in the United States, China, New…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-11-01-03-15-37-109-wmarked-529x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/">Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 30 Oct 2026 &middot; Ryan Weber</sub>
   <br><br>
   <sub>In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/IMG_2494-2-534x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/">Blue Origin attempts end of year return and eyes Artemis IV selection</a></b>
-  <br>
-  <sub>Thu 29 Oct 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>With Blue Origin moving towards a potential return to flight by late 2026, NASA has…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 2 Nov 2026 at 19:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 2 Nov 2026 at 22:34 UTC</sub></p>
 <!-- updated:end -->
