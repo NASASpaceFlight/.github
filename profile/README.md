@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
-<td valign="middle">
-  <b>The Sea God Surveys</b>
-  <br>
-  <sub>Rocket Lab &middot; Electron/Curie</sub>
-  <br>
-  <sub>Rocket Lab LC-1A, Māhia Peninsula, New Zealand</sub>
-  <br>
-  <sub><b>Mon 2 Nov 2026</b> &middot; 16:41 UTC &middot; window 16:30&ndash;18:20 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=irbPTnpIl9g">Watch</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/IMG_8175.webp" alt="Kinetica 2" width="88"></td>
 <td valign="middle">
   <b>SpaceSail Polar Group TBD?</b>
@@ -143,6 +126,23 @@
   <sub><a href="https://www.spacex.com/launches/ussf432">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg" alt="Mir" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8222">Demo Flight</a></b>
+  <br>
+  <sub>Agency for Defense Development &middot; Mir</sub>
+  <br>
+  <sub>ADD Offshore launch platform, Jeju Island, South Korea</sub>
+  <br>
+  <sub><b>Wed 4 Nov 2026</b> &middot; 05:00 UTC &middot; window 05:00&ndash;09:00 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042026/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 2 Nov 2026 at 14:36 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 2 Nov 2026 at 16:49 UTC</sub></p>
 <!-- updated:end -->
