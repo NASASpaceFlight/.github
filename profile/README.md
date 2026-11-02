@@ -101,9 +101,9 @@
   <br>
   <sub>Rocket Lab &middot; Electron/Curie</sub>
   <br>
-  <sub>Unknown Pad, Māhia Peninsula, New Zealand</sub>
+  <sub>Rocket Lab LC-1A, Māhia Peninsula, New Zealand</sub>
   <br>
-  <sub><b>Mon 2 Nov 2026</b> &middot; 16:41 UTC &middot; window 16:00&ndash;18:20 UTC</sub>
+  <sub><b>Mon 2 Nov 2026</b> &middot; 16:41 UTC &middot; window 16:30&ndash;18:20 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 2 Nov 2026 at 12:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 2 Nov 2026 at 13:12 UTC</sub></p>
 <!-- updated:end -->
