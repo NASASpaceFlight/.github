@@ -95,21 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/IMG_8175.webp" alt="Kinetica 2" width="88"></td>
-<td valign="middle">
-  <b>SpaceSail Polar Group TBD?</b>
-  <br>
-  <sub>CAS Space &middot; Kinetica 2</sub>
-  <br>
-  <sub>Site 140, Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Tue 3 Nov 2026</b> &middot; 00:10 UTC &middot; window 00:05&ndash;00:33 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg" alt="Mir" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8222">Demo Flight</a></b>
@@ -127,7 +112,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/LongMarch2C.webp" alt="Long March 2C" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 2C" width="88"></td>
 <td valign="middle">
   <b>Unknown Payload</b>
   <br>
@@ -136,6 +121,21 @@
   <sub>LC-3, Xichang Satellite Launch Center, China</sub>
   <br>
   <sub><b>Thu 5 Nov 2026</b> &middot; 16:00 UTC &middot; window 15:52&ndash;16:16 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/LM12.webp" alt="Long March 12" width="88"></td>
+<td valign="middle">
+  <b>SatNet LEO Group TBD?</b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 12</sub>
+  <br>
+  <sub>Commercial LC-2, Wenchang Space Launch Site, China</sub>
+  <br>
+  <sub><b>Thu 5 Nov 2026</b> &middot; 21:15 UTC &middot; window 21:10&ndash;21:39 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 3 Nov 2026 at 00:46 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 3 Nov 2026 at 01:11 UTC</sub></p>
 <!-- updated:end -->
