@@ -112,7 +112,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/LongMarch2C.webp" alt="Long March 2C" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 2C" width="88"></td>
 <td valign="middle">
   <b>Unknown Payload</b>
   <br>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 3 Nov 2026 at 01:38 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 3 Nov 2026 at 02:15 UTC</sub></p>
 <!-- updated:end -->
