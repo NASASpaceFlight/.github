@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-03-03-55-27-762-548x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/">Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman</a></b>
+  <br>
+  <sub>Tue 3 Nov 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>NASA Administrator Jared Isaacman has addressed the ongoing debate about the Hubble Space Telescope’s long-term…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2024/11/Booster-1062-became-the-first-booster-to-complete-a-21st-launch-and-landing-May-2024-Credit-Julia-Bergeron-NSF-507x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 1 Nov 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>NASA Administrator Jared Isaacman has spoken on the planned architecture and contingencies for the Artemis…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Booster-22-Static-fire-525x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/">SpaceX Completes Three Static Fires in Three Days for Flight 15</a></b>
-  <br>
-  <sub>Fri 30 Oct 2026 &middot; Ryan Weber</sub>
-  <br><br>
-  <sub>In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch…</sub>
 </td>
 </tr>
 </table>
@@ -112,7 +112,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/LongMarch2C.webp" alt="Long March 2C" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 2C" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8450">Unknown Payload</a></b>
   <br>
@@ -129,15 +129,15 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/LM12.webp" alt="Long March 12" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Ceres-2.webp" alt="Ceres 2" width="88"></td>
 <td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8445">SatNet LEO Group TBD?</a></b>
+  <b><a href="https://nextspaceflight.com/launches/details/8448">Unknown Payload</a></b>
   <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 12</sub>
+  <sub>Galactic Energy Space Technology Co., Ltd. &middot; Ceres 2</sub>
   <br>
-  <sub>Commercial LC-2, Wenchang Space Launch Site, China</sub>
+  <sub>Site 95A, Jiuquan Satellite Launch Center, China</sub>
   <br>
-  <sub><b>Thu 5 Nov 2026</b> &middot; 21:15 UTC &middot; window 21:10&ndash;21:39 UTC</sub>
+  <sub><b>Fri 6 Nov 2026</b> &middot; 23:35 UTC &middot; window 23:28&ndash;23:50 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 3 Nov 2026 at 12:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 3 Nov 2026 at 13:10 UTC</sub></p>
 <!-- updated:end -->
