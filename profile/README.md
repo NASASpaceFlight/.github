@@ -127,20 +127,18 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/LongMarch2C.webp" alt="Long March 2C" width="88"></td>
 <td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8444">USSF-432</a></b>
+  <b>Unknown Payload</b>
   <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 2C</sub>
   <br>
-  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <sub>LC-3, Xichang Satellite Launch Center, China</sub>
   <br>
-  <sub><b>Thu 5 Nov 2026</b> &middot; 01:14 UTC &middot; window 01:14&ndash;05:14 UTC</sub>
+  <sub><b>Thu 5 Nov 2026</b> &middot; 16:00 UTC &middot; window 15:52&ndash;16:16 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/ussf432">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/10/launch-preview-102626/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -157,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 2 Nov 2026 at 22:34 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 3 Nov 2026 at 00:46 UTC</sub></p>
 <!-- updated:end -->
