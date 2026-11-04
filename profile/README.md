@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/exomars-trace-gas-orbiter-1-547x350.webp" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/">Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations</a></b>
+  <br>
+  <sub>Wed 4 Nov 2026 &middot; Haygen Warren</sub>
+  <br><br>
+  <sub>Using data from the joint European and Russian ExoMars Trace Gas Orbiter at Mars, an…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-03-03-55-27-762-548x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/">Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 2 Nov 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>Seven launches are expected this week, from launch sites in the United States, China, and…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-11-01-03-15-37-109-wmarked-529x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/">Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority</a></b>
-  <br>
-  <sub>Sun 1 Nov 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>NASA Administrator Jared Isaacman has spoken on the planned architecture and contingencies for the Artemis…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 4 Nov 2026 at 19:08 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 4 Nov 2026 at 19:19 UTC</sub></p>
 <!-- updated:end -->
