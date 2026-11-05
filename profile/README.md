@@ -95,24 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/LongMarch2C.webp" alt="Long March 2C" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8450">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 2C</sub>
-  <br>
-  <sub>LC-3, Xichang Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Thu 5 Nov 2026</b> &middot; 16:00 UTC &middot; window 15:52&ndash;16:16 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Preview</a></sub>
-</td>
-</tr>
-<tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Ceres-2.webp" alt="Ceres 2" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ceres 2" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8448">Unknown Payload</a></b>
   <br>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.spacex.com/launches/ussf432">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/LM12.webp" alt="Long March 12" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8445">SatNet LEO Group TBD?</a></b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 12</sub>
+  <br>
+  <sub>Commercial LC-2, Wenchang Space Launch Site, China</sub>
+  <br>
+  <sub><b>Sun 8 Nov 2026</b> &middot; 20:25 UTC &middot; window 20:17&ndash;20:47 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 5 Nov 2026 at 16:36 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 5 Nov 2026 at 16:49 UTC</sub></p>
 <!-- updated:end -->
