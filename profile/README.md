@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-05-18-57-11-406-480x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/">Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine</a></b>
+  <br>
+  <sub>Thu 5 Nov 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>Blue Origin chief executive Dave Limp has unveiled a third stage for New Glenn and…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/exomars-trace-gas-orbiter-1-547x350.webp" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/">Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations</a></b>
@@ -73,16 +83,6 @@
   <sub>Tue 3 Nov 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>NASA Administrator Jared Isaacman has addressed the ongoing debate about the Hubble Space Telescope’s long-term…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2024/11/Booster-1062-became-the-first-booster-to-complete-a-21st-launch-and-landing-May-2024-Credit-Julia-Bergeron-NSF-507x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites</a></b>
-  <br>
-  <sub>Mon 2 Nov 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>Seven launches are expected this week, from launch sites in the United States, China, and…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 5 Nov 2026 at 20:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 5 Nov 2026 at 21:08 UTC</sub></p>
 <!-- updated:end -->
