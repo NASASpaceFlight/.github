@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237-522x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/">Stoke Space evaluating expansion of Cape site for second Nova pad</a></b>
+  <br>
+  <sub>Fri 6 Nov 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030-583x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/">Starship Flight 15, a dual catch attempt, awaits FAA green light</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 6 Nov 2026 &middot; Justin Davenport</sub>
   <br><br>
   <sub>The International Space Station program completed a critical power upgrade that had been ongoing for…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-05-18-57-11-406-480x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/">Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine</a></b>
-  <br>
-  <sub>Thu 5 Nov 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>Blue Origin chief executive Dave Limp has unveiled a third stage for New Glenn and…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 6 Nov 2026 at 21:08 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 6 Nov 2026 at 21:19 UTC</sub></p>
 <!-- updated:end -->
