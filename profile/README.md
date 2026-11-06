@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_9798-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/">ISS astronauts install final iROSA solar panel to augment aging ISS power systems</a></b>
+  <br>
+  <sub>Fri 6 Nov 2026 &middot; Justin Davenport</sub>
+  <br><br>
+  <sub>The International Space Station program completed a critical power upgrade that had been ongoing for…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-05-18-57-11-406-480x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/">Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine</a></b>
@@ -75,16 +85,6 @@
   <sub>Using data from the joint European and Russian ExoMars Trace Gas Orbiter at Mars, an…</sub>
 </td>
 </tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-03-03-55-27-762-548x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/">Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman</a></b>
-  <br>
-  <sub>Tue 3 Nov 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>NASA Administrator Jared Isaacman has addressed the ongoing debate about the Hubble Space Telescope’s long-term…</sub>
-</td>
-</tr>
 </table>
 <!-- articles:end -->
 
@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Ceres-2.webp" alt="Ceres 2" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ceres 2" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8448">Unknown Payload</a></b>
   <br>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 6 Nov 2026 at 00:28 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 6 Nov 2026 at 01:21 UTC</sub></p>
 <!-- updated:end -->
