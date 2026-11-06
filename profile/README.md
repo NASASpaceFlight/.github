@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ceres 2" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Ceres-2.webp" alt="Ceres 2" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8448">Unknown Payload</a></b>
   <br>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 6 Nov 2026 at 07:35 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 6 Nov 2026 at 07:49 UTC</sub></p>
 <!-- updated:end -->
