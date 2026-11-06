@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030-583x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/">Starship Flight 15, a dual catch attempt, awaits FAA green light</a></b>
+  <br>
+  <sub>Fri 6 Nov 2026 &middot; Chris Bergin and Eleanor Day</sub>
+  <br><br>
+  <sub>Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_9798-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/">ISS astronauts install final iROSA solar panel to augment aging ISS power systems</a></b>
@@ -73,16 +83,6 @@
   <sub>Thu 5 Nov 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>Blue Origin chief executive Dave Limp has unveiled a third stage for New Glenn and…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/exomars-trace-gas-orbiter-1-547x350.webp" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/">Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations</a></b>
-  <br>
-  <sub>Wed 4 Nov 2026 &middot; Haygen Warren</sub>
-  <br><br>
-  <sub>Using data from the joint European and Russian ExoMars Trace Gas Orbiter at Mars, an…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 6 Nov 2026 at 12:15 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 6 Nov 2026 at 15:35 UTC</sub></p>
 <!-- updated:end -->
