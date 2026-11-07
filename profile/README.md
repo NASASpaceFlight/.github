@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Ceres-2.webp" alt="Ceres 2" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8448">Unknown Payload</a></b>
-  <br>
-  <sub>Galactic Energy Space Technology Co., Ltd. &middot; Ceres 2</sub>
-  <br>
-  <sub>Site 95A, Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Fri 6 Nov 2026</b> &middot; 23:35 UTC &middot; window 23:28&ndash;23:50 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8444">USSF-432</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8446">USSF-627</a></b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Tue 10 Nov 2026</b> &middot; 03:03 UTC &middot; window 03:03&ndash;07:03 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/ussf627">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 6 Nov 2026 at 23:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 7 Nov 2026 at 00:25 UTC</sub></p>
 <!-- updated:end -->
