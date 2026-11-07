@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/01/jsc2025e075919_altlarge-622x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/">NASA announces search for new astronauts</a></b>
+  <br>
+  <sub>Sat 7 Nov 2026 &middot; Sawyer Rosenstein</sub>
+  <br><br>
+  <sub>For the first time in two years, NASA is opening applications for its next astronaut…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237-522x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/">Stoke Space evaluating expansion of Cape site for second Nova pad</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 6 Nov 2026 &middot; Chris Bergin and Eleanor Day</sub>
   <br><br>
   <sub>Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_9798-525x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/">ISS astronauts install final iROSA solar panel to augment aging ISS power systems</a></b>
-  <br>
-  <sub>Fri 6 Nov 2026 &middot; Justin Davenport</sub>
-  <br><br>
-  <sub>The International Space Station program completed a critical power upgrade that had been ongoing for…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 7 Nov 2026 at 00:53 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 7 Nov 2026 at 18:11 UTC</sub></p>
 <!-- updated:end -->
