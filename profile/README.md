@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/LM12.webp" alt="Long March 12" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8445">SatNet LEO Group TBD?</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 12</sub>
-  <br>
-  <sub>Commercial LC-2, Wenchang Space Launch Site, China</sub>
-  <br>
-  <sub><b>Sun 8 Nov 2026</b> &middot; 20:25 UTC &middot; window 20:17&ndash;20:47 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8446">USSF-627</a></b>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2D_1.webp" alt="Long March 2D" width="88"></td>
+<td valign="middle">
+  <b>Unknown Payload</b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 2D</sub>
+  <br>
+  <sub>Site 94 (SLS-2), Jiuquan Satellite Launch Center, China</sub>
+  <br>
+  <sub><b>Wed 11 Nov 2026</b> &middot; 11:40 UTC &middot; window 11:32&ndash;12:05 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 8 Nov 2026 at 04:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 8 Nov 2026 at 20:34 UTC</sub></p>
 <!-- updated:end -->
