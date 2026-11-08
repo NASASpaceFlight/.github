@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/00-36-55_promise-lunar-surface-render-622x350.png" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/">NASA’s Moon Base plan gains a PROMISE</a></b>
+  <br>
+  <sub>Sun 8 Nov 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/01/jsc2025e075919_altlarge-622x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/">NASA announces search for new astronauts</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 6 Nov 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030-583x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/">Starship Flight 15, a dual catch attempt, awaits FAA green light</a></b>
-  <br>
-  <sub>Fri 6 Nov 2026 &middot; Chris Bergin and Eleanor Day</sub>
-  <br><br>
-  <sub>Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 7 Nov 2026 at 18:11 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 8 Nov 2026 at 04:49 UTC</sub></p>
 <!-- updated:end -->
