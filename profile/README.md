@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3-525x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week</a></b>
+  <br>
+  <sub>Mon 9 Nov 2026 &middot; Joe Kangas</sub>
+  <br><br>
+  <sub>Seven rockets from four countries are set to launch this week. Starship is set to…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/00-36-55_promise-lunar-surface-render-622x350.png" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/">NASA’s Moon Base plan gains a PROMISE</a></b>
@@ -73,16 +83,6 @@
   <sub>Sat 7 Nov 2026 &middot; Sawyer Rosenstein</sub>
   <br><br>
   <sub>For the first time in two years, NASA is opening applications for its next astronaut…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237-522x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/">Stoke Space evaluating expansion of Cape site for second Nova pad</a></b>
-  <br>
-  <sub>Fri 6 Nov 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 9 Nov 2026 at 21:19 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 9 Nov 2026 at 22:49 UTC</sub></p>
 <!-- updated:end -->
