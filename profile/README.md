@@ -112,23 +112,6 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg" alt="Mir" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8222">Demo Flight</a></b>
-  <br>
-  <sub>Agency for Defense Development &middot; Mir</sub>
-  <br>
-  <sub>ADD Offshore launch platform, Jeju Island, South Korea</sub>
-  <br>
-  <sub><b>Wed 11 Nov 2026</b> &middot; 05:00 UTC &middot; window 05:00&ndash;09:00 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2D_1.webp" alt="Long March 2D" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8453">Unknown Payload</a></b>
@@ -138,6 +121,23 @@
   <sub>Site 94 (SLS-2), Jiuquan Satellite Launch Center, China</sub>
   <br>
   <sub><b>Wed 11 Nov 2026</b> &middot; 11:40 UTC &middot; window 11:32&ndash;12:05 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
+</td>
+</tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Kuaizhou_11.webp" alt="Kuaizhou 11" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8459">Unknown Payload</a></b>
+  <br>
+  <sub>ExPace Technology Corporation &middot; Kuaizhou 11</sub>
+  <br>
+  <sub>Site 95A, Jiuquan Satellite Launch Center, China</sub>
+  <br>
+  <sub><b>Thu 12 Nov 2026</b> &middot; 19:50 UTC &middot; window 19:44&ndash;20:29 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 10 Nov 2026 at 06:17 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 10 Nov 2026 at 14:10 UTC</sub></p>
 <!-- updated:end -->
