@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8446">USSF-627</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
-  <br>
-  <sub><b>Wed 11 Nov 2026</b> &middot; 02:49 UTC &middot; window 02:49&ndash;06:49 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/ussf627">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2D_1.webp" alt="Long March 2D" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8453">Unknown Payload</a></b>
@@ -126,6 +109,23 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
+</td>
+</tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8446">USSF-627</a></b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Thu 12 Nov 2026</b> &middot; 02:35 UTC &middot; window 02:35&ndash;06:35 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/ussf627">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 10 Nov 2026 at 14:10 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 10 Nov 2026 at 16:35 UTC</sub></p>
 <!-- updated:end -->
