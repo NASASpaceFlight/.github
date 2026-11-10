@@ -108,7 +108,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/ussf627">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Preview</a></sub>
+  <sub><a href="https://www.spacex.com/launches/ussf627">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -125,13 +125,13 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-110226/">Preview</a></sub>
+  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2D_1.webp" alt="Long March 2D" width="88"></td>
 <td valign="middle">
-  <b>Unknown Payload</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8453">Unknown Payload</a></b>
   <br>
   <sub>China Aerospace Science and Technology Corporation &middot; Long March 2D</sub>
   <br>
@@ -141,6 +141,8 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -157,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 9 Nov 2026 at 22:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 10 Nov 2026 at 06:17 UTC</sub></p>
 <!-- updated:end -->
