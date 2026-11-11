@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2D_1.webp" alt="Long March 2D" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8453">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 2D</sub>
-  <br>
-  <sub>Site 94 (SLS-2), Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Wed 11 Nov 2026</b> &middot; 11:40 UTC &middot; window 11:32&ndash;12:05 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8446">USSF-627</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg" alt="Mir" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8222">Demo Flight</a></b>
+  <br>
+  <sub>Agency for Defense Development &middot; Mir</sub>
+  <br>
+  <sub>ADD Offshore launch platform, Jeju Island, South Korea</sub>
+  <br>
+  <sub><b>Fri 13 Nov 2026</b> &middot; 05:00 UTC &middot; window 05:00&ndash;09:00 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 11 Nov 2026 at 04:12 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 11 Nov 2026 at 13:10 UTC</sub></p>
 <!-- updated:end -->
