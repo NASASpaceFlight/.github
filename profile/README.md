@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-11-03-33-24-435-513x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/">Isaacman lays out SLS path to the 2030s</a></b>
+  <br>
+  <sub>Wed 11 Nov 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3-525x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 8 Nov 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/01/jsc2025e075919_altlarge-622x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/">NASA announces search for new astronauts</a></b>
-  <br>
-  <sub>Sat 7 Nov 2026 &middot; Sawyer Rosenstein</sub>
-  <br><br>
-  <sub>For the first time in two years, NASA is opening applications for its next astronaut…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 10 Nov 2026 at 16:35 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 11 Nov 2026 at 04:12 UTC</sub></p>
 <!-- updated:end -->
