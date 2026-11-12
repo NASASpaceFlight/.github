@@ -112,7 +112,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/header_vulcancentaur_forvulcanpage1.webp" alt="Vulcan VC6L" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Vulcan VC6L" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7425">Amazon Leo (LV-01)</a></b>
   <br>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 12 Nov 2026 at 11:09 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 12 Nov 2026 at 11:49 UTC</sub></p>
 <!-- updated:end -->
