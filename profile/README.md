@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Kuaizhou_11.webp" alt="Kuaizhou 11" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8459">Unknown Payload</a></b>
-  <br>
-  <sub>ExPace Technology Corporation &middot; Kuaizhou 11</sub>
-  <br>
-  <sub>Site 95A, Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Thu 12 Nov 2026</b> &middot; 19:50 UTC &middot; window 19:44&ndash;20:29 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Vulcan VC6L" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7425">Amazon Leo (LV-01)</a></b>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.youtube.com/watch?v=9XM0lpVlvo0">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Soyuz_2.1b-Fregat-M.webp" alt="Soyuz 2.1b/Fregat-M" width="88"></td>
+<td valign="middle">
+  <b>MKA Kinosputnik, KOEN and others</b>
+  <br>
+  <sub>Roscosmos &middot; Soyuz 2.1b/Fregat-M</sub>
+  <br>
+  <sub>Site 1S, Vostochny Cosmodrome, Russia</sub>
+  <br>
+  <sub><b>Sat 14 Nov 2026</b> &middot; 00:50 UTC &middot; window 00:50&ndash;01:50 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 12 Nov 2026 at 15:35 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 12 Nov 2026 at 16:12 UTC</sub></p>
 <!-- updated:end -->
