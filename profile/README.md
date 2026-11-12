@@ -112,23 +112,6 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://storage.googleapis.com/nextspaceflight/media/rockets/default.jpg" alt="Mir" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8222">Demo Flight</a></b>
-  <br>
-  <sub>Agency for Defense Development &middot; Mir</sub>
-  <br>
-  <sub>ADD Offshore launch platform, Jeju Island, South Korea</sub>
-  <br>
-  <sub><b>Fri 13 Nov 2026</b> &middot; 05:00 UTC &middot; window 05:00&ndash;09:00 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Vulcan VC6L" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7425">Amazon Leo (LV-01)</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.youtube.com/watch?v=qM5A1ZO9oh8">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Starship-Super Heavy v3" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8403">Starship Flight 15</a></b>
+  <br>
+  <sub>SpaceX &middot; Starship-Super Heavy v3</sub>
+  <br>
+  <sub>Pad 2, Starbase, Texas, USA</sub>
+  <br>
+  <sub><b>Fri 13 Nov 2026</b> &middot; 22:45 UTC &middot; window 22:45&ndash;00:00 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.youtube.com/watch?v=9XM0lpVlvo0">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 12 Nov 2026 at 04:50 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 12 Nov 2026 at 05:11 UTC</sub></p>
 <!-- updated:end -->
