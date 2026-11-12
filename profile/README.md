@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_0204-622x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">ULA’s Vulcan set to return to flight with first Amazon Leo payload</a></b>
+  <br>
+  <sub>Thu 12 Nov 2026 &middot; Justin Davenport</sub>
+  <br><br>
+  <sub>United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-11-03-33-24-435-513x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/">Isaacman lays out SLS path to the 2030s</a></b>
@@ -75,16 +85,6 @@
   <sub>Seven rockets from four countries are set to launch this week. Starship is set to…</sub>
 </td>
 </tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/00-36-55_promise-lunar-surface-render-622x350.png" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/">NASA’s Moon Base plan gains a PROMISE</a></b>
-  <br>
-  <sub>Sun 8 Nov 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar…</sub>
-</td>
-</tr>
 </table>
 <!-- articles:end -->
 
@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Vulcan VC6L" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/header_vulcancentaur_forvulcanpage1.webp" alt="Vulcan VC6L" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7425">Amazon Leo (LV-01)</a></b>
   <br>
@@ -112,7 +112,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Starship-Super Heavy v3" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/HI-A7kbXEAEZyU.webp" alt="Starship-Super Heavy v3" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8403">Starship Flight 15</a></b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 12 Nov 2026 at 16:35 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 12 Nov 2026 at 17:49 UTC</sub></p>
 <!-- updated:end -->
