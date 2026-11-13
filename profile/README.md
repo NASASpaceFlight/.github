@@ -125,7 +125,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=9XM0lpVlvo0">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/">Preview</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=9XM0lpVlvo0">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 13 Nov 2026 at 04:35 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 13 Nov 2026 at 08:13 UTC</sub></p>
 <!-- updated:end -->
