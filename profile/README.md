@@ -56,7 +56,7 @@
 <!-- articles:start -->
 <table>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_0204-622x350.jpeg" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-13-00-40-44-236-484x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">ULA’s Vulcan set to return to flight with first Amazon Leo payload</a></b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 12 Nov 2026 at 18:12 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 13 Nov 2026 at 00:48 UTC</sub></p>
 <!-- updated:end -->
