@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Vulcan VC6L" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/7425">Amazon Leo (LV-01)</a></b>
-  <br>
-  <sub>United Launch Alliance &middot; Vulcan VC6L</sub>
-  <br>
-  <sub>SLC-41, Cape Canaveral SFS, Florida, USA</sub>
-  <br>
-  <sub><b>Fri 13 Nov 2026</b> &middot; 17:54 UTC &middot; window 17:54&ndash;18:23 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=qM5A1ZO9oh8">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Starship-Super Heavy v3" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8403">Starship Flight 15</a></b>
@@ -143,6 +126,23 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/7998">The Mountain God Rises</a></b>
+  <br>
+  <sub>Rocket Lab &middot; Electron/Curie</sub>
+  <br>
+  <sub>Rocket Lab LC-1A, Māhia Peninsula, New Zealand</sub>
+  <br>
+  <sub><b>Sat 14 Nov 2026</b> &middot; 05:30 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.youtube.com/watch?v=kyR8kZ2XlhQ">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 13 Nov 2026 at 08:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 13 Nov 2026 at 14:49 UTC</sub></p>
 <!-- updated:end -->
