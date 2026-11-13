@@ -120,14 +120,14 @@
   <br>
   <sub>Site 1S, Vostochny Cosmodrome, Russia</sub>
   <br>
-  <sub><b>Sat 14 Nov 2026</b> &middot; 00:50 UTC &middot; window 00:50&ndash;01:50 UTC</sub>
+  <sub><b>Sat 14 Nov 2026</b> &middot; 01:16 UTC &middot; window 00:50&ndash;01:50 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7998">The Mountain God Rises</a></b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 13 Nov 2026 at 14:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 13 Nov 2026 at 15:49 UTC</sub></p>
 <!-- updated:end -->
