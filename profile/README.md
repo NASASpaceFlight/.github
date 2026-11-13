@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-13-03-14-56-684-439x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/">Starship Flight 15 to attempt first catch of both stages</a></b>
+  <br>
+  <sub>Fri 13 Nov 2026 &middot; Ryan Weber</sub>
+  <br><br>
+  <sub>After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-13-00-40-44-236-484x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">ULA’s Vulcan set to return to flight with first Amazon Leo payload</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 11 Nov 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3-525x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week</a></b>
-  <br>
-  <sub>Mon 9 Nov 2026 &middot; Joe Kangas</sub>
-  <br><br>
-  <sub>Seven rockets from four countries are set to launch this week. Starship is set to…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 13 Nov 2026 at 00:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 13 Nov 2026 at 04:35 UTC</sub></p>
 <!-- updated:end -->
