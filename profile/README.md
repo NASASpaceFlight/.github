@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/7998">The Mountain God Rises</a></b>
-  <br>
-  <sub>Rocket Lab &middot; Electron/Curie</sub>
-  <br>
-  <sub>Rocket Lab LC-1A, Māhia Peninsula, New Zealand</sub>
-  <br>
-  <sub><b>Sat 14 Nov 2026</b> &middot; 05:30 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-2ea043?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=kyR8kZ2XlhQ">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Vulcan VC6L" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7425">Amazon Leo (LV-01)</a></b>
@@ -123,7 +106,7 @@
   <sub><b>Sat 14 Nov 2026</b> &middot; 17:32 UTC &middot; window 17:32&ndash;18:01 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-2ea043?style=flat-square" alt="Go" height="20">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.youtube.com/watch?v=qM5A1ZO9oh8">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">Preview</a></sub>
 </td>
@@ -140,9 +123,26 @@
   <sub><b>Wed 18 Nov 2026</b> &middot; 03:14 UTC &middot; window 03:14&ndash;07:14 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-2ea043?style=flat-square" alt="Go" height="20">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.spacex.com/launches/ussf317">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
+</td>
+</tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b>USSF-266</b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Wed 18 Nov 2026</b> &middot; 16:49 UTC &middot; window 16:49&ndash;20:49 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/ussf266">Watch</a></sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 14 Nov 2026 at 05:21 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 14 Nov 2026 at 05:35 UTC</sub></p>
 <!-- updated:end -->
