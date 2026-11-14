@@ -108,7 +108,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.youtube.com/watch?v=qM5A1ZO9oh8">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">Preview</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=zWHMFJII-sA">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 14 Nov 2026 at 14:08 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 14 Nov 2026 at 22:19 UTC</sub></p>
 <!-- updated:end -->
