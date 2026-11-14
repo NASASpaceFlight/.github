@@ -129,20 +129,18 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2D_1.webp" alt="Long March 2D" width="88"></td>
 <td valign="middle">
-  <b>USSF-266</b>
+  <b>Unknown Payload</b>
   <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 2D</sub>
   <br>
-  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <sub>LC-9, Taiyuan Satellite Launch Center, China</sub>
   <br>
-  <sub><b>Wed 18 Nov 2026</b> &middot; 16:49 UTC &middot; window 16:49&ndash;20:49 UTC</sub>
+  <sub><b>Wed 18 Nov 2026</b> &middot; 22:50 UTC &middot; window 22:43&ndash;23:05 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/ussf266">Watch</a></sub>
 </td>
 </tr>
 </table>
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 14 Nov 2026 at 05:35 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 14 Nov 2026 at 09:35 UTC</sub></p>
 <!-- updated:end -->
