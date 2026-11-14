@@ -106,7 +106,7 @@
   <sub><b>Sat 14 Nov 2026</b> &middot; 05:30 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <img src="https://img.shields.io/badge/Go-2ea043?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.youtube.com/watch?v=kyR8kZ2XlhQ">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
 </td>
@@ -123,7 +123,7 @@
   <sub><b>Sat 14 Nov 2026</b> &middot; 17:32 UTC &middot; window 17:32&ndash;18:01 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <img src="https://img.shields.io/badge/Go-2ea043?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.youtube.com/watch?v=qM5A1ZO9oh8">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">Preview</a></sub>
 </td>
@@ -140,7 +140,7 @@
   <sub><b>Wed 18 Nov 2026</b> &middot; 03:14 UTC &middot; window 03:14&ndash;07:14 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <img src="https://img.shields.io/badge/Go-2ea043?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.spacex.com/launches/ussf317">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/">Preview</a></sub>
 </td>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 14 Nov 2026 at 04:11 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 14 Nov 2026 at 05:21 UTC</sub></p>
 <!-- updated:end -->
