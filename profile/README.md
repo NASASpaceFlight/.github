@@ -103,7 +103,7 @@
   <br>
   <sub>SLC-41, Cape Canaveral SFS, Florida, USA</sub>
   <br>
-  <sub><b>Sun 15 Nov 2026</b> &middot; 17:11 UTC &middot; window 17:11&ndash;17:40 UTC</sub>
+  <sub><b>Sun 15 Nov 2026</b> &middot; 17:40 UTC &middot; window 17:11&ndash;17:40 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 15 Nov 2026 at 01:19 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 15 Nov 2026 at 17:19 UTC</sub></p>
 <!-- updated:end -->
