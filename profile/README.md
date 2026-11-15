@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Vulcan VC6L" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/7425">Amazon Leo (LV-01)</a></b>
-  <br>
-  <sub>United Launch Alliance &middot; Vulcan VC6L</sub>
-  <br>
-  <sub>SLC-41, Cape Canaveral SFS, Florida, USA</sub>
-  <br>
-  <sub><b>Sun 15 Nov 2026</b> &middot; 17:40 UTC &middot; window 17:11&ndash;17:40 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=zWHMFJII-sA">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8335">USSF-317</a></b>
@@ -143,6 +126,21 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/CZ-8A_SatNet_LEO-14.webp" alt="Long March 8A" width="88"></td>
+<td valign="middle">
+  <b>SatNet LEO Group TBD?</b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 8A</sub>
+  <br>
+  <sub>Commercial LC-1, Wenchang Space Launch Site, China</sub>
+  <br>
+  <sub><b>Fri 20 Nov 2026</b> &middot; 11:00 UTC &middot; window 11:00&ndash;14:00 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 15 Nov 2026 at 17:19 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 15 Nov 2026 at 17:48 UTC</sub></p>
 <!-- updated:end -->
