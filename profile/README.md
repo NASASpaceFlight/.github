@@ -66,13 +66,13 @@
 </td>
 </tr>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-13-00-40-44-236-484x350.jpg" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-15-18-43-43-638-517x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">ULA’s Vulcan returns to flight with first Amazon Leo payload</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload</a></b>
   <br>
   <sub>Thu 12 Nov 2026 &middot; Justin Davenport</sub>
   <br><br>
-  <sub>United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after being grounded since…</sub>
+  <sub>United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that…</sub>
 </td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 8A" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/CZ-8A_SatNet_LEO-14.webp" alt="Long March 8A" width="88"></td>
 <td valign="middle">
   <b>SatNet LEO Group TBD?</b>
   <br>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 15 Nov 2026 at 19:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 15 Nov 2026 at 20:09 UTC</sub></p>
 <!-- updated:end -->
