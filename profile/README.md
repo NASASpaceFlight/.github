@@ -68,11 +68,11 @@
 <tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-13-00-40-44-236-484x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">ULA’s Vulcan set to return to flight with first Amazon Leo payload</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">ULA’s Vulcan returns to flight with first Amazon Leo payload</a></b>
   <br>
   <sub>Thu 12 Nov 2026 &middot; Justin Davenport</sub>
   <br><br>
-  <sub>United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after…</sub>
+  <sub>United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after being grounded since…</sub>
 </td>
 </tr>
 <tr>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 15 Nov 2026 at 17:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 15 Nov 2026 at 18:11 UTC</sub></p>
 <!-- updated:end -->
