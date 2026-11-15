@@ -56,13 +56,13 @@
 <!-- articles:start -->
 <table>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-13-23-16-55-763-443x350.jpg" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-15-00-39-39-503-529x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/">Starship Flight 15: Ship 42 orbital, Booster diverts to ocean</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/">Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history</a></b>
   <br>
   <sub>Fri 13 Nov 2026 &middot; Ryan Weber</sub>
   <br><br>
-  <sub>After 14 full-stack flights, SpaceX was attempting something no one in spaceflight history has done:…</sub>
+  <sub>SpaceX has caught a Starship upper stage for the first time. After 22 and a…</sub>
 </td>
 </tr>
 <tr>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 14 Nov 2026 at 22:19 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 15 Nov 2026 at 01:19 UTC</sub></p>
 <!-- updated:end -->
