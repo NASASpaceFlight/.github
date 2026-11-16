@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions</a></b>
+  <br>
+  <sub>Mon 16 Nov 2026 &middot; John Sharp</sub>
+  <br><br>
+  <sub>Following a week of busy launch activity, the worldwide launch manifest is set to see…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-15-00-39-39-503-529x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/">Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history</a></b>
@@ -73,16 +83,6 @@
   <sub>Thu 12 Nov 2026 &middot; Justin Davenport</sub>
   <br><br>
   <sub>United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-11-03-33-24-435-513x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/">Isaacman lays out SLS path to the 2030s</a></b>
-  <br>
-  <sub>Wed 11 Nov 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System…</sub>
 </td>
 </tr>
 </table>
@@ -127,7 +127,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/CZ-8A_SatNet_LEO-14.webp" alt="Long March 8A" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 8A" width="88"></td>
 <td valign="middle">
   <b>SatNet LEO Group TBD?</b>
   <br>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 16 Nov 2026 at 21:35 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 16 Nov 2026 at 22:09 UTC</sub></p>
 <!-- updated:end -->
