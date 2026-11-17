@@ -127,7 +127,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 8A" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/CZ-8A_SatNet_LEO-14.webp" alt="Long March 8A" width="88"></td>
 <td valign="middle">
   <b>SatNet LEO Group TBD?</b>
   <br>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 17 Nov 2026 at 02:37 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 17 Nov 2026 at 03:12 UTC</sub></p>
 <!-- updated:end -->
