@@ -118,7 +118,7 @@
   <br>
   <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
   <br>
-  <sub><b>Thu 19 Nov 2026</b> &middot; 03:00 UTC &middot; window 03:00&ndash;07:00 UTC</sub>
+  <sub><b>Fri 20 Nov 2026</b> &middot; 02:46 UTC &middot; window 02:46&ndash;06:46 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 17 Nov 2026 at 12:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 17 Nov 2026 at 16:35 UTC</sub></p>
 <!-- updated:end -->
