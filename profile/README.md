@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/04020AD5-BE6D-4D2C-A1B6-15A4C73131D8-1-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/">Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission</a></b>
+  <br>
+  <sub>Tue 17 Nov 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 13 Nov 2026 &middot; Ryan Weber</sub>
   <br><br>
   <sub>SpaceX has caught a Starship upper stage for the first time. After 22 and a…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-15-18-43-43-638-517x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/">ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload</a></b>
-  <br>
-  <sub>Thu 12 Nov 2026 &middot; Justin Davenport</sub>
-  <br><br>
-  <sub>United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 17 Nov 2026 at 22:10 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 17 Nov 2026 at 22:35 UTC</sub></p>
 <!-- updated:end -->
