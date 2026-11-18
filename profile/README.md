@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2D_1.webp" alt="Long March 2D" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8467">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 2D</sub>
-  <br>
-  <sub>LC-9, Taiyuan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Wed 18 Nov 2026</b> &middot; 22:50 UTC &middot; window 22:43&ndash;23:05 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8335">USSF-317</a></b>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_6C.webp" alt="Long March 6C" width="88"></td>
+<td valign="middle">
+  <b>Unknown Payload</b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 6C</sub>
+  <br>
+  <sub>LC-9A, Taiyuan Satellite Launch Center, China</sub>
+  <br>
+  <sub><b>Sat 21 Nov 2026</b> &middot; 03:50 UTC &middot; window 03:46&ndash;04:15 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 18 Nov 2026 at 21:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 18 Nov 2026 at 23:35 UTC</sub></p>
 <!-- updated:end -->
