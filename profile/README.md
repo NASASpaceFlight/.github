@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2024/12/voyager-622x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/">Voyager 1 reaches one light-day nearly 50 years after launch</a></b>
+  <br>
+  <sub>Wed 18 Nov 2026 &middot; Joe Kangas</sub>
+  <br><br>
+  <sub>At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/04020AD5-BE6D-4D2C-A1B6-15A4C73131D8-1-525x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/">Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 16 Nov 2026 &middot; John Sharp</sub>
   <br><br>
   <sub>Following a week of busy launch activity, the worldwide launch manifest is set to see…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-15-00-39-39-503-529x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/">Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history</a></b>
-  <br>
-  <sub>Fri 13 Nov 2026 &middot; Ryan Weber</sub>
-  <br><br>
-  <sub>SpaceX has caught a Starship upper stage for the first time. After 22 and a…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 18 Nov 2026 at 20:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 18 Nov 2026 at 21:49 UTC</sub></p>
 <!-- updated:end -->
