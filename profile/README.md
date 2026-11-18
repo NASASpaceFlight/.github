@@ -137,7 +137,7 @@
   <br>
   <sub>Commercial LC-1, Wenchang Space Launch Site, China</sub>
   <br>
-  <sub><b>Fri 20 Nov 2026</b> &middot; 11:00 UTC &middot; window 11:00&ndash;14:00 UTC</sub>
+  <sub><b>Fri 20 Nov 2026</b> &middot; 11:59 UTC &middot; window 11:51&ndash;12:17 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 18 Nov 2026 at 02:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 18 Nov 2026 at 08:36 UTC</sub></p>
 <!-- updated:end -->
