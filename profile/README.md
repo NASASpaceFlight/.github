@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/relativity-update-1116/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_2841-527x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/relativity-update-1116/">Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch</a></b>
+  <br>
+  <sub>Thu 19 Nov 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2024/12/voyager-622x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/">Voyager 1 reaches one light-day nearly 50 years after launch</a></b>
@@ -73,16 +83,6 @@
   <sub>Tue 17 Nov 2026 &middot; Eleanor Day</sub>
   <br><br>
   <sub>Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966-525x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions</a></b>
-  <br>
-  <sub>Mon 16 Nov 2026 &middot; John Sharp</sub>
-  <br><br>
-  <sub>Following a week of busy launch activity, the worldwide launch manifest is set to see…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 19 Nov 2026 at 21:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 19 Nov 2026 at 22:09 UTC</sub></p>
 <!-- updated:end -->
