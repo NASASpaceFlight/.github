@@ -103,27 +103,12 @@
   <br>
   <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
   <br>
-  <sub><b>Sat 21 Nov 2026</b> &middot; 02:32 UTC &middot; window 02:32&ndash;06:32 UTC</sub>
+  <sub><b>Sat 21 Nov 2026</b> &middot; 04:20 UTC &middot; window 02:32&ndash;06:32 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.spacex.com/launches/ussf317">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
-</td>
-</tr>
-<tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_6C.webp" alt="Long March 6C" width="88"></td>
-<td valign="middle">
-  <b>Unknown Payload</b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 6C</sub>
-  <br>
-  <sub>LC-9A, Taiyuan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Sat 21 Nov 2026</b> &middot; 03:50 UTC &middot; window 03:46&ndash;04:15 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
 <tr>
@@ -143,6 +128,23 @@
   <sub><a href="https://www.spacex.com/launches/nrol136">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ariane 64" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/7394">Amazon Leo (LE-04)</a></b>
+  <br>
+  <sub>Arianespace &middot; Ariane 64</sub>
+  <br>
+  <sub>ELA-4, Guiana Space Centre, French Guiana, France</sub>
+  <br>
+  <sub><b>Mon 23 Nov 2026</b> &middot; 11:09 UTC &middot; window 11:09&ndash;11:38 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 20 Nov 2026 at 15:35 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 20 Nov 2026 at 17:08 UTC</sub></p>
 <!-- updated:end -->
