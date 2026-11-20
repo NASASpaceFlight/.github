@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-20-19-36-16-464-532x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/">Following Ship 42’s catch, SpaceX looks to the future</a></b>
+  <br>
+  <sub>Fri 20 Nov 2026 &middot; Ryan Weber</sub>
+  <br><br>
+  <sub>On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/relativity-update-1116/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_2841-527x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/relativity-update-1116/">Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 18 Nov 2026 &middot; Joe Kangas</sub>
   <br><br>
   <sub>At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/04020AD5-BE6D-4D2C-A1B6-15A4C73131D8-1-525x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/">Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission</a></b>
-  <br>
-  <sub>Tue 17 Nov 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 20 Nov 2026 at 19:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 20 Nov 2026 at 20:09 UTC</sub></p>
 <!-- updated:end -->
