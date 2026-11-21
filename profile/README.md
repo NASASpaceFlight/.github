@@ -129,7 +129,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Soyuz 2.1b" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
 <td valign="middle">
   <b>Progress MS-36</b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 21 Nov 2026 at 18:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 21 Nov 2026 at 19:49 UTC</sub></p>
 <!-- updated:end -->
