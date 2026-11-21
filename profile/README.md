@@ -97,23 +97,6 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
 <td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8335">USSF-317</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
-  <br>
-  <sub><b>Sat 21 Nov 2026</b> &middot; 04:20 UTC &middot; window 02:32&ndash;06:32 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/ussf317">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
-</td>
-</tr>
-<tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8468">NROL-136</a></b>
   <br>
   <sub>SpaceX &middot; Falcon 9 Block 5</sub>
@@ -145,6 +128,21 @@
   <sub><a href="https://www.youtube.com/watch?v=k2adMyxSoJE">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
+<td valign="middle">
+  <b>Progress MS-36</b>
+  <br>
+  <sub>Roscosmos &middot; Soyuz 2.1b</sub>
+  <br>
+  <sub>Site 31/6, Baikonur Cosmodrome, Kazakhstan</sub>
+  <br>
+  <sub><b>Tue 24 Nov 2026</b> &middot; 05:03 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sat 21 Nov 2026 at 04:12 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sat 21 Nov 2026 at 04:22 UTC</sub></p>
 <!-- updated:end -->
