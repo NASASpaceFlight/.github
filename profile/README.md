@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8468">NROL-136</a></b>
-  <br>
-  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
-  <br>
-  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
-  <br>
-  <sub><b>Sun 22 Nov 2026</b> &middot; 12:23 UTC &middot; window 12:16&ndash;12:46 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.spacex.com/launches/nrol136">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ariane 64" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7394">Amazon Leo (LE-04)</a></b>
@@ -143,6 +126,23 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/8337">USSF-266</a></b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
+  <br>
+  <sub><b>Tue 24 Nov 2026</b> &middot; 15:55 UTC &middot; window 15:55&ndash;19:55 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.spacex.com/launches/ussf266">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 22 Nov 2026 at 12:13 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 22 Nov 2026 at 12:26 UTC</sub></p>
 <!-- updated:end -->
