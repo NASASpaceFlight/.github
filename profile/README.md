@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ariane 64" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/P103078_HD.webp" alt="Ariane 64" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7394">Amazon Leo (LE-04)</a></b>
   <br>
@@ -112,7 +112,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Soyuz 2.1b" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
 <td valign="middle">
   <b>Progress MS-36</b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 22 Nov 2026 at 16:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 22 Nov 2026 at 17:34 UTC</sub></p>
 <!-- updated:end -->
