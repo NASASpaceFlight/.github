@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Mengzhou-and-Lanyue-docking-in-orbit-render-3-Hero-CCTV-581x350.png" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/">China details its path to a crewed Moon landing before 2030</a></b>
+  <br>
+  <sub>Sun 22 Nov 2026 &middot; Martin Smith</sub>
+  <br><br>
+  <sub>China has set out its most detailed roadmap yet for landing astronauts on the Moon…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-20-19-36-16-464-532x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/">Following Ship 42’s catch, SpaceX looks to the future</a></b>
@@ -75,16 +85,6 @@
   <sub>Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis…</sub>
 </td>
 </tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2024/12/voyager-622x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/">Voyager 1 reaches one light-day nearly 50 years after launch</a></b>
-  <br>
-  <sub>Wed 18 Nov 2026 &middot; Joe Kangas</sub>
-  <br><br>
-  <sub>At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26…</sub>
-</td>
-</tr>
 </table>
 <!-- articles:end -->
 
@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ariane 64" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/P103078_HD.webp" alt="Ariane 64" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7394">Amazon Leo (LE-04)</a></b>
   <br>
@@ -112,7 +112,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Soyuz 2.1b" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
 <td valign="middle">
   <b>Progress MS-36</b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 22 Nov 2026 at 21:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 22 Nov 2026 at 22:35 UTC</sub></p>
 <!-- updated:end -->
