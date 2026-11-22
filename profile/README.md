@@ -140,7 +140,7 @@
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
-  <sub><a href="https://www.spacex.com/launches/ussf266">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
+  <sub><a href="https://www.youtube.com/watch?v=0HG7obl5IAo">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Sun 22 Nov 2026 at 17:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Sun 22 Nov 2026 at 18:11 UTC</sub></p>
 <!-- updated:end -->
