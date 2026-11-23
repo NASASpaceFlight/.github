@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Soyuz 2.1b" width="88"></td>
 <td valign="middle">
   <b>Progress MS-36</b>
   <br>
@@ -127,7 +127,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 2F/G" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2FG_rocket.webp" alt="Long March 2F/G" width="88"></td>
 <td valign="middle">
   <b>Shenzhou 24</b>
   <br>
@@ -155,5 +155,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 23 Nov 2026 at 11:09 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 23 Nov 2026 at 11:35 UTC</sub></p>
 <!-- updated:end -->
