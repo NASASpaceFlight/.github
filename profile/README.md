@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490-525x350.png" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/">Progress MS-36 set to launch to ISS from Baikonur</a></b>
+  <br>
+  <sub>Mon 23 Nov 2026 &middot; Justin Davenport</sub>
+  <br><br>
+  <sub>The fourth and final Progress cargo ship resupply mission to the International Space Station of…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Mengzhou-and-Lanyue-docking-in-orbit-render-3-Hero-CCTV-581x350.png" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/">China details its path to a crewed Moon landing before 2030</a></b>
@@ -73,16 +83,6 @@
   <sub>Fri 20 Nov 2026 &middot; Ryan Weber</sub>
   <br><br>
   <sub>On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/relativity-update-1116/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_2841-527x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/relativity-update-1116/">Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch</a></b>
-  <br>
-  <sub>Thu 19 Nov 2026 &middot; Eleanor Day</sub>
-  <br><br>
-  <sub>Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis…</sub>
 </td>
 </tr>
 </table>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 23 Nov 2026 at 21:19 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 23 Nov 2026 at 21:35 UTC</sub></p>
 <!-- updated:end -->
