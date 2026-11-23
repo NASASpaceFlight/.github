@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Soyuz 2.1b" width="88"></td>
 <td valign="middle">
   <b>Progress MS-36</b>
   <br>
@@ -107,6 +107,23 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ariane 64" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/7394">Amazon Leo (LE-04)</a></b>
+  <br>
+  <sub>Arianespace &middot; Ariane 64</sub>
+  <br>
+  <sub>ELA-4, Guiana Space Centre, French Guiana, France</sub>
+  <br>
+  <sub><b>Tue 24 Nov 2026</b> &middot; 10:45 UTC &middot; window 10:45&ndash;11:14 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.youtube.com/watch?v=k2adMyxSoJE">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
 </td>
 </tr>
 <tr>
@@ -126,21 +143,6 @@
   <sub><a href="https://www.youtube.com/watch?v=0HG7obl5IAo">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
 </td>
 </tr>
-<tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 2F/G" width="88"></td>
-<td valign="middle">
-  <b>Shenzhou 24</b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 2F/G</sub>
-  <br>
-  <sub>Site 91 (SLS-1), Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Wed 25 Nov 2026</b> &middot; 00:18 UTC &middot; window 00:08&ndash;00:48 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-</td>
-</tr>
 </table>
 
 <p align="center">
@@ -155,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 23 Nov 2026 at 13:23 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 23 Nov 2026 at 13:35 UTC</sub></p>
 <!-- updated:end -->
