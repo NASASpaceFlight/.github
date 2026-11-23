@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-23-23-17-33-712-576x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/">Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits</a></b>
+  <br>
+  <sub>Mon 23 Nov 2026 &middot; Chris Bergin</sub>
+  <br><br>
+  <sub>Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490-525x350.png" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/">Progress MS-36 set to launch to ISS from Baikonur</a></b>
@@ -73,16 +83,6 @@
   <sub>Sun 22 Nov 2026 &middot; Martin Smith</sub>
   <br><br>
   <sub>China has set out its most detailed roadmap yet for landing astronauts on the Moon…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-20-19-36-16-464-532x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/">Following Ship 42’s catch, SpaceX looks to the future</a></b>
-  <br>
-  <sub>Fri 20 Nov 2026 &middot; Ryan Weber</sub>
-  <br><br>
-  <sub>On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from…</sub>
 </td>
 </tr>
 </table>
@@ -110,7 +110,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ariane 64" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/P103078_HD.webp" alt="Ariane 64" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7394">Amazon Leo (LE-04)</a></b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Mon 23 Nov 2026 at 23:19 UTC</sub></p>
+<p align="center"><sub>Last Updated: Mon 23 Nov 2026 at 23:35 UTC</sub></p>
 <!-- updated:end -->
