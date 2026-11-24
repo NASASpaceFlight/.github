@@ -110,7 +110,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ariane 64" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/P103078_HD.webp" alt="Ariane 64" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7394">Amazon Leo (LE-04)</a></b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 04:24 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 04:36 UTC</sub></p>
 <!-- updated:end -->
