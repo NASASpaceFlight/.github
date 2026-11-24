@@ -66,9 +66,9 @@
 </td>
 </tr>
 <tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490-525x350.png" alt="" width="200"></a></td>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1053-599x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/">Progress MS-36 set to launch to ISS from Baikonur</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/">Progress MS-36 launches to ISS from Baikonur</a></b>
   <br>
   <sub>Mon 23 Nov 2026 &middot; Justin Davenport</sub>
   <br><br>
@@ -106,7 +106,7 @@
   <sub><b>Tue 24 Nov 2026</b> &middot; 10:46 UTC &middot; window 10:45&ndash;11:14 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <img src="https://img.shields.io/badge/Hold-ff9900?style=flat-square" alt="Hold" height="20">
   <br>
   <sub><a href="https://www.youtube.com/watch?v=k2adMyxSoJE">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
 </td>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 10:36 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 10:49 UTC</sub></p>
 <!-- updated:end -->
