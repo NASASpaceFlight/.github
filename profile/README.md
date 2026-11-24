@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/soyuz_2.1b.webp" alt="Soyuz 2.1b" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Soyuz 2.1b" width="88"></td>
 <td valign="middle">
   <b>Progress MS-36</b>
   <br>
@@ -135,7 +135,7 @@
   <br>
   <sub>SLC-4E, Vandenberg SFB, California, USA</sub>
   <br>
-  <sub><b>Tue 24 Nov 2026</b> &middot; 15:55 UTC &middot; window 15:55&ndash;19:55 UTC</sub>
+  <sub><b>Tue 24 Nov 2026</b> &middot; 16:08 UTC &middot; window 15:55&ndash;19:55 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 02:36 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 02:49 UTC</sub></p>
 <!-- updated:end -->
