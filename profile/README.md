@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/P103078_HD.webp" alt="Ariane 64" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Ariane 64" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7394">Amazon Leo (LE-04)</a></b>
   <br>
@@ -103,7 +103,7 @@
   <br>
   <sub>ELA-4, Guiana Space Centre, French Guiana, France</sub>
   <br>
-  <sub><b>Tue 24 Nov 2026</b> &middot; 10:45 UTC &middot; window 10:45&ndash;11:14 UTC</sub>
+  <sub><b>Tue 24 Nov 2026</b> &middot; 10:46 UTC &middot; window 10:45&ndash;11:14 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
@@ -129,7 +129,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 2F/G" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2FG_rocket.webp" alt="Long March 2F/G" width="88"></td>
 <td valign="middle">
   <b>Shenzhou 24</b>
   <br>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 10:19 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 10:36 UTC</sub></p>
 <!-- updated:end -->
