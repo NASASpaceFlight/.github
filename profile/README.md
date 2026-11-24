@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/HXkRNVOXsAAjwYz-623x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/">BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch</a></b>
+  <br>
+  <sub>Tue 24 Nov 2026 &middot; Haygen Warren</sub>
+  <br><br>
+  <sub>At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/shenzhou-24/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Chang-Zheng-2FG-Y24-carrying-Shenzhou-24-spacecraft-arrives-at-the-launch-site-on-November-17-CMSA-574x350.webp" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/shenzhou-24/">Tiangong Space Station to welcome first international visitor</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 23 Nov 2026 &middot; Chris Bergin</sub>
   <br><br>
   <sub>Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1053-599x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/progress-ms-36/">Progress MS-36 launches to ISS from Baikonur</a></b>
-  <br>
-  <sub>Mon 23 Nov 2026 &middot; Justin Davenport</sub>
-  <br><br>
-  <sub>The fourth and final Progress cargo ship resupply mission to the International Space Station of…</sub>
 </td>
 </tr>
 </table>
@@ -153,5 +153,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 20:35 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 20:48 UTC</sub></p>
 <!-- updated:end -->
