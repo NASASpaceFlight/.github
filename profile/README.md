@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/shenzhou-24/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Chang-Zheng-2FG-Y24-carrying-Shenzhou-24-spacecraft-arrives-at-the-launch-site-on-November-17-CMSA-574x350.webp" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/shenzhou-24/">Tiangong Space Station to welcome first international visitor</a></b>
+  <br>
+  <sub>Tue 24 Nov 2026 &middot; Martin Smith</sub>
+  <br><br>
+  <sub>China is preparing to launch the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-23-23-17-33-712-576x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/">Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits</a></b>
@@ -73,16 +83,6 @@
   <sub>Mon 23 Nov 2026 &middot; Justin Davenport</sub>
   <br><br>
   <sub>The fourth and final Progress cargo ship resupply mission to the International Space Station of…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Mengzhou-and-Lanyue-docking-in-orbit-render-3-Hero-CCTV-581x350.png" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/">China details its path to a crewed Moon landing before 2030</a></b>
-  <br>
-  <sub>Sun 22 Nov 2026 &middot; Martin Smith</sub>
-  <br><br>
-  <sub>China has set out its most detailed roadmap yet for landing astronauts on the Moon…</sub>
 </td>
 </tr>
 </table>
@@ -153,5 +153,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 16:24 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 16:35 UTC</sub></p>
 <!-- updated:end -->
