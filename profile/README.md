@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2FG_rocket.webp" alt="Long March 2F/G" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 2F/G" width="88"></td>
 <td valign="middle">
   <b>Shenzhou 24</b>
   <br>
@@ -125,7 +125,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b>Night Owls Never Sleep</b>
   <br>
@@ -153,5 +153,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 21:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 22:19 UTC</sub></p>
 <!-- updated:end -->
