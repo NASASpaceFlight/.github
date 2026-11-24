@@ -103,10 +103,10 @@
   <br>
   <sub>ELA-4, Guiana Space Centre, French Guiana, France</sub>
   <br>
-  <sub><b>Tue 24 Nov 2026</b> &middot; 10:46 UTC &middot; window 10:45&ndash;11:14 UTC</sub>
+  <sub><b>Tue 24 Nov 2026</b> &middot; 11:14 UTC &middot; window 10:45&ndash;11:14 UTC</sub>
 </td>
 <td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Hold-ff9900?style=flat-square" alt="Hold" height="20">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
   <br>
   <sub><a href="https://www.youtube.com/watch?v=k2adMyxSoJE">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-111626/">Preview</a></sub>
 </td>
@@ -157,5 +157,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 10:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 11:10 UTC</sub></p>
 <!-- updated:end -->
