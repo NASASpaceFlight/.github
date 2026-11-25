@@ -97,7 +97,7 @@
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2D_1.webp" alt="Long March 2D" width="88"></td>
 <td valign="middle">
-  <b>Unknown Payload</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8474">Unknown Payload</a></b>
   <br>
   <sub>China Aerospace Science and Technology Corporation &middot; Long March 2D</sub>
   <br>
@@ -107,12 +107,14 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/">Preview</a></sub>
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
-  <b>Night Owls Never Sleep</b>
+  <b><a href="https://nextspaceflight.com/launches/details/7588">Night Owls Never Sleep</a></b>
   <br>
   <sub>Rocket Lab &middot; Electron/Curie</sub>
   <br>
@@ -122,12 +124,14 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/">Preview</a></sub>
 </td>
 </tr>
 <tr>
 <td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/CZ-6A_SatNet_LEO_Group_05.webp" alt="Long March 6A" width="88"></td>
 <td valign="middle">
-  <b>Unknown Payload</b>
+  <b><a href="https://nextspaceflight.com/launches/details/8475">Unknown Payload</a></b>
   <br>
   <sub>China Aerospace Science and Technology Corporation &middot; Long March 6A</sub>
   <br>
@@ -137,6 +141,8 @@
 </td>
 <td width="130" align="center" valign="middle">
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/">Preview</a></sub>
 </td>
 </tr>
 </table>
@@ -153,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 25 Nov 2026 at 05:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 25 Nov 2026 at 06:43 UTC</sub></p>
 <!-- updated:end -->
