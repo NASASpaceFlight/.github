@@ -78,7 +78,7 @@
 <tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/shenzhou-24/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Chang-Zheng-2FG-Y24-carrying-Shenzhou-24-spacecraft-arrives-at-the-launch-site-on-November-17-CMSA-574x350.webp" alt="" width="200"></a></td>
 <td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/shenzhou-24/">Tiangong Space Station to welcome first international visitor</a></b>
+  <b><a href="https://www.nasaspaceflight.com/2026/11/shenzhou-24/">Tiangong Space Station welcomes first international visitor</a></b>
   <br>
   <sub>Tue 24 Nov 2026 &middot; Martin Smith</sub>
   <br><br>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 25 Nov 2026 at 07:24 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 25 Nov 2026 at 07:49 UTC</sub></p>
 <!-- updated:end -->
