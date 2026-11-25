@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2FG_rocket.webp" alt="Long March 2F/G" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8429">Shenzhou 24</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 2F/G</sub>
-  <br>
-  <sub>Site 91 (SLS-1), Jiuquan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Wed 25 Nov 2026</b> &middot; 00:18 UTC &middot; window 00:08&ndash;00:48 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.youtube.com/watch?v=SeWm3kfVx20">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/shenzhou-24/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_2D_1.webp" alt="Long March 2D" width="88"></td>
 <td valign="middle">
   <b>Unknown Payload</b>
@@ -141,6 +124,21 @@
   <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/CZ-6A_SatNet_LEO_Group_05.webp" alt="Long March 6A" width="88"></td>
+<td valign="middle">
+  <b>Unknown Payload</b>
+  <br>
+  <sub>China Aerospace Science and Technology Corporation &middot; Long March 6A</sub>
+  <br>
+  <sub>LC-9A, Taiyuan Satellite Launch Center, China</sub>
+  <br>
+  <sub><b>Fri 27 Nov 2026</b> &middot; 13:00 UTC &middot; window 12:53&ndash;13:15 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -155,5 +153,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Tue 24 Nov 2026 at 22:49 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 25 Nov 2026 at 00:28 UTC</sub></p>
 <!-- updated:end -->
