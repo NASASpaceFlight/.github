@@ -118,7 +118,7 @@
   <br>
   <sub>Rocket Lab &middot; Electron/Curie</sub>
   <br>
-  <sub>Unknown Pad, Māhia Peninsula, New Zealand</sub>
+  <sub>Rocket Lab LC-1B, Māhia Peninsula, New Zealand</sub>
   <br>
   <sub><b>Fri 27 Nov 2026</b> &middot; 00:05 UTC</sub>
 </td>
@@ -129,7 +129,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Long March 6A" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/CZ-6A_SatNet_LEO_Group_05.webp" alt="Long March 6A" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8475">Unknown Payload</a></b>
   <br>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 25 Nov 2026 at 21:48 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 25 Nov 2026 at 22:10 UTC</sub></p>
 <!-- updated:end -->
