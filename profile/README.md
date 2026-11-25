@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/09/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot-566x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/">Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions</a></b>
+  <br>
+  <sub>Wed 25 Nov 2026 &middot; Joe Kangas</sub>
+  <br><br>
+  <sub>Ten rockets are set to launch over the next week, with three visiting two different…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/HXkRNVOXsAAjwYz-623x350.jpeg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/">BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch</a></b>
@@ -72,17 +82,7 @@
   <br>
   <sub>Tue 24 Nov 2026 &middot; Martin Smith</sub>
   <br><br>
-  <sub>China is preparing to launch the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-23-23-17-33-712-576x350.jpg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/">Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits</a></b>
-  <br>
-  <sub>Mon 23 Nov 2026 &middot; Chris Bergin</sub>
-  <br><br>
-  <sub>Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending…</sub>
+  <sub>China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The…</sub>
 </td>
 </tr>
 </table>
@@ -110,7 +110,7 @@
 </td>
 </tr>
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b>Night Owls Never Sleep</b>
   <br>
@@ -153,5 +153,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Wed 25 Nov 2026 at 01:11 UTC</sub></p>
+<p align="center"><sub>Last Updated: Wed 25 Nov 2026 at 01:21 UTC</sub></p>
 <!-- updated:end -->
