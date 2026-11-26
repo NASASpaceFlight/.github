@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-26-22-31-56-812-626x350.jpg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/">FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040</a></b>
+  <br>
+  <sub>Thu 26 Nov 2026 &middot; Ryan Caton and Chris Bergin</sub>
+  <br><br>
+  <sub>The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2025/09/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot-566x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/">Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions</a></b>
@@ -75,16 +85,6 @@
   <sub>At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese…</sub>
 </td>
 </tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/shenzhou-24/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Chang-Zheng-2FG-Y24-carrying-Shenzhou-24-spacecraft-arrives-at-the-launch-site-on-November-17-CMSA-574x350.webp" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/shenzhou-24/">Tiangong Space Station welcomes first international visitor</a></b>
-  <br>
-  <sub>Tue 24 Nov 2026 &middot; Martin Smith</sub>
-  <br><br>
-  <sub>China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The…</sub>
-</td>
-</tr>
 </table>
 <!-- articles:end -->
 
@@ -95,7 +95,7 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Electron/Curie" width="88"></td>
+<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/55131470023_afc60f2678_o.webp" alt="Electron/Curie" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/7588">Night Owls Never Sleep</a></b>
   <br>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Thu 26 Nov 2026 at 22:35 UTC</sub></p>
+<p align="center"><sub>Last Updated: Thu 26 Nov 2026 at 22:48 UTC</sub></p>
 <!-- updated:end -->
