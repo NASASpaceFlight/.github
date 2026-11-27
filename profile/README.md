@@ -56,6 +56,16 @@
 <!-- articles:start -->
 <table>
 <tr>
+<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/23529451-6CE1-4D52-97E8-7B3632FF058C-525x350.jpeg" alt="" width="200"></a></td>
+<td valign="middle">
+  <b><a href="https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/">Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut</a></b>
+  <br>
+  <sub>Fri 27 Nov 2026 &middot; Eleanor Day</sub>
+  <br><br>
+  <sub>Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival…</sub>
+</td>
+</tr>
+<tr>
 <td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-26-22-31-56-812-626x350.jpg" alt="" width="200"></a></td>
 <td valign="middle">
   <b><a href="https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/">FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040</a></b>
@@ -73,16 +83,6 @@
   <sub>Wed 25 Nov 2026 &middot; Joe Kangas</sub>
   <br><br>
   <sub>Ten rockets are set to launch over the next week, with three visiting two different…</sub>
-</td>
-</tr>
-<tr>
-<td width="220" align="center" valign="middle"><a href="https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/"><img src="https://www.nasaspaceflight.com/wp-content/uploads/2026/11/HXkRNVOXsAAjwYz-623x350.jpeg" alt="" width="200"></a></td>
-<td valign="middle">
-  <b><a href="https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/">BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch</a></b>
-  <br>
-  <sub>Tue 24 Nov 2026 &middot; Haygen Warren</sub>
-  <br><br>
-  <sub>At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese…</sub>
 </td>
 </tr>
 </table>
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 27 Nov 2026 at 00:27 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 27 Nov 2026 at 15:09 UTC</sub></p>
 <!-- updated:end -->
