@@ -95,23 +95,6 @@
 <!-- launches:start -->
 <table align="center">
 <tr>
-<td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/CZ-6A_SatNet_LEO_Group_05.webp" alt="Long March 6A" width="88"></td>
-<td valign="middle">
-  <b><a href="https://nextspaceflight.com/launches/details/8475">Unknown Payload</a></b>
-  <br>
-  <sub>China Aerospace Science and Technology Corporation &middot; Long March 6A</sub>
-  <br>
-  <sub>LC-9A, Taiyuan Satellite Launch Center, China</sub>
-  <br>
-  <sub><b>Fri 27 Nov 2026</b> &middot; 13:00 UTC &middot; window 12:53&ndash;13:15 UTC</sub>
-</td>
-<td width="130" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
-  <br>
-  <sub><a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/">Preview</a></sub>
-</td>
-</tr>
-<tr>
 <td width="110" align="center" valign="middle"><img src="https://media.nextspaceflight.com/media/rockets/Long_March_6C.webp" alt="Long March 6C" width="88"></td>
 <td valign="middle">
   <b><a href="https://nextspaceflight.com/launches/details/8469">Unknown Payload</a></b>
@@ -145,6 +128,23 @@
   <sub><a href="https://www.youtube.com/watch?v=CLULlErcxF4">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/">Preview</a></sub>
 </td>
 </tr>
+<tr>
+<td width="110" align="center" valign="middle"><img src="https://raw.githubusercontent.com/NASASpaceflight/.github/main/assets/nxf_default.jpg" alt="Falcon 9 Block 5" width="88"></td>
+<td valign="middle">
+  <b><a href="https://nextspaceflight.com/launches/details/7076">CRS NG-25</a></b>
+  <br>
+  <sub>SpaceX &middot; Falcon 9 Block 5</sub>
+  <br>
+  <sub>SLC-40, Cape Canaveral SFS, Florida, USA</sub>
+  <br>
+  <sub><b>Sun 29 Nov 2026</b> &middot; 15:47 UTC</sub>
+</td>
+<td width="130" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/Go-7ed47e?style=flat-square" alt="Go" height="20">
+  <br>
+  <sub><a href="https://www.youtube.com/watch?v=wp27QzrSj1s">Watch</a> &middot; <a href="https://www.nasaspaceflight.com/2026/11/launch-preview-112426/">Preview</a></sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -159,5 +159,5 @@
 <br>
 
 <!-- updated:start -->
-<p align="center"><sub>Last Updated: Fri 27 Nov 2026 at 15:09 UTC</sub></p>
+<p align="center"><sub>Last Updated: Fri 27 Nov 2026 at 17:49 UTC</sub></p>
 <!-- updated:end -->
